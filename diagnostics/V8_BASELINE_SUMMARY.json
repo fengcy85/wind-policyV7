@@ -1,0 +1,39 @@
+{
+  "baseline_date": "2026-10-19",
+  "sources": 118,
+  "statuses": {
+    "ok_no_recent": 18,
+    "partial_coverage": 32,
+    "needs_adapter": 9,
+    "ok_with_results": 7,
+    "blocked": 16,
+    "timeout": 5,
+    "connection_error": 31
+  },
+  "partial32_found_gt_zero": 6,
+  "partial32_found_count_total": 11,
+  "newly_corrected_primary_urls": [
+    {
+      "来源名称": "中央国务院及各部委",
+      "10月19日旧入口": "https://sousuo.www.gov.cn/zcwjk/policyRetrieval",
+      "本版官方/公开入口": "https://www.gov.cn/zhengce/zhengceku/bmwj/home.htm"
+    },
+    {
+      "来源名称": "山东省人民政府",
+      "10月19日旧入口": "http://www.shandong.gov.cn/col/col320658/index.html",
+      "本版官方/公开入口": "https://gb.shandong.gov.cn/col/col314852/index.html"
+    },
+    {
+      "来源名称": "广东省能源局",
+      "10月19日旧入口": "https://drc.gd.gov.cn/gdsnyj/gkmlpt/policy",
+      "本版官方/公开入口": "https://drc.gd.gov.cn/snyj/tzgg/index.html"
+    },
+    {
+      "来源名称": "中国能源报·中国能源网",
+      "10月19日旧入口": "https://www.cnenergynews.cn/",
+      "本版官方/公开入口": "https://www.cnenergynews.cn/search"
+    }
+  ],
+  "network_confirmation": "旧日志真实网络失败。未在本交付环境复现出有效官方HTTP响应，境内Mac可选网络比对",
+  "warning": "旧日志发现数与此处zip内历史政策记录不能等同当前GitHub真实已保存数据；新的GitHub工作流会采集before/after政策入库对照。"
+}

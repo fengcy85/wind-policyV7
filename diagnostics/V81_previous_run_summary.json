@@ -1,0 +1,24 @@
+{
+  "baseline_run": "2026-10-19 GitHub Actions from uploaded logs (V8 before this change)",
+  "all_domestic_sources": 118,
+  "source_status_counts": {
+    "ok_no_recent": 38,
+    "ok_with_results": 13,
+    "partial_coverage": 12,
+    "blocked": 16,
+    "timeout": 5,
+    "connection_error": 33,
+    "needs_adapter": 1
+  },
+  "code_changed_routes": [
+    "cn_09b62684b798",
+    "cn_09b66c7ebd13",
+    "cn_17bffa52408e",
+    "cn_5dc355c1a7a8",
+    "cn_687800e62fca",
+    "cn_a85889da2306",
+    "cn_c6f9b3f56fe8",
+    "cn_e8b37b376677"
+  ],
+  "fact": "Previous run statistics are evidence of previous failures; they do NOT validate the V8.1 fixes."
+}

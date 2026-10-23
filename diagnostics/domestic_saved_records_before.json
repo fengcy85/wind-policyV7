@@ -1,0 +1,11 @@
+{
+  "audit_label": "before",
+  "scanned_domestic_source_count": 118,
+  "source_count_with_stored_records": 23,
+  "all_stored_records": 60,
+  "last_30d_records": 52,
+  "full_text_evidence_records": 57,
+  "media_lead_records": 2,
+  "date_coverage_required": false,
+  "warning": "本报告仅清点当前仓库已经保存的政策与证据；不证明每个官方渠道连通或文件完整覆盖。"
+}

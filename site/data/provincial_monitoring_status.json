@@ -1,0 +1,1107 @@
+{
+  "generated_at": "2026-10-19T09:51:25.231586+00:00",
+  "warning": "国内不强制证明整段时间覆盖；已发现政策和正常目录读取才是采集结果，媒体线索不是官方法规，仍需留意漏抓风险",
+  "province_count": 31,
+  "provinces": [
+    {
+      "province": "北京",
+      "official_source_ids": [
+        "cn_24e54ba38a1a",
+        "cn_1003b870a030",
+        "cn_8101686d3883",
+        "cn_ad5b4fd78be8"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 4,
+      "live_verified": false,
+      "status": "official_policy_discovered",
+      "official_sources_scanned": 4,
+      "official_sources_with_saved_history": 4,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 4,
+      "successful_source_feeds": 4,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 16,
+      "media_clues": 0,
+      "issues": []
+    },
+    {
+      "province": "天津",
+      "official_source_ids": [
+        "cn_17bffa52408e",
+        "cn_5dc355c1a7a8",
+        "cn_bcae52a0ff64"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "media_clues_only",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 1,
+      "successful_source_feeds": 1,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 1,
+      "issues": [
+        {
+          "name": "天津发展和改革委员会",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 403：访问被拒绝；需核查执行地及官方访问条件；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "天津工业和信息化局",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 403：访问被拒绝；需核查执行地及官方访问条件；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "河北",
+      "official_source_ids": [
+        "cn_bcbd7c678a4f",
+        "cn_9218a245fb7e"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 2,
+      "live_verified": false,
+      "status": "media_clues_only",
+      "official_sources_scanned": 2,
+      "official_sources_with_saved_history": 2,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 0,
+      "successful_source_feeds": 0,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 1,
+      "issues": [
+        {
+          "name": "河北省发展和改革委员会",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "河北省人民政府",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "山西",
+      "official_source_ids": [
+        "cn_05f1f10b143f",
+        "cn_0cedc4affbe8",
+        "cn_72b1e5bf6cc8",
+        "cn_f967a158ac3f"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 4,
+      "live_verified": false,
+      "status": "pending_or_blocked",
+      "official_sources_scanned": 4,
+      "official_sources_with_saved_history": 4,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 0,
+      "successful_source_feeds": 0,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "山西省发改委",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "山西省能源局",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "山西省人民政府",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "山西省工信厅",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "内蒙古",
+      "official_source_ids": [
+        "cn_c6f9b3f56fe8",
+        "cn_eb58eb83050f",
+        "cn_f1e4c09a897d",
+        "cn_09b66c7ebd13"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 4,
+      "live_verified": false,
+      "status": "official_policy_discovered",
+      "official_sources_scanned": 4,
+      "official_sources_with_saved_history": 4,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 2,
+      "successful_source_feeds": 2,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 4,
+      "media_clues": 0,
+      "issues": []
+    },
+    {
+      "province": "辽宁",
+      "official_source_ids": [
+        "cn_c9be69562225",
+        "cn_4b359756b91a",
+        "cn_687800e62fca",
+        "cn_e8b37b376677"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 4,
+      "live_verified": false,
+      "status": "official_policy_discovered",
+      "official_sources_scanned": 4,
+      "official_sources_with_saved_history": 4,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 2,
+      "successful_source_feeds": 2,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 7,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "辽宁省人民政府",
+          "status": "needs_adapter",
+          "reason": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：142行、动态分页/日期排序不完整"
+        },
+        {
+          "name": "辽宁省政府｜辽政办发",
+          "status": "needs_adapter",
+          "reason": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：142行、动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "吉林",
+      "official_source_ids": [
+        "cn_3c9957b26c3c",
+        "cn_d6be9d4b18a8",
+        "cn_573ba3b6d161",
+        "cn_fcdd8a95a7df"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 4,
+      "live_verified": false,
+      "status": "official_listing_readable",
+      "official_sources_scanned": 4,
+      "official_sources_with_saved_history": 4,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 1,
+      "successful_source_feeds": 1,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "吉林省发改委",
+          "status": "needs_adapter",
+          "reason": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：3行"
+        },
+        {
+          "name": "吉林省能源局｜通知公告及能源政策",
+          "status": "needs_adapter",
+          "reason": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：16行"
+        },
+        {
+          "name": "吉林省人民政府",
+          "status": "needs_adapter",
+          "reason": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：3行"
+        }
+      ]
+    },
+    {
+      "province": "黑龙江",
+      "official_source_ids": [
+        "cn_e3337f219cd6",
+        "cn_be6b37d7a3a0",
+        "cn_d9b99a25cf12"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "official_listing_readable",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 3,
+      "successful_source_feeds": 3,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": []
+    },
+    {
+      "province": "上海",
+      "official_source_ids": [
+        "cn_27e871c7b989",
+        "cn_a70a2ad659af",
+        "cn_c3d9397ca287"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "official_policy_discovered",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 3,
+      "successful_source_feeds": 3,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 1,
+      "media_clues": 0,
+      "issues": []
+    },
+    {
+      "province": "江苏",
+      "official_source_ids": [
+        "cn_642f1102f38a",
+        "cn_96f475fd98fa",
+        "cn_c37e9b9f7acf"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "official_listing_readable",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 3,
+      "successful_source_feeds": 3,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": []
+    },
+    {
+      "province": "浙江",
+      "official_source_ids": [
+        "cn_271bc860137c",
+        "cn_a85889da2306",
+        "cn_c89dbe504b64",
+        "cn_826688a2babc"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 4,
+      "live_verified": false,
+      "status": "official_policy_discovered",
+      "official_sources_scanned": 4,
+      "official_sources_with_saved_history": 4,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 1,
+      "successful_source_feeds": 1,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 1,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "浙江省发改委/能源局｜通知公告",
+          "status": "timeout",
+          "reason": "官方来源请求超时；有限重试后保留状态，待跨网络复核；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "浙江省发改委/能源局｜本机关其他政策文件",
+          "status": "timeout",
+          "reason": "官方来源请求超时；有限重试后保留状态，待跨网络复核；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "浙江省政府及部门文件",
+          "status": "timeout",
+          "reason": "官方来源请求超时；有限重试后保留状态，待跨网络复核；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "安徽",
+      "official_source_ids": [
+        "cn_23a1b77623a0",
+        "cn_a5db7e800aa9",
+        "cn_bc2b5fe1372b"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "pending_or_blocked",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 0,
+      "successful_source_feeds": 0,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "安徽省发改委",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 403：访问被拒绝；需核查执行地及官方访问条件；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "安徽省工信厅",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 403：访问被拒绝；需核查执行地及官方访问条件；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "安徽省人民政府",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 403：访问被拒绝；需核查执行地及官方访问条件；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "福建",
+      "official_source_ids": [
+        "cn_b85a8fe9fba8",
+        "cn_18e109d08abf",
+        "cn_b2148d5e1247"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "official_policy_discovered",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 3,
+      "successful_source_feeds": 3,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 5,
+      "media_clues": 0,
+      "issues": []
+    },
+    {
+      "province": "江西",
+      "official_source_ids": [
+        "cn_257f0497a96d",
+        "cn_8d7abc70b68b",
+        "cn_d05bd105b38d"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "pending_or_blocked",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 0,
+      "successful_source_feeds": 0,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "江西省发改委",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "江西省人民政府",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "江西省工信厅",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "山东",
+      "official_source_ids": [
+        "cn_124239bfeb82",
+        "cn_ec953fefe292",
+        "cn_64d94992d798",
+        "cn_fdb9ab86c4a9"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 4,
+      "live_verified": false,
+      "status": "official_policy_discovered",
+      "official_sources_scanned": 4,
+      "official_sources_with_saved_history": 4,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 1,
+      "successful_source_feeds": 0,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 1,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "山东省发改委",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "山东省工信厅",
+          "status": "needs_adapter",
+          "reason": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：1行"
+        },
+        {
+          "name": "山东省人民政府",
+          "status": "connection_error",
+          "reason": "TLS 握手失败；待境内外执行端比对；提醒：山东规范性文件平台的目录字段为发文日期；详情发布日期必须另行核对、动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "河南",
+      "official_source_ids": [
+        "cn_ca01ba1d0ac7",
+        "cn_c38c37a7f95a",
+        "cn_d503c07b0951"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "pending_or_blocked",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 0,
+      "successful_source_feeds": 0,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "河南省发改委",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 403：访问被拒绝；需核查执行地及官方访问条件；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "河南省人民政府",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 403：访问被拒绝；需核查执行地及官方访问条件；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "河南省工信厅",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 403：访问被拒绝；需核查执行地及官方访问条件；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "湖北",
+      "official_source_ids": [
+        "cn_68fbb3ebe6ee",
+        "cn_6677a056500c",
+        "cn_7953653226d0"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "official_policy_discovered",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 1,
+      "successful_source_feeds": 1,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 2,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "湖北省发改委",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 412：请求前置条件不满足；不自动绕过；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "湖北省人民政府",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 412：请求前置条件不满足；不自动绕过；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "湖南",
+      "official_source_ids": [
+        "cn_64dc11b10278",
+        "cn_13b15007a2b0",
+        "cn_3fb2a96af337"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "pending_or_blocked",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 0,
+      "successful_source_feeds": 0,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "湖南省发改委",
+          "status": "connection_error",
+          "reason": "TLS 握手失败；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "湖南省工信厅",
+          "status": "connection_error",
+          "reason": "TLS 握手失败；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "湖南省人民政府",
+          "status": "connection_error",
+          "reason": "TLS 握手失败；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "广东",
+      "official_source_ids": [
+        "cn_35210b5ce137",
+        "cn_7239ba11c55b",
+        "cn_236457835be8",
+        "cn_5dab18c54fb9",
+        "cn_a05a053fbf35",
+        "cn_e290654fb72d"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 6,
+      "live_verified": false,
+      "status": "official_policy_discovered",
+      "official_sources_scanned": 6,
+      "official_sources_with_saved_history": 6,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 6,
+      "successful_source_feeds": 6,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 12,
+      "media_clues": 0,
+      "issues": []
+    },
+    {
+      "province": "广西",
+      "official_source_ids": [
+        "cn_d8311f7de6e6",
+        "cn_55a439b16478",
+        "cn_79acd9237aeb"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "pending_or_blocked",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 0,
+      "successful_source_feeds": 0,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "广西省发改委",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "广西省工信厅",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "广西壮族自治区人民政府｜最新文件",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "海南",
+      "official_source_ids": [
+        "cn_cf5880769bc6",
+        "cn_9cee9310b605",
+        "cn_ef2bc5e95df5"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "pending_or_blocked",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 0,
+      "successful_source_feeds": 0,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "海南省发改委",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "海南省人民政府",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "海南省工信厅",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "重庆",
+      "official_source_ids": [
+        "cn_dc94216cbc6d",
+        "cn_43f3081a512a",
+        "cn_67c4991ac3e9"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "pending_or_blocked",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 0,
+      "successful_source_feeds": 0,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "重庆市发改委",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "重庆市经信委",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "重庆市人民政府",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "四川",
+      "official_source_ids": [
+        "cn_b922a2143a80",
+        "cn_1abbceed2047",
+        "cn_3973d84e5084"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "pending_or_blocked",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 0,
+      "successful_source_feeds": 0,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "四川省发改委",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "四川省人民政府",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "四川省经信厅",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "贵州",
+      "official_source_ids": [
+        "cn_61f329f622c8",
+        "cn_8a2870d6b4f1",
+        "cn_2f5ca615b97d",
+        "cn_8f9dbeeebd54",
+        "cn_a51c943c9543"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 5,
+      "live_verified": false,
+      "status": "official_policy_discovered",
+      "official_sources_scanned": 5,
+      "official_sources_with_saved_history": 5,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 1,
+      "successful_source_feeds": 1,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 6,
+      "media_clues": 0,
+      "issues": []
+    },
+    {
+      "province": "云南",
+      "official_source_ids": [
+        "cn_44bc1881857e",
+        "cn_ec89e3d97259",
+        "cn_f4e44b3462eb"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "official_listing_readable",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 1,
+      "successful_source_feeds": 1,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "云南省发改委",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "云南省人民政府",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 403：访问被拒绝；需核查执行地及官方访问条件；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "西藏",
+      "official_source_ids": [
+        "cn_3a9624d397b1",
+        "cn_17594557097c",
+        "cn_7beeafa4d326"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "official_listing_readable",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 1,
+      "successful_source_feeds": 1,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "西藏经信厅",
+          "status": "timeout",
+          "reason": "官方来源请求超时；有限重试后保留状态，待跨网络复核；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "西藏人民政府",
+          "status": "needs_adapter",
+          "reason": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：12行"
+        }
+      ]
+    },
+    {
+      "province": "陕西",
+      "official_source_ids": [
+        "cn_42ed5bf25d5d",
+        "cn_878d16ddc7e6",
+        "cn_969ad9ff831b"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "pending_or_blocked",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 0,
+      "successful_source_feeds": 0,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "陕西省发改委",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "陕西省工信厅",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "陕西省人民政府",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "甘肃",
+      "official_source_ids": [
+        "cn_98fa85780368",
+        "cn_6088d4f495dd",
+        "cn_884a06211f11"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "pending_or_blocked",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 0,
+      "successful_source_feeds": 0,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "甘肃省发改委",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 412：请求前置条件不满足；不自动绕过；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "甘肃省人民政府",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 412：请求前置条件不满足；不自动绕过；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "甘肃省工信厅",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "青海",
+      "official_source_ids": [
+        "cn_2988b09ee88b",
+        "cn_5cc7c12757b9",
+        "cn_b8b647e382c3"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "official_policy_discovered",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 1,
+      "successful_source_feeds": 1,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 1,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "青海省发改委",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "青海省工信厅",
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        }
+      ]
+    },
+    {
+      "province": "宁夏",
+      "official_source_ids": [
+        "cn_44abb54d7339",
+        "cn_354fb314969b",
+        "cn_7c77b32d80d0"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 3,
+      "live_verified": false,
+      "status": "official_policy_discovered",
+      "official_sources_scanned": 3,
+      "official_sources_with_saved_history": 3,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 3,
+      "successful_source_feeds": 3,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 3,
+      "media_clues": 0,
+      "issues": []
+    },
+    {
+      "province": "新疆",
+      "official_source_ids": [
+        "cn_e4c52c960d02",
+        "cn_2b0fcb94d833",
+        "cn_385aa60c445a",
+        "cn_cbab808cd2a0",
+        "cn_f772ee3b1cc5"
+      ],
+      "media_source_ids": [
+        "cn_5555c1d4376e"
+      ],
+      "monitoring_contract": "官方目录+风电政策媒体线索；媒体不能作为法规原文",
+      "contract_configured": true,
+      "source_count": 5,
+      "live_verified": false,
+      "status": "official_listing_readable",
+      "official_sources_scanned": 5,
+      "official_sources_with_saved_history": 5,
+      "verified_official_catalogues": 0,
+      "readable_official_catalogues": 4,
+      "successful_source_feeds": 4,
+      "domestic_date_coverage_required": false,
+      "official_policy_records": 0,
+      "media_clues": 0,
+      "issues": [
+        {
+          "name": "新疆人民政府",
+          "status": "needs_adapter",
+          "reason": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：3行"
+        }
+      ]
+    }
+  ]
+}

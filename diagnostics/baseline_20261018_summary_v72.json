@@ -1,0 +1,24 @@
+{
+  "baseline": "logs_105955481932.zip",
+  "run_utc": "2026-10-18",
+  "all_sources": 139,
+  "domestic": 118,
+  "foreign": 21,
+  "domestic_status_counts": {
+    "ok_no_recent": 15,
+    "ok_with_results": 8,
+    "partial_coverage": 27,
+    "needs_adapter": 13,
+    "blocked": 15,
+    "timeout": 5,
+    "connection_error": 35
+  },
+  "protected_v71_previous_count": 7,
+  "v72_added_profiles_count": 17,
+  "v72_repaired_previous_need_adapter_count": 9,
+  "v72_repaired_previous_partial_count": 8,
+  "foreign_parsers_modified": false,
+  "frontend_modified": false,
+  "v72_live_http_acceptance": false,
+  "note": "所有状态取自用户提供的V7.1前旧日志。本次配置、路径、日期的离线测试不等于实际网络抓取成功。"
+}

@@ -1,0 +1,927 @@
+{
+  "cn_0cedc4affbe8": {
+    "source_id": "cn_0cedc4affbe8",
+    "province": "山西",
+    "original_url": "https://nyj.shanxi.gov.cn/zfxxgk/fdzdgknr/sjwj/fdzdgknr_11759.html",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": true,
+    "recovery_channels": [],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_bcbd7c678a4f": {
+    "source_id": "cn_bcbd7c678a4f",
+    "province": "河北",
+    "original_url": "https://hbdrc.hebei.gov.cn/jhlm/jhzcfg/index.html",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://sft.hebei.gov.cn/fzgz/fzdcyhfxsc/index.shtml",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "sft.hebei.gov.cn",
+        "reason": "2026 registry notices - official justice bureau"
+      },
+      {
+        "url": "https://gxt.hebei.gov.cn/eportal/ui?currentPage=7&moduleId=8743fba2c8f24144ba37476a9fb50178&pageId=622117",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "gxt.hebei.gov.cn",
+        "reason": "industrial provincial policy listing"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_64dc11b10278": {
+    "source_id": "cn_64dc11b10278",
+    "province": "湖南",
+    "original_url": "https://www.hunan.gov.cn/hnszf/xxgk/wjk/szbm/szfzcbm_19689/sfzhggwyh_19690/gfxwj_19691/index.html",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://fgw.hunan.gov.cn/xxgk_70899/tzgg/index.html",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "fgw.hunan.gov.cn",
+        "reason": "official Hunan DRC dated notices; dynamic index may need public browser render",
+        "render_when_empty": true
+      },
+      {
+        "url": "https://www.hunan.gov.cn/hnszf/xxgk/wjk/szfwj/",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.hunan.gov.cn",
+        "reason": "verified Hunan government documents table with dates and status"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_05f1f10b143f": {
+    "source_id": "cn_05f1f10b143f",
+    "province": "山西",
+    "original_url": "https://fgw.shanxi.gov.cn/sxfgwzwgk/sxsfgwxxgk/xxgkml/zfxxgkxgwj/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://sxszfzgzb.shanxi.gov.cn/zshz/tzzc/",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "sxszfzgzb.shanxi.gov.cn",
+        "reason": "provincial government office syndicated investment policies"
+      },
+      {
+        "url": "https://www.shanxi.gov.cn/zcwjk/swwj/",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.shanxi.gov.cn",
+        "reason": "provincial government file catalogue"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_257f0497a96d": {
+    "source_id": "cn_257f0497a96d",
+    "province": "江西",
+    "original_url": "https://drc.jiangxi.gov.cn/jxsfzhggwyh/col/col4990/index.html",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://www.jiangxi.gov.cn/jxsrmzf/szfwj/pc/list.html",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.jiangxi.gov.cn",
+        "reason": "provincial government files"
+      },
+      {
+        "url": "https://gxt.jiangxi.gov.cn/jxsgyhxxht/zcwj/index.html",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "gxt.jiangxi.gov.cn",
+        "reason": "industry department policies"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_ec953fefe292": {
+    "source_id": "cn_ec953fefe292",
+    "province": "山东",
+    "original_url": "http://fgw.shandong.gov.cn/col/col333896/index.html",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "http://www.shandong.gov.cn/col/col320658/index.html",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.shandong.gov.cn",
+        "reason": "provincial government policies"
+      },
+      {
+        "url": "http://gxt.shandong.gov.cn/col/col103862/index.html?number=SD020203",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "gxt.shandong.gov.cn",
+        "reason": "industry ministry documents"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_d8311f7de6e6": {
+    "source_id": "cn_d8311f7de6e6",
+    "province": "广西",
+    "original_url": "http://fgw.gxzf.gov.cn/zfxxgkzl/wjzx/zyzc/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://dnr.gxzf.gov.cn/zfxxgk/fdzdgknr/ygzd/jsydpfwj/",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "dnr.gxzf.gov.cn",
+        "reason": "wind project land approvals - complementary only"
+      },
+      {
+        "url": "https://www.gxzf.gov.cn/zfwj/zxwj/index.shtml",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.gxzf.gov.cn",
+        "reason": "provincial current documents"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_cf5880769bc6": {
+    "source_id": "cn_cf5880769bc6",
+    "province": "海南",
+    "original_url": "https://plan.hainan.gov.cn/sfgw/0503/list3.shtml?ddtab=true",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://www.hainan.gov.cn/hainan/zfwj/szfzcwj.shtml?ddtab=true",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.hainan.gov.cn",
+        "reason": "provincial government documents"
+      },
+      {
+        "url": "https://iitb.hainan.gov.cn/iitb/bmwjjj/list3.shtml?ddtab=true",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "iitb.hainan.gov.cn",
+        "reason": "industry department policies"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_b922a2143a80": {
+    "source_id": "cn_b922a2143a80",
+    "province": "四川",
+    "original_url": "https://fgw.sc.gov.cn/sfgw/zcwj/olist.shtml",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://www.sc.gov.cn/10462/c103041/newzfwj.shtml?channelid=9c2314405df140af83649dff8f30055b",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.sc.gov.cn",
+        "reason": "provincial policy database with publication date"
+      },
+      {
+        "url": "https://jxt.sc.gov.cn/scjxt/xzgfxwj/zcgfxwj_list.shtml",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "jxt.sc.gov.cn",
+        "reason": "province industry legal documents"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_8a2870d6b4f1": {
+    "source_id": "cn_8a2870d6b4f1",
+    "province": "贵州",
+    "original_url": "https://fgw.guizhou.gov.cn/zwgk/xxgkml/zcfg/zcwj/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://nyj.guizhou.gov.cn/zwgk/xxgkml/zcwj_2/jnwj/ptwj_2/",
+        "evidence": "baseline_verified_source",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "nyj.guizhou.gov.cn",
+        "reason": "province energy regulator policies"
+      },
+      {
+        "url": "https://www.guizhou.gov.cn/zwgk/zcfg/szfwj/qfbf/",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.guizhou.gov.cn",
+        "reason": "provincial government office files"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_dc94216cbc6d": {
+    "source_id": "cn_dc94216cbc6d",
+    "province": "重庆",
+    "original_url": "https://fzggw.cq.gov.cn/zwgk/zfxxgkml/zcwj/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://admin.cq.gov.cn/zwgk/zfxxgkml/szfwj/xzgfxwj/xzgfxwj.html",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "admin.cq.gov.cn",
+        "reason": "separate official normative file archive"
+      },
+      {
+        "url": "https://www.cq.gov.cn/zwgk/zfxxgkml/szfwj/index.html",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.cq.gov.cn",
+        "reason": "provincial government policy file library"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_44bc1881857e": {
+    "source_id": "cn_44bc1881857e",
+    "province": "云南",
+    "original_url": "https://yndrc.yn.gov.cn/html/zhengwugongkai/zhengcewenjian/xingzhengguifanxingwenjian/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://www.yn.gov.cn/zwgk/zfxxgkpt/fdzdgknr/zcwj/zfxxgkptyzbf/",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.yn.gov.cn",
+        "reason": "verified Yunnan government office formal document table with publication dates"
+      },
+      {
+        "url": "https://www.yn.gov.cn/zwgk/zfxxgkpt/fdzdgknr/zcwj/zfxxgkptyzbg/",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.yn.gov.cn",
+        "reason": "verified Yunnan government office normative files with dated rows"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_2988b09ee88b": {
+    "source_id": "cn_2988b09ee88b",
+    "province": "青海",
+    "original_url": "http://fgw.qinghai.gov.cn/zfxxgk/sdzdgknr/fgwwj/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://jtyst.qinghai.gov.cn/jtyst/jtxx/szfwj/index.html",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "jtyst.qinghai.gov.cn",
+        "reason": "provincial government files republished on official transport agency"
+      },
+      {
+        "url": "http://www.qinghai.gov.cn/xxgk/1/",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.qinghai.gov.cn",
+        "reason": "provincial government files"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_42ed5bf25d5d": {
+    "source_id": "cn_42ed5bf25d5d",
+    "province": "陕西",
+    "original_url": "https://sndrc.shaanxi.gov.cn/zfxxgk/zc/fgwj/sfzggwwj/index.html",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://www.shaanxi.gov.cn/zfxxgk/fdzdgknr/zcwj/nszfwj/szf/",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.shaanxi.gov.cn",
+        "reason": "province government files"
+      },
+      {
+        "url": "https://gxt.shaanxi.gov.cn/xxgk/gfxwj/",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "gxt.shaanxi.gov.cn",
+        "reason": "industry department normative files"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_9218a245fb7e": {
+    "source_id": "cn_9218a245fb7e",
+    "province": "河北",
+    "original_url": "https://www.hebei.gov.cn/columns/49f13cc2-db03-4d0c-b4fe-2f3f659d3b6e/index.html",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://sft.hebei.gov.cn/fzgz/fzdcyhfxsc/index.shtml",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "sft.hebei.gov.cn",
+        "reason": "2026 registry notices - official justice bureau"
+      },
+      {
+        "url": "https://gxt.hebei.gov.cn/eportal/ui?currentPage=7&moduleId=8743fba2c8f24144ba37476a9fb50178&pageId=622117",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "gxt.hebei.gov.cn",
+        "reason": "industrial provincial policy listing"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_72b1e5bf6cc8": {
+    "source_id": "cn_72b1e5bf6cc8",
+    "province": "山西",
+    "original_url": "https://www.shanxi.gov.cn/zcwjk/swwj/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://sxszfzgzb.shanxi.gov.cn/zshz/tzzc/",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "sxszfzgzb.shanxi.gov.cn",
+        "reason": "provincial government office syndicated investment policies"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_f967a158ac3f": {
+    "source_id": "cn_f967a158ac3f",
+    "province": "山西",
+    "original_url": "https://gxt.shanxi.gov.cn/zcwj/wjfb/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://sxszfzgzb.shanxi.gov.cn/zshz/tzzc/",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "sxszfzgzb.shanxi.gov.cn",
+        "reason": "provincial government office syndicated investment policies"
+      },
+      {
+        "url": "https://www.shanxi.gov.cn/zcwjk/swwj/",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.shanxi.gov.cn",
+        "reason": "provincial government file catalogue"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_3fb2a96af337": {
+    "source_id": "cn_3fb2a96af337",
+    "province": "湖南",
+    "original_url": "https://www.hunan.gov.cn/hnszf/xxgk/wjk/szfwj/wjk_glrb.html",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://fgw.hunan.gov.cn/xxgk_70899/tzgg/index.html",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "fgw.hunan.gov.cn",
+        "reason": "official Hunan DRC dated notices; dynamic index may need public browser render",
+        "render_when_empty": true
+      },
+      {
+        "url": "https://www.hunan.gov.cn/hnszf/xxgk/wjk/szfwj/",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.hunan.gov.cn",
+        "reason": "verified Hunan government documents table with dates and status"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_8d7abc70b68b": {
+    "source_id": "cn_8d7abc70b68b",
+    "province": "江西",
+    "original_url": "https://www.jiangxi.gov.cn/jxsrmzf/szfwj/pc/list.html",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://gxt.jiangxi.gov.cn/jxsgyhxxht/zcwj/index.html",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "gxt.jiangxi.gov.cn",
+        "reason": "industry department policies"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_13b15007a2b0": {
+    "source_id": "cn_13b15007a2b0",
+    "province": "湖南",
+    "original_url": "https://www.hunan.gov.cn/hnszf/xxgk/wjk/szbm/szfzcbm_19689/sjjhxxhwyh_19708/gfxwj_19709/index.html",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://fgw.hunan.gov.cn/xxgk_70899/tzgg/index.html",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "fgw.hunan.gov.cn",
+        "reason": "official Hunan DRC dated notices; dynamic index may need public browser render",
+        "render_when_empty": true
+      },
+      {
+        "url": "https://www.hunan.gov.cn/hnszf/xxgk/wjk/szfwj/",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.hunan.gov.cn",
+        "reason": "verified Hunan government documents table with dates and status"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_d05bd105b38d": {
+    "source_id": "cn_d05bd105b38d",
+    "province": "江西",
+    "original_url": "https://gxt.jiangxi.gov.cn/jxsgyhxxht/zcwj/index.html",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://www.jiangxi.gov.cn/jxsrmzf/szfwj/pc/list.html",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.jiangxi.gov.cn",
+        "reason": "provincial government files"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_55a439b16478": {
+    "source_id": "cn_55a439b16478",
+    "province": "广西",
+    "original_url": "http://gxt.gxzf.gov.cn/xxgk/fgzc/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://dnr.gxzf.gov.cn/zfxxgk/fdzdgknr/ygzd/jsydpfwj/",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "dnr.gxzf.gov.cn",
+        "reason": "wind project land approvals - complementary only"
+      },
+      {
+        "url": "https://www.gxzf.gov.cn/zfwj/zxwj/index.shtml",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.gxzf.gov.cn",
+        "reason": "provincial current documents"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_9cee9310b605": {
+    "source_id": "cn_9cee9310b605",
+    "province": "海南",
+    "original_url": "https://www.hainan.gov.cn/hainan/zfwj/szfzcwj.shtml?ddtab=true",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://plan.hainan.gov.cn/sfgw/0503/list3.shtml?ddtab=true",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "plan.hainan.gov.cn",
+        "reason": "provincial DRC documents"
+      },
+      {
+        "url": "https://iitb.hainan.gov.cn/iitb/bmwjjj/list3.shtml?ddtab=true",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "iitb.hainan.gov.cn",
+        "reason": "industry department policies"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_ef2bc5e95df5": {
+    "source_id": "cn_ef2bc5e95df5",
+    "province": "海南",
+    "original_url": "https://iitb.hainan.gov.cn/iitb/bmwjjj/list3.shtml?ddtab=true",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://www.hainan.gov.cn/hainan/zfwj/szfzcwj.shtml?ddtab=true",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.hainan.gov.cn",
+        "reason": "provincial government documents"
+      },
+      {
+        "url": "https://plan.hainan.gov.cn/sfgw/0503/list3.shtml?ddtab=true",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "plan.hainan.gov.cn",
+        "reason": "provincial DRC documents"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_79acd9237aeb": {
+    "source_id": "cn_79acd9237aeb",
+    "province": "广西",
+    "original_url": "https://www.gxzf.gov.cn/zfwj/zxwj/index.shtml",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://dnr.gxzf.gov.cn/zfxxgk/fdzdgknr/ygzd/jsydpfwj/",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "dnr.gxzf.gov.cn",
+        "reason": "wind project land approvals - complementary only"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_1abbceed2047": {
+    "source_id": "cn_1abbceed2047",
+    "province": "四川",
+    "original_url": "https://www.sc.gov.cn/10462/c103041/newzfwj.shtml?channelid=9c2314405df140af83649dff8f30055b",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://jxt.sc.gov.cn/scjxt/xzgfxwj/zcgfxwj_list.shtml",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "jxt.sc.gov.cn",
+        "reason": "province industry legal documents"
+      },
+      {
+        "url": "https://fgw.sc.gov.cn/sfgw/zcwj/olist.shtml",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "fgw.sc.gov.cn",
+        "reason": "province DRC policies"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_3973d84e5084": {
+    "source_id": "cn_3973d84e5084",
+    "province": "四川",
+    "original_url": "https://jxt.sc.gov.cn/scjxt/xzgfxwj/zcgfxwj_list.shtml",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://www.sc.gov.cn/10462/c103041/newzfwj.shtml?channelid=9c2314405df140af83649dff8f30055b",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.sc.gov.cn",
+        "reason": "provincial policy database with publication date"
+      },
+      {
+        "url": "https://fgw.sc.gov.cn/sfgw/zcwj/olist.shtml",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "fgw.sc.gov.cn",
+        "reason": "province DRC policies"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_67c4991ac3e9": {
+    "source_id": "cn_67c4991ac3e9",
+    "province": "重庆",
+    "original_url": "https://www.cq.gov.cn/zwgk/zfxxgkml/szfwj/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://admin.cq.gov.cn/zwgk/zfxxgkml/szfwj/xzgfxwj/xzgfxwj.html",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "admin.cq.gov.cn",
+        "reason": "separate official normative file archive"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_43f3081a512a": {
+    "source_id": "cn_43f3081a512a",
+    "province": "重庆",
+    "original_url": "https://jjxxw.cq.gov.cn/zwgk_213/zcwj/qtwj/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://admin.cq.gov.cn/zwgk/zfxxgkml/szfwj/xzgfxwj/xzgfxwj.html",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "admin.cq.gov.cn",
+        "reason": "separate official normative file archive"
+      },
+      {
+        "url": "https://www.cq.gov.cn/zwgk/zfxxgkml/szfwj/index.html",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.cq.gov.cn",
+        "reason": "provincial government policy file library"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_2f5ca615b97d": {
+    "source_id": "cn_2f5ca615b97d",
+    "province": "贵州",
+    "original_url": "https://www.guizhou.gov.cn/zwgk/zcfg/szfwj/qff/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://nyj.guizhou.gov.cn/zwgk/xxgkml/zcwj_2/jnwj/ptwj_2/",
+        "evidence": "baseline_verified_source",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "nyj.guizhou.gov.cn",
+        "reason": "province energy regulator policies"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_8f9dbeeebd54": {
+    "source_id": "cn_8f9dbeeebd54",
+    "province": "贵州",
+    "original_url": "https://gxt.guizhou.gov.cn/zwgk/xxgkml/zcwj/gfxwj/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://nyj.guizhou.gov.cn/zwgk/xxgkml/zcwj_2/jnwj/ptwj_2/",
+        "evidence": "baseline_verified_source",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "nyj.guizhou.gov.cn",
+        "reason": "province energy regulator policies"
+      },
+      {
+        "url": "https://www.guizhou.gov.cn/zwgk/zcfg/szfwj/qfbf/",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.guizhou.gov.cn",
+        "reason": "provincial government office files"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_878d16ddc7e6": {
+    "source_id": "cn_878d16ddc7e6",
+    "province": "陕西",
+    "original_url": "https://gxt.shaanxi.gov.cn/xxgk/gfxwj/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://www.shaanxi.gov.cn/zfxxgk/fdzdgknr/zcwj/nszfwj/szf/",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.shaanxi.gov.cn",
+        "reason": "province government files"
+      },
+      {
+        "url": "https://sndrc.shaanxi.gov.cn/zfxxgk/zc/fgwj/sfzggwwj/index.html",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "sndrc.shaanxi.gov.cn",
+        "reason": "province DRC official documents"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_969ad9ff831b": {
+    "source_id": "cn_969ad9ff831b",
+    "province": "陕西",
+    "original_url": "https://www.shaanxi.gov.cn/zfxxgk/fdzdgknr/zcwj/nszfwj/szf/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://gxt.shaanxi.gov.cn/xxgk/gfxwj/",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "gxt.shaanxi.gov.cn",
+        "reason": "industry department normative files"
+      },
+      {
+        "url": "https://sndrc.shaanxi.gov.cn/zfxxgk/zc/fgwj/sfzggwwj/index.html",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "sndrc.shaanxi.gov.cn",
+        "reason": "province DRC official documents"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_b8b647e382c3": {
+    "source_id": "cn_b8b647e382c3",
+    "province": "青海",
+    "original_url": "https://gxt.qinghai.gov.cn/gongxintingwenjian.html",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://jtyst.qinghai.gov.cn/jtyst/jtxx/szfwj/index.html",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "jtyst.qinghai.gov.cn",
+        "reason": "provincial government files republished on official transport agency"
+      },
+      {
+        "url": "http://www.qinghai.gov.cn/xxgk/1/",
+        "evidence": "existing_config_candidate",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.qinghai.gov.cn",
+        "reason": "provincial government files"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_a51c943c9543": {
+    "source_id": "cn_a51c943c9543",
+    "province": "贵州",
+    "original_url": "https://www.guizhou.gov.cn/zwgk/zcfg/szfwj/qfbf/",
+    "base_run": "2026-10-18",
+    "base_error": "connection_error",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://nyj.guizhou.gov.cn/zwgk/xxgkml/zcwj_2/jnwj/ptwj_2/",
+        "evidence": "baseline_verified_source",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "nyj.guizhou.gov.cn",
+        "reason": "province energy regulator policies"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_17bffa52408e": {
+    "source_id": "cn_17bffa52408e",
+    "province": "天津",
+    "original_url": "https://fzgg.tj.gov.cn/zwgk_47325/zcfg_47338/zcwjx/fgwj/",
+    "base_run": "2026-10-19",
+    "base_error": "blocked",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://www.tj.gov.cn/zwgk/szfwj/",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.tj.gov.cn",
+        "reason": "天津市政府文件公开目录（其他发布主体的补充来源）"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_5dc355c1a7a8": {
+    "source_id": "cn_5dc355c1a7a8",
+    "province": "天津",
+    "original_url": "https://gyxxh.tj.gov.cn/ZWGK4147/ZCWJ6355/wjwj/",
+    "base_run": "2026-10-19",
+    "base_error": "blocked",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://www.tj.gov.cn/zwgk/szfwj/",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "www.tj.gov.cn",
+        "reason": "天津市政府文件公开目录（其他发布主体的补充来源）"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_c6f9b3f56fe8": {
+    "source_id": "cn_c6f9b3f56fe8",
+    "province": "内蒙古",
+    "original_url": "https://fgw.nmg.gov.cn/zfxxgk/fdzdgknr/bmwj/",
+    "base_run": "2026-10-19",
+    "base_error": "blocked",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://nyj.nmg.gov.cn/tzgg/",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "nyj.nmg.gov.cn",
+        "reason": "内蒙古能源局通知公告（可发现联合发文，但不能代替发改委的完整目录）"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  },
+  "cn_09b66c7ebd13": {
+    "source_id": "cn_09b66c7ebd13",
+    "province": "内蒙古",
+    "original_url": "https://www.nmg.gov.cn/zwgk/zfxxgk/zfxxgkml/?gk=3&cid=3696",
+    "base_run": "2026-10-19",
+    "base_error": "blocked",
+    "protected_previous_fix": false,
+    "recovery_channels": [
+      {
+        "url": "https://nyj.nmg.gov.cn/tzgg/",
+        "evidence": "public_index_evidence",
+        "scope": "supplementary_not_equivalent",
+        "publisher_host": "nyj.nmg.gov.cn",
+        "reason": "内蒙古能源局通知公告（其他机构的补充发布渠道）"
+      }
+    ],
+    "original_coverage_can_be_proved_by_recovery": false,
+    "live_http_verified": false
+  }
+}

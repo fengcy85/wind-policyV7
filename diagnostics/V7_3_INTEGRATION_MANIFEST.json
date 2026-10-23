@@ -1,0 +1,27 @@
+{
+  "release": "V7.3-integrated",
+  "contains_releases": [
+    "V7.1",
+    "V7.2",
+    "V7.3"
+  ],
+  "packaged_at_utc": "2026-10-19T03:26:15+00:00",
+  "packaging_method": "V7.3 full cumulative source archive + integration readme and manifest",
+  "baseline_files": 252,
+  "original_frontend_files_byte_identical": 6,
+  "international_adapters_byte_identical": 21,
+  "total_configured_policy_sources": 139,
+  "offline_python_tests_passed": 116,
+  "offline_frontend_test_suites_passed": 2,
+  "live_site_success_validated": false,
+  "bundled_site_data_is_historical_snapshot": true,
+  "important_warning": "现有仓库更新时必须保护较新的site/data，否则可能覆盖最新政策数据",
+  "sha256": {
+    "policy_scrape.py": "725e5ca8995c873298c23412b400c05be53f69d3d7cf398945e69b3ed6b5203b",
+    "policy_domestic_profiles.py": "fc273ef27a13b70b0d518b2eb20f81e6ae85e555f701d8e158b7f22c2f589e89",
+    "policy_domestic_remaining.py": "a8f7f41a82b7aeb9ca3f43501061c10df82868910ca87bc52a8ff8a08c8bd367",
+    "policy_domestic_network35.py": "9c208ec00ed1e0a3e1d076f5e7df5aedae4c5ef9545cbf62e2e77714deb9e7fc",
+    "policy_sources.json": "635f791c463696632fdaed835b2e5a9183e1661d03dd645f0e54f5aa0d1677f2",
+    ".github/workflows/update.yml": "79ae107ceef381a59e5ca4338932c11d8aaa61793ce12eca94e3bef8e0ad0cc2"
+  }
+}

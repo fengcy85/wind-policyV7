@@ -1,0 +1,31 @@
+{
+  "version": "V8.2",
+  "built_utc": "2026-10-19T09:30:29+00:00",
+  "full_project": true,
+  "sources": 139,
+  "domestic_sources": 118,
+  "international_sources": 21,
+  "overseas_adapters_byte_identical_to_v81": 21,
+  "unchanged_ui_and_news_files": [
+    "site/index.html",
+    "site/news.html",
+    "site/static/app.js",
+    "site/static/policy-table.css",
+    "site/static/styles.css"
+  ],
+  "domestic_admission_policy": "directly save dated relevant entries; optional full text enriches same record",
+  "python_test_count_passed": 154,
+  "node_test_suites_passed": 2,
+  "all_118_sources_live_verified": false,
+  "historical_log_status_counts": {
+    "ok_no_recent": 38,
+    "ok_with_results": 13,
+    "partial_coverage": 12,
+    "blocked": 16,
+    "timeout": 5,
+    "connection_error": 33,
+    "needs_adapter": 1
+  },
+  "historical_data_snapshot": true,
+  "internet_connectivity_note": "Original sites and backups require a real GitHub runner verification."
+}

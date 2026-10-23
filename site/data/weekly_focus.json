@@ -1,0 +1,211 @@
+{
+  "generated_at": "2026-10-19T10:00:32+00:00",
+  "period": {
+    "days": 7,
+    "start": "2026-10-13",
+    "end": "2026-10-19"
+  },
+  "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
+  "count": 8,
+  "tag_order": [
+    "竞对资讯",
+    "招标采购",
+    "市场机制",
+    "电网建设",
+    "宏观政策",
+    "审批政策"
+  ],
+  "tag_counts": {
+    "竞对资讯": 5,
+    "招标采购": 6,
+    "市场机制": 1,
+    "电网建设": 1,
+    "宏观政策": 0,
+    "审批政策": 1
+  },
+  "items": [
+    {
+      "country": "全球",
+      "source_name": "Recharge",
+      "title": "Wind in war: How one struggle turned into a 1GW auction with a very special CfD",
+      "translated_title": "战争中的风:一场斗争是如何变成1GW的拍卖会的,一个非常特殊的CfD",
+      "published_at": "2026-10-19",
+      "url": "https://www.rechargenews.com/onshore-wind/wind-in-war-how-one-struggle-turned-into-a-1gw-auction-with-a-very-special-cfd/2-1-2059010",
+      "tags": [
+        "招标采购",
+        "市场机制"
+      ],
+      "competitors": [],
+      "monitor_reason": "招标/采购节点 · 电价/市场机制 · GW级项目 · 标题明确风电",
+      "signals": [
+        "1 GW",
+        "招标采购",
+        "市场机制"
+      ],
+      "rank": 1,
+      "importance_reason": "1 GW · 招标采购 · 市场机制"
+    },
+    {
+      "country": "全球",
+      "source_name": "Recharge",
+      "title": "Bruce Valpy Why Taiwan’s offshore wind auction was only a two-horse race – and what needs to change opinion 12.10.2026",
+      "translated_title": "布鲁斯·瓦尔皮 为什么台湾的岸外风情拍卖只是一场两匹马的赛车,",
+      "published_at": "2026-10-15",
+      "url": "https://www.rechargenews.com/opinion/why-taiwan-s-offshore-wind-auction-was-only-a-two-horse-race-and-what-needs-to-change/2-1-2056392",
+      "tags": [
+        "竞对资讯",
+        "招标采购"
+      ],
+      "competitors": [
+        "Orsted",
+        "ReNew"
+      ],
+      "monitor_reason": "招标/采购节点 · 竞对项目动态 · GW级项目 · 标题明确风电",
+      "signals": [
+        "10 GW",
+        "竞对资讯",
+        "招标采购"
+      ],
+      "rank": 2,
+      "importance_reason": "10 GW · 竞对资讯 · 招标采购"
+    },
+    {
+      "country": "全球",
+      "source_name": "Renewables Now",
+      "title": "Germany adds 1.23 GW of solar in Sept, onshore wind approvals rebound",
+      "translated_title": "德国在9月增加了1.23千兆瓦太阳,岸上风力批准反弹",
+      "published_at": "2026-10-15",
+      "url": "https://renewablesnow.com/news/germany-adds-1-23-gw-of-solar-in-sept-onshore-wind-approvals-rebound-1303065/",
+      "tags": [
+        "审批政策"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "审批/许可节点 · GW级项目 · 标题明确风电",
+      "signals": [
+        "1.2 GW",
+        "审批政策",
+        "ReNew"
+      ],
+      "rank": 3,
+      "importance_reason": "1.2 GW · 审批政策 · ReNew"
+    },
+    {
+      "country": "印度",
+      "source_name": "Renewable Watch",
+      "title": "ACCIONA to develop 2 GW offshore wind transmission project",
+      "translated_title": "ACIONA开发2个GW岸外风能传输项目",
+      "published_at": "2026-10-16",
+      "url": "https://renewablewatch.in/2026/10/16/acciona-to-develop-2-gw-offshore-wind-transmission-project/",
+      "tags": [
+        "竞对资讯",
+        "电网建设"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "电网/送出建设 · 竞对项目动态 · GW级项目 · 标题明确风电",
+      "signals": [
+        "2 GW",
+        "竞对资讯",
+        "电网建设"
+      ],
+      "rank": 4,
+      "importance_reason": "2 GW · 竞对资讯 · 电网建设"
+    },
+    {
+      "country": "全球",
+      "source_name": "Recharge",
+      "title": "US, Turkey and Germany push Nordex orders up by nearly a third onshore wind 12.10.2026",
+      "translated_title": "美国,土耳其和德国将诺德克斯订单推上近三分之一的岸上风力 12.1026",
+      "published_at": "2026-10-15",
+      "url": "https://www.rechargenews.com/onshore-wind/us-turkey-and-germany-push-nordex-orders-up-by-nearly-a-third/2-1-2056986",
+      "tags": [
+        "竞对资讯",
+        "招标采购"
+      ],
+      "competitors": [
+        "Nordex",
+        "Orsted",
+        "ReNew"
+      ],
+      "monitor_reason": "正文含招标/采购 · 竞对项目动态 · GW级项目 · 标题明确风电",
+      "signals": [
+        "10 GW",
+        "竞对资讯",
+        "招标采购"
+      ],
+      "rank": 5,
+      "importance_reason": "10 GW · 竞对资讯 · 招标采购"
+    },
+    {
+      "country": "印度",
+      "source_name": "Energetica India – Wind Power",
+      "title": "Alfanar to Sell 507.9 MW Gujarat Wind Portfolio to KPI Green",
+      "translated_title": "Alfanar向KPI Green出售507.9兆瓦古吉拉特风能组合",
+      "published_at": "2026-10-19",
+      "url": "https://www.energetica-india.net/news/alfanar-to-sell-5079-mw-gujarat-wind-portfolio-to-kpi-green",
+      "tags": [
+        "竞对资讯",
+        "招标采购"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "正文含招标/采购 · 竞对项目动态 · 500MW+项目 · 标题明确风电",
+      "signals": [
+        "508 MW",
+        "竞对资讯",
+        "招标采购"
+      ],
+      "rank": 6,
+      "importance_reason": "508 MW · 竞对资讯 · 招标采购"
+    },
+    {
+      "country": "印度",
+      "source_name": "Renewable Watch",
+      "title": "TGREDCO floats tender for 800 MW wind projects",
+      "translated_title": "800兆瓦风能项目的TGREDCO浮标",
+      "published_at": "2026-10-16",
+      "url": "https://renewablewatch.in/2026/10/16/tgredco-floats-tender-for-800-mw-wind-projects/",
+      "tags": [
+        "竞对资讯",
+        "招标采购"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 500MW+项目 · 标题明确风电",
+      "signals": [
+        "800 MW",
+        "竞对资讯",
+        "招标采购"
+      ],
+      "rank": 7,
+      "importance_reason": "800 MW · 竞对资讯 · 招标采购"
+    },
+    {
+      "country": "全球",
+      "source_name": "Renewables Now",
+      "title": "Germany keeps onshore wind tender volume at 2.5 GW",
+      "translated_title": "德国将岸上风力发电量保持在2.5千瓦",
+      "published_at": "2026-10-15",
+      "url": "https://renewablesnow.com/news/germany-keeps-onshore-wind-tender-volume-at-2-5-gw-1303044/",
+      "tags": [
+        "招标采购"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "招标/采购节点 · GW级项目 · 标题明确风电",
+      "signals": [
+        "2.5 GW",
+        "招标采购",
+        "ReNew"
+      ],
+      "rank": 8,
+      "importance_reason": "2.5 GW · 招标采购 · ReNew"
+    }
+  ]
+}
