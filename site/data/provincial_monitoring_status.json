@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:51:25.231586+00:00",
+  "generated_at": "2026-10-23T02:58:42.618716+00:00",
   "warning": "国内不强制证明整段时间覆盖；已发现政策和正常目录读取才是采集结果，媒体线索不是官方法规，仍需留意漏抓风险",
   "province_count": 31,
   "provinces": [
@@ -171,7 +171,18 @@
       "domestic_date_coverage_required": false,
       "official_policy_records": 4,
       "media_clues": 0,
-      "issues": []
+      "issues": [
+        {
+          "name": "内蒙古发改委",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 403：访问被拒绝；需核查执行地及官方访问条件；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "内蒙古人民政府",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 403：访问被拒绝；需核查执行地及官方访问条件；提醒：动态分页/日期排序不完整"
+        }
+      ]
     },
     {
       "province": "辽宁",
@@ -206,7 +217,7 @@
         {
           "name": "辽宁省政府｜辽政办发",
           "status": "needs_adapter",
-          "reason": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：142行、动态分页/日期排序不完整"
+          "reason": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：143行、动态分页/日期排序不完整"
         }
       ]
     },
@@ -229,8 +240,8 @@
       "official_sources_scanned": 4,
       "official_sources_with_saved_history": 4,
       "verified_official_catalogues": 0,
-      "readable_official_catalogues": 1,
-      "successful_source_feeds": 1,
+      "readable_official_catalogues": 2,
+      "successful_source_feeds": 2,
       "domestic_date_coverage_required": false,
       "official_policy_records": 0,
       "media_clues": 0,
@@ -244,11 +255,6 @@
           "name": "吉林省能源局｜通知公告及能源政策",
           "status": "needs_adapter",
           "reason": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：16行"
-        },
-        {
-          "name": "吉林省人民政府",
-          "status": "needs_adapter",
-          "reason": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：3行"
         }
       ]
     },
@@ -298,7 +304,7 @@
       "readable_official_catalogues": 3,
       "successful_source_feeds": 3,
       "domestic_date_coverage_required": false,
-      "official_policy_records": 1,
+      "official_policy_records": 2,
       "media_clues": 0,
       "issues": []
     },
@@ -622,17 +628,17 @@
         {
           "name": "湖南省发改委",
           "status": "connection_error",
-          "reason": "TLS 握手失败；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
         },
         {
           "name": "湖南省工信厅",
           "status": "connection_error",
-          "reason": "TLS 握手失败；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
         },
         {
           "name": "湖南省人民政府",
           "status": "connection_error",
-          "reason": "TLS 握手失败；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
         }
       ]
     },
@@ -1004,8 +1010,8 @@
         },
         {
           "name": "甘肃省工信厅",
-          "status": "connection_error",
-          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+          "status": "blocked",
+          "reason": "官方返回 HTTP 412：请求前置条件不满足；不自动绕过；提醒：动态分页/日期排序不完整"
         }
       ]
     },
