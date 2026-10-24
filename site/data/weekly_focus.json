@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-23T03:08:35+00:00",
+  "generated_at": "2026-10-24T04:56:44+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-17",
-    "end": "2026-10-23"
+    "start": "2026-10-18",
+    "end": "2026-10-24"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -16,12 +16,12 @@
     "审批政策"
   ],
   "tag_counts": {
-    "竞对资讯": 6,
+    "竞对资讯": 5,
     "招标采购": 5,
     "市场机制": 2,
-    "电网建设": 1,
+    "电网建设": 2,
     "宏观政策": 0,
-    "审批政策": 4
+    "审批政策": 3
   },
   "items": [
     {
@@ -46,34 +46,11 @@
       "importance_reason": "1 GW · 招标采购 · 市场机制"
     },
     {
-      "country": "印度",
-      "source_name": "Energetica India – Wind Power",
-      "title": "Alfanar to Sell 507.9 MW Gujarat Wind Portfolio to KPI Green",
-      "translated_title": "Alfanar向KPI Green出售507.9兆瓦古吉拉特风能组合",
-      "published_at": "2026-10-19",
-      "url": "https://www.energetica-india.net/news/alfanar-to-sell-5079-mw-gujarat-wind-portfolio-to-kpi-green",
-      "tags": [
-        "竞对资讯",
-        "招标采购"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "正文含招标/采购 · 竞对项目动态 · 500MW+项目 · 标题明确风电",
-      "signals": [
-        "508 MW",
-        "竞对资讯",
-        "招标采购"
-      ],
-      "rank": 2,
-      "importance_reason": "508 MW · 竞对资讯 · 招标采购"
-    },
-    {
       "country": "全球",
       "source_name": "Recharge",
       "title": "Latest US offshore wind remand bid may rattle permitting talks, but Iberdrola project already stalled",
       "translated_title": "美国最近的海上风还押招标 可能引发谈判 但Iberdrola项目已经停滞了",
-      "published_at": "2026-10-22",
+      "published_at": "2026-10-23",
       "url": "https://www.rechargenews.com/policy/latest-us-offshore-wind-remand-bid-may-rattle-permitting-talks-but-iberdrola-project-already-stalled/2-1-2063030",
       "tags": [
         "竞对资讯",
@@ -89,7 +66,7 @@
         "招标采购",
         "Iberdrola"
       ],
-      "rank": 3,
+      "rank": 2,
       "importance_reason": "竞对资讯 · 招标采购 · Iberdrola"
     },
     {
@@ -111,8 +88,53 @@
         "电网建设",
         "电价/市场机制"
       ],
-      "rank": 4,
+      "rank": 3,
       "importance_reason": "市场机制 · 电网建设 · 电价/市场机制"
+    },
+    {
+      "country": "全球",
+      "source_name": "Renewables Now",
+      "title": "Germany plans fewer offshore wind grid connections, retains 70-GW goal",
+      "translated_title": "德国计划减少海上风电电网连接,保留70千兆瓦的目标",
+      "published_at": "2026-10-23",
+      "url": "https://renewablesnow.com/news/germany-plans-fewer-offshore-wind-grid-connections-retains-70-gw-goal-1303573/",
+      "tags": [
+        "电网建设"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "电网/送出建设 · GW级项目 · 标题明确风电",
+      "signals": [
+        "70 GW",
+        "电网建设",
+        "ReNew"
+      ],
+      "rank": 4,
+      "importance_reason": "70 GW · 电网建设 · ReNew"
+    },
+    {
+      "country": "印度",
+      "source_name": "Energetica India – Wind Power",
+      "title": "Alfanar to Sell 507.9 MW Gujarat Wind Portfolio to KPI Green",
+      "translated_title": "Alfanar向KPI Green出售507.9兆瓦古吉拉特风能组合",
+      "published_at": "2026-10-19",
+      "url": "https://www.energetica-india.net/news/alfanar-to-sell-5079-mw-gujarat-wind-portfolio-to-kpi-green",
+      "tags": [
+        "竞对资讯",
+        "招标采购"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "正文含招标/采购 · 竞对项目动态 · 500MW+项目 · 标题明确风电",
+      "signals": [
+        "508 MW",
+        "竞对资讯",
+        "招标采购"
+      ],
+      "rank": 5,
+      "importance_reason": "508 MW · 竞对资讯 · 招标采购"
     },
     {
       "country": "全球",
@@ -135,8 +157,31 @@
         "竞对资讯",
         "招标采购"
       ],
-      "rank": 5,
+      "rank": 6,
       "importance_reason": "192 MW · 竞对资讯 · 招标采购"
+    },
+    {
+      "country": "哈萨克斯坦",
+      "source_name": "QazaqGreen",
+      "title": "15.10.2026 Victorian Government approves Australia’s largest planned wind farm",
+      "translated_title": "15.10.2026 维多利亚州 政府批准澳大利亚最大的风力发电场",
+      "published_at": "2026-10-23",
+      "url": "https://qazaqgreen.com/en/news/world/3940/",
+      "tags": [
+        "竞对资讯",
+        "审批政策"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "正文涉及审批/许可 · 竞对项目动态 · 标题明确风电",
+      "signals": [
+        "竞对资讯",
+        "审批政策",
+        "ReNew"
+      ],
+      "rank": 7,
+      "importance_reason": "竞对资讯 · 审批政策 · ReNew"
     },
     {
       "country": "印度",
@@ -158,54 +203,8 @@
         "竞对资讯",
         "招标采购"
       ],
-      "rank": 6,
-      "importance_reason": "192 MW · 竞对资讯 · 招标采购"
-    },
-    {
-      "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "Norway gives 1st new wind farm licence in 9 years to Eviny, Norsk Vind",
-      "translated_title": "挪威在9年内给艾维尼,诺斯克文德颁发第1个新的风电场许可证.",
-      "published_at": "2026-10-22",
-      "url": "https://renewablesnow.com/news/norway-gives-1st-new-wind-farm-licence-in-9-years-to-eviny-norsk-vind-1303514/",
-      "tags": [
-        "竞对资讯",
-        "审批政策"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "审批/许可节点 · 竞对项目动态 · 标题明确风电",
-      "signals": [
-        "竞对资讯",
-        "审批政策",
-        "ReNew"
-      ],
-      "rank": 7,
-      "importance_reason": "竞对资讯 · 审批政策 · ReNew"
-    },
-    {
-      "country": "哈萨克斯坦",
-      "source_name": "QazaqGreen",
-      "title": "Victorian Government approves Australia’s largest planned wind farm",
-      "translated_title": "15.10.2026 维多利亚州 政府批准澳大利亚最大的风力发电场",
-      "published_at": "2026-10-22",
-      "url": "https://qazaqgreen.com/en/news/world/3940/",
-      "tags": [
-        "竞对资讯",
-        "审批政策"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "正文涉及审批/许可 · 竞对项目动态 · 标题明确风电",
-      "signals": [
-        "竞对资讯",
-        "审批政策",
-        "ReNew"
-      ],
       "rank": 8,
-      "importance_reason": "竞对资讯 · 审批政策 · ReNew"
+      "importance_reason": "192 MW · 竞对资讯 · 招标采购"
     }
   ]
 }

@@ -1,17 +1,67 @@
 {
-  "generated_at": "2026-10-23T03:08:35+00:00",
-  "before": 342,
-  "kept": 290,
-  "filtered_out": 52,
+  "generated_at": "2026-10-24T04:56:44+00:00",
+  "before": 349,
+  "kept": 298,
+  "filtered_out": 51,
   "tag_counts": {
-    "竞对资讯": 252,
-    "审批政策": 40,
+    "竞对资讯": 258,
+    "电网建设": 26,
     "招标采购": 74,
-    "市场机制": 10,
-    "电网建设": 25,
+    "审批政策": 40,
+    "市场机制": 11,
     "宏观政策": 3
   },
   "rejected_examples": [
+    {
+      "title": "Axpo, Fortia ink second wind PPA for Votorantim Cimentos in Spain",
+      "source_name": "Renewables Now",
+      "published_at": "2026-10-23",
+      "url": "https://renewablesnow.com/news/axpo-fortia-ink-second-wind-ppa-for-votorantim-cimentos-in-spain-1303553/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Major Chinese wind supplier planning factories on five continents",
+      "source_name": "Recharge",
+      "published_at": "2026-10-23",
+      "url": "https://www.rechargenews.com/china/major-chinese-wind-supplier-planning-factories-on-five-continents/2-1-2059919",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "US to add 106GW of wind despite Trump's policy pushback",
+      "source_name": "Recharge",
+      "published_at": "2026-10-23",
+      "url": "https://www.rechargenews.com/policy/us-to-add-106gw-of-wind-despite-trumps-policy-pushback/2-1-2060839",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Germany rethinks offshore wind layout to cut costly wake effects",
+      "source_name": "Recharge",
+      "published_at": "2026-10-23",
+      "url": "https://www.rechargenews.com/policy/germany-rethinks-offshore-wind-layout-to-cut-costly-wake-effects/2-1-2062551",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "US Wind gives up Baltimore monopile maker but insists Maryland offshore wind farm will proceed",
+      "source_name": "Recharge",
+      "published_at": "2026-10-23",
+      "url": "https://www.rechargenews.com/offshore-wind/us-wind-gives-up-baltimore-monopile-maker-but-insists-maryland-offshore-wind-farm-will-proceed/2-1-2063040",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
     {
       "title": "Khánh thành tổ hợp nhà máy điện gió Krông Búk 1, Krông Búk 2, Cư Né 1 và Cư Né 2",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
@@ -83,59 +133,9 @@
       ]
     },
     {
-      "title": "Soluna, Applied Digital plan 50-MW wind-powered data centre in Texas",
-      "source_name": "Renewables Now",
-      "published_at": "2026-10-22",
-      "url": "https://renewablesnow.com/news/soluna-applied-digital-plan-50-mw-wind-powered-data-centre-in-texas-1303456/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "UK grid engineers: More wind and solar make power system harder to manage",
-      "source_name": "Recharge",
-      "published_at": "2026-10-22",
-      "url": "https://www.rechargenews.com/grid/uk-grid-engineers-more-wind-and-solar-make-power-system-harder-to-manage/2-1-2061094",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Major Chinese wind supplier planning factories on five continents",
-      "source_name": "Recharge",
-      "published_at": "2026-10-22",
-      "url": "https://www.rechargenews.com/china/major-chinese-wind-supplier-planning-factories-on-five-continents/2-1-2059919",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "US to add 106GW of wind despite Trump's policy pushback",
-      "source_name": "Recharge",
-      "published_at": "2026-10-22",
-      "url": "https://www.rechargenews.com/policy/us-to-add-106gw-of-wind-despite-trumps-policy-pushback/2-1-2060839",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Germany rethinks offshore wind layout to cut costly wake effects",
-      "source_name": "Recharge",
-      "published_at": "2026-10-22",
-      "url": "https://www.rechargenews.com/policy/germany-rethinks-offshore-wind-layout-to-cut-costly-wake-effects/2-1-2062551",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Africa’s installed wind capacity tops 11 GW – GWEC",
+      "title": "20.10.2026 Africa’s installed wind capacity tops 11 GW – GWEC",
       "source_name": "QazaqGreen",
-      "published_at": "2026-10-22",
+      "published_at": "2026-10-23",
       "url": "https://qazaqgreen.com/en/news/world/3946/",
       "reasons": [
         "无六类监测标签",
@@ -362,20 +362,20 @@
       ]
     },
     {
-      "title": "Türkiye seeks stronger international cooperation for resilient wind energy supply chains",
+      "title": "Global wind power capacity to rise by more than 180 GW this year",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-23",
-      "url": "https://www.aa.com.tr/en/energy/wind/turkiye-seeks-stronger-international-cooperation-for-resilient-wind-energy-supply-chains/59763",
+      "url": "https://www.aa.com.tr/en/energy/wind/global-wind-power-capacity-to-rise-by-more-than-180-gw-this-year/59784",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Global wind power capacity to rise by more than 180 GW this year",
+      "title": "Türkiye seeks stronger international cooperation for resilient wind energy supply chains",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-23",
-      "url": "https://www.aa.com.tr/en/energy/wind/global-wind-power-capacity-to-rise-by-more-than-180-gw-this-year/59784",
+      "url": "https://www.aa.com.tr/en/energy/wind/turkiye-seeks-stronger-international-cooperation-for-resilient-wind-energy-supply-chains/59763",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -504,15 +504,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "L’ANEV, CON IL SUO SEGRETARIO GENERALE, DAVIDE ASTIASO GARCIA, ELETTO NEL WINDEUROPE MANAGEMENT COMMITTEE - ANEV",
-      "source_name": "ANEV",
-      "published_at": "2026-06-25",
-      "url": "https://www.anev.org/2026/06/25/lanev-con-il-suo-segretario-generale-davide-astiaso-garcia-eletto-nel-windeurope-management-committee/",
-      "reasons": [
-        "正文明确涉及风电"
       ]
     }
   ]
