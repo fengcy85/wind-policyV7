@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-24T04:56:44+00:00",
-  "before": 349,
+  "generated_at": "2026-10-25T05:20:53+00:00",
+  "before": 348,
   "kept": 298,
-  "filtered_out": 51,
+  "filtered_out": 50,
   "tag_counts": {
     "竞对资讯": 258,
     "电网建设": 26,
@@ -63,16 +63,6 @@
       ]
     },
     {
-      "title": "Khánh thành tổ hợp nhà máy điện gió Krông Búk 1, Krông Búk 2, Cư Né 1 và Cư Né 2",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-23",
-      "url": "https://nangluongvietnam.vn/khanh-thanh-to-hop-nha-may-dien-gio-krong-buk-1-krong-buk-2-cu-ne-1-va-cu-ne-2-36504.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Chấp thuận chủ trương đầu tư, nhà đầu tư dự án Nhà máy Điện gió Đình Lập 1.1 (tỉnh Lạng Sơn)",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-10-23",
@@ -83,10 +73,10 @@
       ]
     },
     {
-      "title": "Chấp thuận chủ trương đầu tư, nhà đầu tư dự án điện gió An Phúc Đông Hải và Đông Hải 1, 3, 13 (giai đoạn tiếp theo)",
+      "title": "Khánh thành tổ hợp nhà máy điện gió Krông Búk 1, Krông Búk 2, Cư Né 1 và Cư Né 2",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-10-23",
-      "url": "https://nangluongvietnam.vn/chap-thuan-chu-truong-dau-tu-nha-dau-tu-du-an-dien-gio-an-phuc-dong-hai-va-dong-hai-1-3-13-giai-doan-tiep-theo-36554.html",
+      "url": "https://nangluongvietnam.vn/khanh-thanh-to-hop-nha-may-dien-gio-krong-buk-1-krong-buk-2-cu-ne-1-va-cu-ne-2-36504.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -97,6 +87,16 @@
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-10-23",
       "url": "https://nangluongvietnam.vn/viet-nam-muon-phat-trien-dien-gio-ngoai-khoi-nang-luc-logistics-cung-phai-san-sang-36561.html",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Chấp thuận chủ trương đầu tư, nhà đầu tư dự án điện gió An Phúc Đông Hải và Đông Hải 1, 3, 13 (giai đoạn tiếp theo)",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-10-23",
+      "url": "https://nangluongvietnam.vn/chap-thuan-chu-truong-dau-tu-nha-dau-tu-du-an-dien-gio-an-phuc-dong-hai-va-dong-hai-1-3-13-giai-doan-tiep-theo-36554.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -137,16 +137,6 @@
       "source_name": "QazaqGreen",
       "published_at": "2026-10-23",
       "url": "https://qazaqgreen.com/en/news/world/3946/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Egypt targets regional gas integration and reveals $6.1 bn debt clearance at Mediterranean Offshore Conference",
-      "source_name": "Daily News Egypt",
-      "published_at": "2026-10-20",
-      "url": "https://www.dailynewsegypt.com/2026/10/20/egypt-targets-regional-gas-integration-and-reveals-6-1-bn-debt-clearance-at-mediterranean-offshore-conference/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -200,15 +190,6 @@
       ]
     },
     {
-      "title": "Eskom launches 6 GW renewables tender",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-13",
-      "url": "https://renewablewatch.in/2026/10/13/eskom-launches-6-gw-renewables-tender/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Alfanar accepts KPI Green Energy's binding offer for 507.9 MW Bhuj wind portfolio; proceeds to fund 3 GW India pipeline",
       "source_name": "Renewable Watch",
       "published_at": "2026-10-13",
@@ -216,6 +197,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "Eskom launches 6 GW renewables tender",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-13",
+      "url": "https://renewablewatch.in/2026/10/13/eskom-launches-6-gw-renewables-tender/",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -362,20 +352,20 @@
       ]
     },
     {
-      "title": "Global wind power capacity to rise by more than 180 GW this year",
+      "title": "Türkiye seeks stronger international cooperation for resilient wind energy supply chains",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-23",
-      "url": "https://www.aa.com.tr/en/energy/wind/global-wind-power-capacity-to-rise-by-more-than-180-gw-this-year/59784",
+      "url": "https://www.aa.com.tr/en/energy/wind/turkiye-seeks-stronger-international-cooperation-for-resilient-wind-energy-supply-chains/59763",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Türkiye seeks stronger international cooperation for resilient wind energy supply chains",
+      "title": "Global wind power capacity to rise by more than 180 GW this year",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-23",
-      "url": "https://www.aa.com.tr/en/energy/wind/turkiye-seeks-stronger-international-cooperation-for-resilient-wind-energy-supply-chains/59763",
+      "url": "https://www.aa.com.tr/en/energy/wind/global-wind-power-capacity-to-rise-by-more-than-180-gw-this-year/59784",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
