@@ -1,520 +1,4 @@
 {
-  "cn_5555c1d4376e": [
-    {
-      "url": "https://news.bjx.com.cn/html/20261009/1515366.shtml",
-      "title": "风电并网新规！国家能源局征求意见稿发布",
-      "date": "2026-10-09",
-      "rank": 9,
-      "last_error": "详情访问失败",
-      "last_failed_at": "2026-10-25T05:01:24+00:00"
-    },
-    {
-      "url": "https://news.bjx.com.cn/html/20260921/1513716.shtml",
-      "title": "河北：就风、光发电及独立储能项目共用工程建设及费用分摊征求意见",
-      "date": "2026-09-21",
-      "rank": 9,
-      "last_error": "详情访问失败",
-      "last_failed_at": "2026-10-25T05:01:24+00:00"
-    },
-    {
-      "url": "https://news.bjx.com.cn/html/20261020/1516992.shtml",
-      "title": "国家发改委：支持新能源与场站内配套储能作为联合报价主体参与电力现货市场申报、出清、调用、结算、考核等（征求意见）",
-      "date": "2026-10-20",
-      "rank": 5,
-      "last_error": "详情访问失败",
-      "last_failed_at": "2026-10-25T05:01:25+00:00"
-    },
-    {
-      "url": "https://news.bjx.com.cn/html/20261013/1515993.shtml",
-      "title": "涉及新能源开发！天津开展2027年市级重点项目申报",
-      "date": "2026-10-13",
-      "rank": 5,
-      "last_error": "详情访问失败",
-      "last_failed_at": "2026-10-25T05:01:26+00:00"
-    }
-  ],
-  "cn_2e22c487ffee": [
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/263.html",
-      "title": "发改委关于调整陆上风电标杆电价的通知",
-      "date": "",
-      "rank": 10,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/262.html",
-      "title": "国家能源局关于印发全国海上风电开发建设方案（2014—2016)的通知",
-      "date": "",
-      "rank": 10,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/261.html",
-      "title": "国家能源局关于规范风电设备市场秩序有关要求的通知",
-      "date": "",
-      "rank": 10,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/258.html",
-      "title": "国家发展改革委关于海上风电上网电价政策的通知",
-      "date": "",
-      "rank": 10,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/257.html",
-      "title": "安徽省能源局关于加强和规范风电开发建设管理的通知",
-      "date": "",
-      "rank": 10,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/255.html",
-      "title": "国家能源局关于做好2014年风电并网消纳工作的通知",
-      "date": "",
-      "rank": 10,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/249.html",
-      "title": "国家能源局综合司关于开展风电太阳能光伏发电消纳情况监管调研的通知",
-      "date": "",
-      "rank": 10,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/244.html",
-      "title": "国家能源局关于加强风电产业监测和评价体系建设的通知",
-      "date": "",
-      "rank": 10,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/243.html",
-      "title": "关于批准发布《小型风力发电机组 设计要求》等2项国家标准的公告",
-      "date": "",
-      "rank": 10,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/242.html",
-      "title": "国家能源局关于印发“十二五”第三批风电项目核准计划的通知",
-      "date": "",
-      "rank": 10,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/241.html",
-      "title": "《国家能源局关于做好2013年风电并网和消纳相关工作的通知》",
-      "date": "",
-      "rank": 10,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/236.html",
-      "title": "电监会发布《风电场弃风电量计算办法》",
-      "date": "",
-      "rank": 10,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/235.html",
-      "title": "国家能源局增补部分省、自治区“十二五”风电核准计划项目的通知",
-      "date": "",
-      "rank": 10,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/31912.html",
-      "title": "国家发改委就2021年风光发电上网电价征求意见",
-      "date": "",
-      "rank": 9,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/282.html",
-      "title": "关于风力发电增值税政策的通知",
-      "date": "",
-      "rank": 9,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/41080.html",
-      "title": "国家能源局关于印发《可再生能源绿色电力证书管理实施细则（试行）》的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/41078.html",
-      "title": "国家发展改革委 国家能源局关于深化新能源上网电价市场化改革促进新能源高质量发展的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/32079.html",
-      "title": "国家发改委发布《关于2021年新能源上网电价政策有关事项的通知》",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/32034.html",
-      "title": "《关于2021年可再生能源电力消纳责任权重及有关事项的通知》出台",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/31358.html",
-      "title": "国家能源局发布《关于做好2020年度新能源发电项目并网接入有关工作的通知》",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/30423.html",
-      "title": "国家发改委 能源局关于印发各省级行政区域2020年可再生能源电力消纳责任权重的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/29720.html",
-      "title": "关于促进非水可再生能源发电健康发展的若干意见",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/349.html",
-      "title": "关于印发《清洁能源消纳行动计划（2018-2020年）》的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/348.html",
-      "title": "国家能源局综合司征求《关于实行可再生能源电力配额制的通知》意见的函",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/347.html",
-      "title": "国家发展改革委办公厅关于征求《可再生能源电力配额及考核办法》意见的函",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/346.html",
-      "title": "关于积极推进电力市场化交易 进一步完善交易机制的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/342.html",
-      "title": "国家能源局综合司关于征求《可再生能源电力配额及考核办法（征求意见稿）》意见的函",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/338.html",
-      "title": "国家能源局关于建立清洁能源示范省（区）监测评价体系（试行）的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/330.html",
-      "title": "国家能源局关于可再生能源发展“十三五”规划实施的指导意见",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/329.html",
-      "title": "国家能源局综合司发布《关于开展北方地区可再生能源清洁取暖实施方案编制有关工作的通知》",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/326.html",
-      "title": "关于开展可再生能源电价附加补助资金清算工作的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/325.html",
-      "title": "国家能源局综合司关于报送可再生能源“十三五”发展规划年度建设规模方案的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/318.html",
-      "title": "关于试行可再生能源绿色电力证书核发及自愿认购交易制度的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/314.html",
-      "title": "国家发展改革委关于印发《可再生能源发展“十三五”规划》的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/304.html",
-      "title": "发改委关于印发《可再生能源发电全额保障性收购管理办法》的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/301.html",
-      "title": "国家能源局关于建立可再生能源开发利用目标引导制度的指导意见",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/298.html",
-      "title": "国家能源局关于做好“三北”地区 可再生能源消纳工作的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/297.html",
-      "title": "财政部：关于组织申报可再生能源电价附加资金补助目录的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/295.html",
-      "title": "《关于提高可再生能源发展基金征收标准等有关问题的通知》",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/293.html",
-      "title": "可再生能源发电全额保障性收购管理办法（征求意见稿）",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/288.html",
-      "title": "国家发展改革委办公厅关于开展可再生能源就近消纳试点的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/287.html",
-      "title": "国家能源局关于实行可再生能源发电项目信息化管理的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/285.html",
-      "title": "国家海洋局关于印发《海洋可再生能源资金项目验收细则》（试行）",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/283.html",
-      "title": "国家能源局关于推进新能源微电网示范项目建设的指导意见",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/275.html",
-      "title": "财政部关于印发《可再生能源发展专项资金管理暂行办法》的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/274.html",
-      "title": "国家能源局综合司关于进一步做好可再生能源发展“十三五”规划编",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/273.html",
-      "title": "湖北省发改委、能源局《关于做好可再生能源电力配额考核准备工作",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/272.html",
-      "title": "内蒙古关于建立可再生能源保障性收购长效机制的指导意见",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/271.html",
-      "title": "国家能源局关于印发可再生能源发电利用统计报表制度的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/253.html",
-      "title": "国家能源局关于印发《发电机组并网安全性评价管理办法》的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/248.html",
-      "title": "国家发展改革委关于调整可再生能源电价附加标准与环保电价有关事项的通知",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/240.html",
-      "title": "关于做好分布式电源并网服务工作的意见",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/234.html",
-      "title": "国家发展改革委 国家电监会关于可再生能源电价补贴和配额交易方案",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/233.html",
-      "title": "《可再生能源发展“十二五”规划》全文",
-      "date": "",
-      "rank": 4,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/41533.html",
-      "title": "《关于有序推动多用户绿电直连发展有关事项的通知》发布",
-      "date": "",
-      "rank": 3,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/29122.html",
-      "title": "关于印发《贯彻落实<关于促进储能技术与产业发展的指导意见&gt2019-2020年行动计划》的通知",
-      "date": "",
-      "rank": 3,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/332.html",
-      "title": "关于促进储能技术与产业发展的指导意见",
-      "date": "",
-      "rank": 3,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/33924.html",
-      "title": "国家发展改革委、国家能源局 《关于促进新时代新能源高质量发展的实施方案》",
-      "date": "",
-      "rank": 1,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/269.html",
-      "title": "国家发展改革委 国家能源局关于改善电力运行 调节促进清洁能源",
-      "date": "",
-      "rank": 1,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    },
-    {
-      "url": "https://www.cweea.com.cn/zcfg/html/33388.html",
-      "title": "《“十四五”新型储能发展实施方案》印发",
-      "date": "",
-      "rank": 0,
-      "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-10-25T05:09:42+00:00"
-    }
-  ],
   "intl_0e079da25f30": [
     {
       "url": "https://www.nersa.org.za/electricity/file/7394/NERSA-Regulatory-Rules-on-Network-Charges-for-Third-Party-transportation-of-energy_Approved-03-March-2025-_2.pdf",
@@ -629,6 +113,522 @@
       "rank": 1,
       "last_error": "正文附件 PDF 读取失败",
       "last_failed_at": "2026-10-25T05:10:14+00:00"
+    }
+  ],
+  "cn_5555c1d4376e": [
+    {
+      "url": "https://news.bjx.com.cn/html/20261009/1515366.shtml",
+      "title": "风电并网新规！国家能源局征求意见稿发布",
+      "date": "2026-10-09",
+      "rank": 9,
+      "last_error": "详情访问失败",
+      "last_failed_at": "2026-10-26T04:48:22+00:00"
+    },
+    {
+      "url": "https://news.bjx.com.cn/html/20260921/1513716.shtml",
+      "title": "河北：就风、光发电及独立储能项目共用工程建设及费用分摊征求意见",
+      "date": "2026-09-21",
+      "rank": 9,
+      "last_error": "详情访问失败",
+      "last_failed_at": "2026-10-26T04:48:22+00:00"
+    },
+    {
+      "url": "https://news.bjx.com.cn/html/20261020/1516992.shtml",
+      "title": "国家发改委：支持新能源与场站内配套储能作为联合报价主体参与电力现货市场申报、出清、调用、结算、考核等（征求意见）",
+      "date": "2026-10-20",
+      "rank": 5,
+      "last_error": "详情访问失败",
+      "last_failed_at": "2026-10-26T04:48:23+00:00"
+    },
+    {
+      "url": "https://news.bjx.com.cn/html/20261013/1515993.shtml",
+      "title": "涉及新能源开发！天津开展2027年市级重点项目申报",
+      "date": "2026-10-13",
+      "rank": 5,
+      "last_error": "详情访问失败",
+      "last_failed_at": "2026-10-26T04:48:23+00:00"
+    }
+  ],
+  "cn_2e22c487ffee": [
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/263.html",
+      "title": "发改委关于调整陆上风电标杆电价的通知",
+      "date": "",
+      "rank": 10,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/262.html",
+      "title": "国家能源局关于印发全国海上风电开发建设方案（2014—2016)的通知",
+      "date": "",
+      "rank": 10,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/261.html",
+      "title": "国家能源局关于规范风电设备市场秩序有关要求的通知",
+      "date": "",
+      "rank": 10,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/258.html",
+      "title": "国家发展改革委关于海上风电上网电价政策的通知",
+      "date": "",
+      "rank": 10,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/257.html",
+      "title": "安徽省能源局关于加强和规范风电开发建设管理的通知",
+      "date": "",
+      "rank": 10,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/255.html",
+      "title": "国家能源局关于做好2014年风电并网消纳工作的通知",
+      "date": "",
+      "rank": 10,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/249.html",
+      "title": "国家能源局综合司关于开展风电太阳能光伏发电消纳情况监管调研的通知",
+      "date": "",
+      "rank": 10,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/244.html",
+      "title": "国家能源局关于加强风电产业监测和评价体系建设的通知",
+      "date": "",
+      "rank": 10,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/243.html",
+      "title": "关于批准发布《小型风力发电机组 设计要求》等2项国家标准的公告",
+      "date": "",
+      "rank": 10,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/242.html",
+      "title": "国家能源局关于印发“十二五”第三批风电项目核准计划的通知",
+      "date": "",
+      "rank": 10,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/241.html",
+      "title": "《国家能源局关于做好2013年风电并网和消纳相关工作的通知》",
+      "date": "",
+      "rank": 10,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/236.html",
+      "title": "电监会发布《风电场弃风电量计算办法》",
+      "date": "",
+      "rank": 10,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/235.html",
+      "title": "国家能源局增补部分省、自治区“十二五”风电核准计划项目的通知",
+      "date": "",
+      "rank": 10,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/31912.html",
+      "title": "国家发改委就2021年风光发电上网电价征求意见",
+      "date": "",
+      "rank": 9,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/282.html",
+      "title": "关于风力发电增值税政策的通知",
+      "date": "",
+      "rank": 9,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/41080.html",
+      "title": "国家能源局关于印发《可再生能源绿色电力证书管理实施细则（试行）》的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/41078.html",
+      "title": "国家发展改革委 国家能源局关于深化新能源上网电价市场化改革促进新能源高质量发展的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/32079.html",
+      "title": "国家发改委发布《关于2021年新能源上网电价政策有关事项的通知》",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/32034.html",
+      "title": "《关于2021年可再生能源电力消纳责任权重及有关事项的通知》出台",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/31358.html",
+      "title": "国家能源局发布《关于做好2020年度新能源发电项目并网接入有关工作的通知》",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/30423.html",
+      "title": "国家发改委 能源局关于印发各省级行政区域2020年可再生能源电力消纳责任权重的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/29720.html",
+      "title": "关于促进非水可再生能源发电健康发展的若干意见",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/349.html",
+      "title": "关于印发《清洁能源消纳行动计划（2018-2020年）》的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/348.html",
+      "title": "国家能源局综合司征求《关于实行可再生能源电力配额制的通知》意见的函",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/347.html",
+      "title": "国家发展改革委办公厅关于征求《可再生能源电力配额及考核办法》意见的函",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/346.html",
+      "title": "关于积极推进电力市场化交易 进一步完善交易机制的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/342.html",
+      "title": "国家能源局综合司关于征求《可再生能源电力配额及考核办法（征求意见稿）》意见的函",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/338.html",
+      "title": "国家能源局关于建立清洁能源示范省（区）监测评价体系（试行）的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/330.html",
+      "title": "国家能源局关于可再生能源发展“十三五”规划实施的指导意见",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/329.html",
+      "title": "国家能源局综合司发布《关于开展北方地区可再生能源清洁取暖实施方案编制有关工作的通知》",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/326.html",
+      "title": "关于开展可再生能源电价附加补助资金清算工作的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/325.html",
+      "title": "国家能源局综合司关于报送可再生能源“十三五”发展规划年度建设规模方案的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/318.html",
+      "title": "关于试行可再生能源绿色电力证书核发及自愿认购交易制度的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/314.html",
+      "title": "国家发展改革委关于印发《可再生能源发展“十三五”规划》的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/304.html",
+      "title": "发改委关于印发《可再生能源发电全额保障性收购管理办法》的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/301.html",
+      "title": "国家能源局关于建立可再生能源开发利用目标引导制度的指导意见",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/298.html",
+      "title": "国家能源局关于做好“三北”地区 可再生能源消纳工作的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/297.html",
+      "title": "财政部：关于组织申报可再生能源电价附加资金补助目录的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/295.html",
+      "title": "《关于提高可再生能源发展基金征收标准等有关问题的通知》",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/293.html",
+      "title": "可再生能源发电全额保障性收购管理办法（征求意见稿）",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/288.html",
+      "title": "国家发展改革委办公厅关于开展可再生能源就近消纳试点的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/287.html",
+      "title": "国家能源局关于实行可再生能源发电项目信息化管理的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/285.html",
+      "title": "国家海洋局关于印发《海洋可再生能源资金项目验收细则》（试行）",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/283.html",
+      "title": "国家能源局关于推进新能源微电网示范项目建设的指导意见",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/275.html",
+      "title": "财政部关于印发《可再生能源发展专项资金管理暂行办法》的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/274.html",
+      "title": "国家能源局综合司关于进一步做好可再生能源发展“十三五”规划编",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/273.html",
+      "title": "湖北省发改委、能源局《关于做好可再生能源电力配额考核准备工作",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/272.html",
+      "title": "内蒙古关于建立可再生能源保障性收购长效机制的指导意见",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/271.html",
+      "title": "国家能源局关于印发可再生能源发电利用统计报表制度的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/253.html",
+      "title": "国家能源局关于印发《发电机组并网安全性评价管理办法》的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/248.html",
+      "title": "国家发展改革委关于调整可再生能源电价附加标准与环保电价有关事项的通知",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/240.html",
+      "title": "关于做好分布式电源并网服务工作的意见",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/234.html",
+      "title": "国家发展改革委 国家电监会关于可再生能源电价补贴和配额交易方案",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/233.html",
+      "title": "《可再生能源发展“十二五”规划》全文",
+      "date": "",
+      "rank": 4,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/41533.html",
+      "title": "《关于有序推动多用户绿电直连发展有关事项的通知》发布",
+      "date": "",
+      "rank": 3,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/29122.html",
+      "title": "关于印发《贯彻落实<关于促进储能技术与产业发展的指导意见&gt2019-2020年行动计划》的通知",
+      "date": "",
+      "rank": 3,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/332.html",
+      "title": "关于促进储能技术与产业发展的指导意见",
+      "date": "",
+      "rank": 3,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/33924.html",
+      "title": "国家发展改革委、国家能源局 《关于促进新时代新能源高质量发展的实施方案》",
+      "date": "",
+      "rank": 1,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/269.html",
+      "title": "国家发展改革委 国家能源局关于改善电力运行 调节促进清洁能源",
+      "date": "",
+      "rank": 1,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
+    },
+    {
+      "url": "https://www.cweea.com.cn/zcfg/html/33388.html",
+      "title": "《“十四五”新型储能发展实施方案》印发",
+      "date": "",
+      "rank": 0,
+      "last_error": "详情下载预算耗尽",
+      "last_failed_at": "2026-10-26T04:57:30+00:00"
     }
   ]
 }

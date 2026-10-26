@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-25T05:20:53+00:00",
+  "generated_at": "2026-10-26T05:07:33+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-19",
-    "end": "2026-10-25"
+    "start": "2026-10-20",
+    "end": "2026-10-26"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
-  "count": 8,
+  "count": 7,
   "tag_order": [
     "竞对资讯",
     "招标采购",
@@ -17,33 +17,60 @@
   ],
   "tag_counts": {
     "竞对资讯": 5,
-    "招标采购": 5,
-    "市场机制": 2,
+    "招标采购": 3,
+    "市场机制": 1,
     "电网建设": 2,
     "宏观政策": 0,
-    "审批政策": 3
+    "审批政策": 4
   },
   "items": [
     {
       "country": "全球",
       "source_name": "Recharge",
-      "title": "Wind in war: How one struggle turned into a 1GW auction with a very special CfD",
-      "translated_title": "战争中的风:一场斗争是如何变成1GW的拍卖会的,一个非常特殊的CfD",
-      "published_at": "2026-10-19",
-      "url": "https://www.rechargenews.com/onshore-wind/wind-in-war-how-one-struggle-turned-into-a-1gw-auction-with-a-very-special-cfd/2-1-2059010",
+      "title": "World's biggest offshore wind farm battles CfD deadline as turbine troubles weigh",
+      "translated_title": "世界最大的岸外风力场战 CfD的最后期限 风机故障的重量",
+      "published_at": "2026-10-22",
+      "url": "https://www.rechargenews.com/offshore-wind/worlds-biggest-offshore-wind-farm-battles-cfd-deadline-as-turbine-troubles-weigh/2-1-2059341",
       "tags": [
-        "招标采购",
-        "市场机制"
+        "市场机制",
+        "电网建设",
+        "审批政策"
       ],
       "competitors": [],
-      "monitor_reason": "招标/采购节点 · 电价/市场机制 · GW级项目 · 标题明确风电",
+      "monitor_reason": "电价/市场机制 · 项目涉及电网/送出 · 正文涉及审批/许可 · 标题明确风电",
       "signals": [
-        "1 GW",
-        "招标采购",
-        "市场机制"
+        "市场机制",
+        "电网建设",
+        "电价/市场机制"
       ],
       "rank": 1,
-      "importance_reason": "1 GW · 招标采购 · 市场机制"
+      "importance_reason": "市场机制 · 电网建设 · 电价/市场机制"
+    },
+    {
+      "country": "全球",
+      "source_name": "Recharge",
+      "title": "Europe built the wind farms but neglected the grid. Now the costs are mounting analysis 20.10.2026",
+      "translated_title": "欧洲建造了风电场,但忽略了电网. 现在成本正在上升分析 20.10.2026",
+      "published_at": "2026-10-23",
+      "url": "https://www.rechargenews.com/analysis/costs-soared-as-europe-raced-to-build-renewables-while-the-grid-fell-behind/2-1-2061243",
+      "tags": [
+        "竞对资讯",
+        "招标采购",
+        "审批政策"
+      ],
+      "competitors": [
+        "Vestas",
+        "Envision",
+        "Iberdrola"
+      ],
+      "monitor_reason": "正文含招标/采购 · 正文涉及审批/许可 · 竞对项目动态 · 标题明确风电",
+      "signals": [
+        "竞对资讯",
+        "招标采购",
+        "Vestas"
+      ],
+      "rank": 2,
+      "importance_reason": "竞对资讯 · 招标采购 · Vestas"
     },
     {
       "country": "全球",
@@ -66,30 +93,8 @@
         "招标采购",
         "Iberdrola"
       ],
-      "rank": 2,
-      "importance_reason": "竞对资讯 · 招标采购 · Iberdrola"
-    },
-    {
-      "country": "全球",
-      "source_name": "Recharge",
-      "title": "World's biggest offshore wind farm battles CfD deadline as turbine troubles weigh",
-      "translated_title": "世界最大的岸外风力场战 CfD的最后期限 风机故障的重量",
-      "published_at": "2026-10-22",
-      "url": "https://www.rechargenews.com/offshore-wind/worlds-biggest-offshore-wind-farm-battles-cfd-deadline-as-turbine-troubles-weigh/2-1-2059341",
-      "tags": [
-        "市场机制",
-        "电网建设",
-        "审批政策"
-      ],
-      "competitors": [],
-      "monitor_reason": "电价/市场机制 · 项目涉及电网/送出 · 正文涉及审批/许可 · 标题明确风电",
-      "signals": [
-        "市场机制",
-        "电网建设",
-        "电价/市场机制"
-      ],
       "rank": 3,
-      "importance_reason": "市场机制 · 电网建设 · 电价/市场机制"
+      "importance_reason": "竞对资讯 · 招标采购 · Iberdrola"
     },
     {
       "country": "全球",
@@ -114,29 +119,6 @@
       "importance_reason": "70 GW · 电网建设 · ReNew"
     },
     {
-      "country": "印度",
-      "source_name": "Energetica India – Wind Power",
-      "title": "Alfanar to Sell 507.9 MW Gujarat Wind Portfolio to KPI Green",
-      "translated_title": "Alfanar向KPI Green出售507.9兆瓦古吉拉特风能组合",
-      "published_at": "2026-10-19",
-      "url": "https://www.energetica-india.net/news/alfanar-to-sell-5079-mw-gujarat-wind-portfolio-to-kpi-green",
-      "tags": [
-        "竞对资讯",
-        "招标采购"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "正文含招标/采购 · 竞对项目动态 · 500MW+项目 · 标题明确风电",
-      "signals": [
-        "508 MW",
-        "竞对资讯",
-        "招标采购"
-      ],
-      "rank": 5,
-      "importance_reason": "508 MW · 竞对资讯 · 招标采购"
-    },
-    {
       "country": "全球",
       "source_name": "Renewables Now",
       "title": "Nordex enters New Zealand with 192-MW wind turbine order",
@@ -157,7 +139,7 @@
         "竞对资讯",
         "招标采购"
       ],
-      "rank": 6,
+      "rank": 5,
       "importance_reason": "192 MW · 竞对资讯 · 招标采购"
     },
     {
@@ -180,31 +162,30 @@
         "审批政策",
         "ReNew"
       ],
-      "rank": 7,
+      "rank": 6,
       "importance_reason": "竞对资讯 · 审批政策 · ReNew"
     },
     {
-      "country": "印度",
-      "source_name": "Energetica India – Wind Power",
-      "title": "Rezolv Energy Energises 192 MW Wind Project in Romania",
-      "translated_title": "罗马尼亚Rezolv能源能源能源192兆瓦风能项目",
-      "published_at": "2026-10-19",
-      "url": "https://www.energetica-india.net/news/rezolv-energy-energises-192-mw-wind-project-in-romania",
+      "country": "全球",
+      "source_name": "Renewables Now",
+      "title": "Alcazar raises debt to bankroll 500 MW of wind projects in Egypt",
+      "translated_title": "阿尔卡扎尔举债资助埃及500兆瓦风力项目",
+      "published_at": "2026-10-23",
+      "url": "https://renewablesnow.com/news/alcazar-raises-debt-to-bankroll-500-mw-of-wind-projects-in-egypt-1303546/",
       "tags": [
-        "竞对资讯",
-        "招标采购"
+        "竞对资讯"
       ],
       "competitors": [
         "ReNew"
       ],
-      "monitor_reason": "正文含招标/采购 · 竞对项目动态 · 标题明确风电",
+      "monitor_reason": "竞对项目动态 · 500MW+项目 · 标题明确风电",
       "signals": [
-        "192 MW",
+        "500 MW",
         "竞对资讯",
-        "招标采购"
+        "ReNew"
       ],
-      "rank": 8,
-      "importance_reason": "192 MW · 竞对资讯 · 招标采购"
+      "rank": 7,
+      "importance_reason": "500 MW · 竞对资讯 · ReNew"
     }
   ]
 }
