@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T05:07:33+00:00",
+  "generated_at": "2026-10-27T05:24:11+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-20",
-    "end": "2026-10-26"
+    "start": "2026-10-21",
+    "end": "2026-10-27"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
-  "count": 7,
+  "count": 8,
   "tag_order": [
     "竞对资讯",
     "招标采购",
@@ -17,67 +17,65 @@
   ],
   "tag_counts": {
     "竞对资讯": 5,
-    "招标采购": 3,
+    "招标采购": 4,
     "市场机制": 1,
     "电网建设": 2,
     "宏观政策": 0,
-    "审批政策": 4
+    "审批政策": 3
   },
   "items": [
     {
       "country": "全球",
-      "source_name": "Recharge",
-      "title": "World's biggest offshore wind farm battles CfD deadline as turbine troubles weigh",
-      "translated_title": "世界最大的岸外风力场战 CfD的最后期限 风机故障的重量",
-      "published_at": "2026-10-22",
-      "url": "https://www.rechargenews.com/offshore-wind/worlds-biggest-offshore-wind-farm-battles-cfd-deadline-as-turbine-troubles-weigh/2-1-2059341",
+      "source_name": "Renewables Now",
+      "title": "US to negotiate over wind turbine imports, no new tariffs announced",
+      "translated_title": "美国谈判风电机组进口,没有宣布新的关税",
+      "published_at": "2026-10-26",
+      "url": "https://renewablesnow.com/news/us-to-negotiate-over-wind-turbine-imports-no-new-tariffs-announced-1303626/",
       "tags": [
-        "市场机制",
-        "电网建设",
-        "审批政策"
+        "竞对资讯",
+        "市场机制"
       ],
-      "competitors": [],
-      "monitor_reason": "电价/市场机制 · 项目涉及电网/送出 · 正文涉及审批/许可 · 标题明确风电",
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "电价/市场机制 · 竞对项目动态 · 标题明确风电",
       "signals": [
+        "竞对资讯",
         "市场机制",
-        "电网建设",
-        "电价/市场机制"
+        "ReNew"
       ],
       "rank": 1,
-      "importance_reason": "市场机制 · 电网建设 · 电价/市场机制"
+      "importance_reason": "竞对资讯 · 市场机制 · ReNew"
     },
     {
       "country": "全球",
-      "source_name": "Recharge",
-      "title": "Europe built the wind farms but neglected the grid. Now the costs are mounting analysis 20.10.2026",
-      "translated_title": "欧洲建造了风电场,但忽略了电网. 现在成本正在上升分析 20.10.2026",
-      "published_at": "2026-10-23",
-      "url": "https://www.rechargenews.com/analysis/costs-soared-as-europe-raced-to-build-renewables-while-the-grid-fell-behind/2-1-2061243",
+      "source_name": "Renewables Now",
+      "title": "US wind turbine orders rise to 2.8 GW in Q2 ahead of tax deadline",
+      "translated_title": "美国风电机组订单在纳税期限前在Q2中上升至2.8GW",
+      "published_at": "2026-10-26",
+      "url": "https://renewablesnow.com/news/us-wind-turbine-orders-rise-to-2-8-gw-in-q2-ahead-of-tax-deadline-1303682/",
       "tags": [
         "竞对资讯",
-        "招标采购",
-        "审批政策"
+        "招标采购"
       ],
       "competitors": [
-        "Vestas",
-        "Envision",
-        "Iberdrola"
+        "ReNew"
       ],
-      "monitor_reason": "正文含招标/采购 · 正文涉及审批/许可 · 竞对项目动态 · 标题明确风电",
+      "monitor_reason": "招标/采购节点 · 竞对项目动态 · GW级项目 · 标题明确风电",
       "signals": [
+        "2.8 GW",
         "竞对资讯",
-        "招标采购",
-        "Vestas"
+        "招标采购"
       ],
       "rank": 2,
-      "importance_reason": "竞对资讯 · 招标采购 · Vestas"
+      "importance_reason": "2.8 GW · 竞对资讯 · 招标采购"
     },
     {
       "country": "全球",
       "source_name": "Recharge",
       "title": "Latest US offshore wind remand bid may rattle permitting talks, but Iberdrola project already stalled",
       "translated_title": "美国最近的海上风还押招标 可能引发谈判 但Iberdrola项目已经停滞了",
-      "published_at": "2026-10-23",
+      "published_at": "2026-10-26",
       "url": "https://www.rechargenews.com/policy/latest-us-offshore-wind-remand-bid-may-rattle-permitting-talks-but-iberdrola-project-already-stalled/2-1-2063030",
       "tags": [
         "竞对资讯",
@@ -119,35 +117,11 @@
       "importance_reason": "70 GW · 电网建设 · ReNew"
     },
     {
-      "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "Nordex enters New Zealand with 192-MW wind turbine order",
-      "translated_title": "诺德克斯公司以192兆瓦风电机组订单进入新西兰",
-      "published_at": "2026-10-22",
-      "url": "https://renewablesnow.com/news/nordex-enters-new-zealand-with-192-mw-wind-turbine-order-1303475/",
-      "tags": [
-        "竞对资讯",
-        "招标采购"
-      ],
-      "competitors": [
-        "Nordex",
-        "ReNew"
-      ],
-      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
-      "signals": [
-        "192 MW",
-        "竞对资讯",
-        "招标采购"
-      ],
-      "rank": 5,
-      "importance_reason": "192 MW · 竞对资讯 · 招标采购"
-    },
-    {
       "country": "哈萨克斯坦",
       "source_name": "QazaqGreen",
-      "title": "15.10.2026 Victorian Government approves Australia’s largest planned wind farm",
+      "title": "Victorian Government approves Australia’s largest planned wind farm",
       "translated_title": "15.10.2026 维多利亚州 政府批准澳大利亚最大的风力发电场",
-      "published_at": "2026-10-23",
+      "published_at": "2026-10-27",
       "url": "https://qazaqgreen.com/en/news/world/3940/",
       "tags": [
         "竞对资讯",
@@ -162,30 +136,74 @@
         "审批政策",
         "ReNew"
       ],
-      "rank": 6,
+      "rank": 5,
       "importance_reason": "竞对资讯 · 审批政策 · ReNew"
     },
     {
       "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "Alcazar raises debt to bankroll 500 MW of wind projects in Egypt",
-      "translated_title": "阿尔卡扎尔举债资助埃及500兆瓦风力项目",
-      "published_at": "2026-10-23",
-      "url": "https://renewablesnow.com/news/alcazar-raises-debt-to-bankroll-500-mw-of-wind-projects-in-egypt-1303546/",
+      "source_name": "Recharge",
+      "title": "Despite Trump hurdles, US wind turbine orders climb to three-year high of 2.8GW",
+      "translated_title": "尽管特朗普有障碍,美国风电机组订单却攀升到三年2.8GW的最高点.",
+      "published_at": "2026-10-26",
+      "url": "https://www.rechargenews.com/offshore-wind/despite-trump-hurdles-us-wind-turbine-orders-climb-to-three-year-high-of-2-8gw/2-1-2064316",
       "tags": [
-        "竞对资讯"
+        "招标采购"
+      ],
+      "competitors": [],
+      "monitor_reason": "招标/采购节点 · GW级项目 · 标题明确风电",
+      "signals": [
+        "39 GW",
+        "招标采购",
+        "招标/采购节点"
+      ],
+      "rank": 6,
+      "importance_reason": "39 GW · 招标采购 · 招标/采购节点"
+    },
+    {
+      "country": "全球",
+      "source_name": "Recharge",
+      "title": "Europe built the wind farms but neglected the grid. Now the costs are mounting analysis 20.10.2026",
+      "translated_title": "欧洲建造了风电场,但忽略了电网. 现在成本正在上升分析 20.10.2026",
+      "published_at": "2026-10-23",
+      "url": "https://www.rechargenews.com/analysis/costs-soared-as-europe-raced-to-build-renewables-while-the-grid-fell-behind/2-1-2061243",
+      "tags": [
+        "竞对资讯",
+        "招标采购",
+        "审批政策"
       ],
       "competitors": [
-        "ReNew"
+        "Vestas",
+        "Envision",
+        "Iberdrola"
       ],
-      "monitor_reason": "竞对项目动态 · 500MW+项目 · 标题明确风电",
+      "monitor_reason": "正文含招标/采购 · 正文涉及审批/许可 · 竞对项目动态 · 标题明确风电",
       "signals": [
-        "500 MW",
         "竞对资讯",
-        "ReNew"
+        "招标采购",
+        "Vestas"
       ],
       "rank": 7,
-      "importance_reason": "500 MW · 竞对资讯 · ReNew"
+      "importance_reason": "竞对资讯 · 招标采购 · Vestas"
+    },
+    {
+      "country": "哈萨克斯坦",
+      "source_name": "QazaqGreen",
+      "title": "Kazakhstan’s Turkistan region to host 150 MW wind farm, scalable to 350 MW",
+      "translated_title": "哈萨克斯坦的突厥斯坦地区有150兆瓦的风力发电场,可扩展至350兆瓦",
+      "published_at": "2026-10-27",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/3960/",
+      "tags": [
+        "电网建设"
+      ],
+      "competitors": [],
+      "monitor_reason": "项目涉及电网/送出 · 标题明确风电",
+      "signals": [
+        "350 MW",
+        "电网建设",
+        "项目涉及电网/送出"
+      ],
+      "rank": 8,
+      "importance_reason": "350 MW · 电网建设 · 项目涉及电网/送出"
     }
   ]
 }

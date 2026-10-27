@@ -1,31 +1,21 @@
 {
-  "generated_at": "2026-10-26T05:07:33+00:00",
-  "before": 349,
-  "kept": 299,
+  "generated_at": "2026-10-27T05:24:11+00:00",
+  "before": 356,
+  "kept": 306,
   "filtered_out": 50,
   "tag_counts": {
-    "竞对资讯": 259,
-    "电网建设": 26,
-    "招标采购": 75,
-    "审批政策": 41,
-    "市场机制": 11,
+    "竞对资讯": 264,
+    "审批政策": 42,
+    "电网建设": 27,
+    "招标采购": 77,
+    "市场机制": 12,
     "宏观政策": 3
   },
   "rejected_examples": [
     {
-      "title": "Khánh thành tổ hợp nhà máy điện gió Krông Búk 1, Krông Búk 2, Cư Né 1 và Cư Né 2",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-26",
-      "url": "https://nangluongvietnam.vn/khanh-thanh-to-hop-nha-may-dien-gio-krong-buk-1-krong-buk-2-cu-ne-1-va-cu-ne-2-36504.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Chấp thuận chủ trương đầu tư, nhà đầu tư dự án điện gió An Phúc Đông Hải và Đông Hải 1, 3, 13 (giai đoạn tiếp theo)",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-26",
+      "published_at": "2026-10-27",
       "url": "https://nangluongvietnam.vn/chap-thuan-chu-truong-dau-tu-nha-dau-tu-du-an-dien-gio-an-phuc-dong-hai-va-dong-hai-1-3-13-giai-doan-tiep-theo-36554.html",
       "reasons": [
         "无六类监测标签",
@@ -35,7 +25,7 @@
     {
       "title": "Việt Nam muốn phát triển điện gió ngoài khơi, năng lực logistics cũng phải sẵn sàng",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-26",
+      "published_at": "2026-10-27",
       "url": "https://nangluongvietnam.vn/viet-nam-muon-phat-trien-dien-gio-ngoai-khoi-nang-luc-logistics-cung-phai-san-sang-36561.html",
       "reasons": [
         "无六类监测标签",
@@ -45,7 +35,7 @@
     {
       "title": "AKROCEAN triển khai thành công chiến dịch đo gió ngoài khơi thông qua hệ thống Floating LiDAR cho dự án Điện gió Nam Bộ 3",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-26",
+      "published_at": "2026-10-27",
       "url": "https://nangluongvietnam.vn/akrocean-trien-khai-thanh-cong-chien-dich-do-gio-ngoai-khoi-thong-qua-he-thong-floating-lidar-cho-du-an-dien-gio-nam-bo-3-36645.html",
       "reasons": [
         "无六类监测标签",
@@ -55,7 +45,7 @@
     {
       "title": "Chấp thuận chủ trương đầu tư, nhà đầu tư dự án Nhà máy Điện gió Đình Lập 5 (tỉnh Lạng Sơn)",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-26",
+      "published_at": "2026-10-27",
       "url": "https://nangluongvietnam.vn/chap-thuan-chu-truong-dau-tu-nha-dau-tu-du-an-nha-may-dien-gio-dinh-lap-5-tinh-lang-son-36783.html",
       "reasons": [
         "无六类监测标签",
@@ -65,7 +55,7 @@
     {
       "title": "PetroVietnam và đối tác Đan Mạch thỏa thuận hợp tác phát triển điện gió ngoài khơi Việt Nam",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-26",
+      "published_at": "2026-10-27",
       "url": "https://nangluongvietnam.vn/petrovietnam-va-doi-tac-dan-mach-thoa-thuan-hop-tac-phat-trien-dien-gio-ngoai-khoi-viet-nam-36804.html",
       "reasons": [
         "无六类监测标签",
@@ -75,7 +65,7 @@
     {
       "title": "PTSC M&C và Semco Maritime (Đan Mạch) mở rộng hợp tác chiến lược trong lĩnh vực điện gió ngoài khơi",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-26",
+      "published_at": "2026-10-27",
       "url": "https://nangluongvietnam.vn/ptsc-mc-va-semco-maritime-dan-mach-mo-rong-hop-tac-chien-luoc-trong-linh-vuc-dien-gio-ngoai-khoi-36814.html",
       "reasons": [
         "无六类监测标签",
@@ -83,30 +73,20 @@
       ]
     },
     {
-      "title": "Axpo, Fortia ink second wind PPA for Votorantim Cimentos in Spain",
+      "title": "Africa’s installed wind capacity tops 11 GW – GWEC",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-10-27",
+      "url": "https://qazaqgreen.com/en/news/world/3946/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Foresight, Belltown Power target 500 MW of UK wind repowerings",
       "source_name": "Renewables Now",
-      "published_at": "2026-10-23",
-      "url": "https://renewablesnow.com/news/axpo-fortia-ink-second-wind-ppa-for-votorantim-cimentos-in-spain-1303553/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Major Chinese wind supplier planning factories on five continents",
-      "source_name": "Recharge",
-      "published_at": "2026-10-23",
-      "url": "https://www.rechargenews.com/china/major-chinese-wind-supplier-planning-factories-on-five-continents/2-1-2059919",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "US to add 106GW of wind despite Trump's policy pushback",
-      "source_name": "Recharge",
-      "published_at": "2026-10-23",
-      "url": "https://www.rechargenews.com/policy/us-to-add-106gw-of-wind-despite-trumps-policy-pushback/2-1-2060839",
+      "published_at": "2026-10-26",
+      "url": "https://renewablesnow.com/news/foresight-belltown-power-target-500-mw-of-uk-wind-repowerings-1303634/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -115,7 +95,7 @@
     {
       "title": "Germany rethinks offshore wind layout to cut costly wake effects",
       "source_name": "Recharge",
-      "published_at": "2026-10-23",
+      "published_at": "2026-10-26",
       "url": "https://www.rechargenews.com/policy/germany-rethinks-offshore-wind-layout-to-cut-costly-wake-effects/2-1-2062551",
       "reasons": [
         "无六类监测标签",
@@ -125,7 +105,7 @@
     {
       "title": "US Wind gives up Baltimore monopile maker but insists Maryland offshore wind farm will proceed",
       "source_name": "Recharge",
-      "published_at": "2026-10-23",
+      "published_at": "2026-10-26",
       "url": "https://www.rechargenews.com/offshore-wind/us-wind-gives-up-baltimore-monopile-maker-but-insists-maryland-offshore-wind-farm-will-proceed/2-1-2063040",
       "reasons": [
         "无六类监测标签",
@@ -133,13 +113,22 @@
       ]
     },
     {
-      "title": "20.10.2026 Africa’s installed wind capacity tops 11 GW – GWEC",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-10-23",
-      "url": "https://qazaqgreen.com/en/news/world/3946/",
+      "title": "Could offshore wind farms enhance US national security not threaten it?",
+      "source_name": "Recharge",
+      "published_at": "2026-10-26",
+      "url": "https://www.rechargenews.com/offshore-wind/could-offshore-wind-farms-enhance-us-national-security-not-threaten-it-/2-1-2063647",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "post image",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-26",
+      "url": "https://renewablewatch.in/2026/07/17/manufacturing-lines-building-flexibility-into-solar-production-for-the-next-technology-shift/",
+      "reasons": [
+        "正文明确涉及风电"
       ]
     },
     {
@@ -185,15 +174,6 @@
       "source_name": "Renewable Watch",
       "published_at": "2026-10-15",
       "url": "https://renewablewatch.in/2026/10/15/telangana-issues-2-gw-fdre-rtc-tender/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Eskom launches 6 GW renewables tender",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-13",
-      "url": "https://renewablewatch.in/2026/10/13/eskom-launches-6-gw-renewables-tender/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -277,13 +257,21 @@
       ]
     },
     {
-      "title": "Greenvolt bags financing for 253.1 MW wind project in Romania",
+      "title": "Renewable Roadblocks: Regulatory and legal challenges in land acquisition",
       "source_name": "Renewable Watch",
-      "published_at": "2026-10-09",
-      "url": "https://renewablewatch.in/2026/10/09/greenvolt-bags-financing-for-253-1-mw-wind-project-in-romania/",
+      "published_at": "2026-10-01",
+      "url": "https://renewablewatch.in/2026/10/15/renewable-roadblocks-regulatory-and-legal-challenges-in-land-acquisition/",
       "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Beyond Boundaries: India’s cross-border grid ambitions",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-01",
+      "url": "https://renewablewatch.in/2026/10/13/beyond-boundaries-indias-cross-border-grid-ambitions/",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -477,6 +465,16 @@
       ]
     },
     {
+      "title": "Inox Green Completes INR 550 Crore WWIL Wind O&M Deal - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-07-10",
+      "url": "https://www.energetica-india.net/news/inox-green-completes-inr-550-crore-wwil-wind-om-deal",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
       "title": "Purvah Green Signs PPA with SECI for 175 MW Wind Project - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-07-10",
@@ -487,13 +485,12 @@
       ]
     },
     {
-      "title": "Inox Green Completes INR 550 Crore WWIL Wind O&M Deal - Asia Pacific | Energetica India Magazine",
-      "source_name": "Energetica India – Wind Power",
+      "title": "Unlocking Potential: Can CBG ambitions go beyond targets?",
+      "source_name": "Renewable Watch",
       "published_at": "2026-07-10",
-      "url": "https://www.energetica-india.net/news/inox-green-completes-inr-550-crore-wwil-wind-om-deal",
+      "url": "https://renewablewatch.in/2026/07/10/unlocking-potential-can-indias-cbg-ambitions-go-beyond-policy-targets/",
       "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
+        "风电相关性不足"
       ]
     }
   ]
