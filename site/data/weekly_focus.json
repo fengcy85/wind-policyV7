@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T05:24:11+00:00",
+  "generated_at": "2026-10-28T06:02:29+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-21",
-    "end": "2026-10-27"
+    "start": "2026-10-22",
+    "end": "2026-10-28"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -16,10 +16,10 @@
     "审批政策"
   ],
   "tag_counts": {
-    "竞对资讯": 5,
+    "竞对资讯": 6,
     "招标采购": 4,
     "市场机制": 1,
-    "电网建设": 2,
+    "电网建设": 1,
     "宏观政策": 0,
     "审批政策": 3
   },
@@ -75,7 +75,7 @@
       "source_name": "Recharge",
       "title": "Latest US offshore wind remand bid may rattle permitting talks, but Iberdrola project already stalled",
       "translated_title": "美国最近的海上风还押招标 可能引发谈判 但Iberdrola项目已经停滞了",
-      "published_at": "2026-10-26",
+      "published_at": "2026-10-27",
       "url": "https://www.rechargenews.com/policy/latest-us-offshore-wind-remand-bid-may-rattle-permitting-talks-but-iberdrola-project-already-stalled/2-1-2063030",
       "tags": [
         "竞对资讯",
@@ -144,7 +144,7 @@
       "source_name": "Recharge",
       "title": "Despite Trump hurdles, US wind turbine orders climb to three-year high of 2.8GW",
       "translated_title": "尽管特朗普有障碍,美国风电机组订单却攀升到三年2.8GW的最高点.",
-      "published_at": "2026-10-26",
+      "published_at": "2026-10-27",
       "url": "https://www.rechargenews.com/offshore-wind/despite-trump-hurdles-us-wind-turbine-orders-climb-to-three-year-high-of-2-8gw/2-1-2064316",
       "tags": [
         "招标采购"
@@ -186,24 +186,26 @@
       "importance_reason": "竞对资讯 · 招标采购 · Vestas"
     },
     {
-      "country": "哈萨克斯坦",
-      "source_name": "QazaqGreen",
-      "title": "Kazakhstan’s Turkistan region to host 150 MW wind farm, scalable to 350 MW",
-      "translated_title": "哈萨克斯坦的突厥斯坦地区有150兆瓦的风力发电场,可扩展至350兆瓦",
-      "published_at": "2026-10-27",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/3960/",
+      "country": "乌兹别克斯坦",
+      "source_name": "乌兹别克斯坦能源部",
+      "title": "Gijduvan Wind Power Plant — 500 MW",
+      "translated_title": "Gijduvan风能发电厂——500兆瓦",
+      "published_at": "2026-10-26",
+      "url": "https://gov.uz/en/minenergy/news/view/238689",
       "tags": [
-        "电网建设"
+        "竞对资讯"
       ],
-      "competitors": [],
-      "monitor_reason": "项目涉及电网/送出 · 标题明确风电",
+      "competitors": [
+        "Envision"
+      ],
+      "monitor_reason": "竞对项目动态 · 500MW+项目 · 标题明确风电",
       "signals": [
-        "350 MW",
-        "电网建设",
-        "项目涉及电网/送出"
+        "500 MW",
+        "竞对资讯",
+        "Envision"
       ],
       "rank": 8,
-      "importance_reason": "350 MW · 电网建设 · 项目涉及电网/送出"
+      "importance_reason": "500 MW · 竞对资讯 · Envision"
     }
   ]
 }
