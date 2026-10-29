@@ -1,22 +1,42 @@
 {
-  "generated_at": "2026-10-28T06:02:29+00:00",
-  "before": 362,
-  "kept": 309,
-  "filtered_out": 53,
+  "generated_at": "2026-10-29T06:09:08+00:00",
+  "before": 366,
+  "kept": 316,
+  "filtered_out": 50,
   "tag_counts": {
+    "竞对资讯": 271,
+    "招标采购": 80,
     "电网建设": 27,
-    "竞对资讯": 266,
-    "招标采购": 78,
     "审批政策": 42,
     "市场机制": 12,
     "宏观政策": 3
   },
   "rejected_examples": [
     {
-      "title": "20.10.2026 Africa’s installed wind capacity tops 11 GW – GWEC",
-      "source_name": "QazaqGreen",
+      "title": "GE Vernova's wind EBITDA improves to positive USD 72m in Q3",
+      "source_name": "Renewables Now",
       "published_at": "2026-10-28",
-      "url": "https://qazaqgreen.com/en/news/world/3946/",
+      "url": "https://renewablesnow.com/news/ge-vernovas-wind-ebitda-improves-to-positive-usd-72m-in-q3-1303856/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Could offshore wind farms enhance US national security not threaten it?",
+      "source_name": "Recharge",
+      "published_at": "2026-10-28",
+      "url": "https://www.rechargenews.com/offshore-wind/could-offshore-wind-farms-enhance-us-national-security-not-threaten-it-/2-1-2063647",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Half of Germany's state premiers urge change to offshore wind reform to save sector",
+      "source_name": "Recharge",
+      "published_at": "2026-10-28",
+      "url": "https://www.rechargenews.com/policy/half-of-germanys-state-premiers-urge-change-to-offshore-wind-reform-to-save-sector/2-1-2064477",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -27,56 +47,6 @@
       "source_name": "QazaqGreen",
       "published_at": "2026-10-28",
       "url": "https://qazaqgreen.com/en/news/world/3961/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "40 Under 40 | Key decisions the wind industry faces in the next decade",
-      "source_name": "Recharge",
-      "published_at": "2026-10-27",
-      "url": "https://www.rechargenews.com/people/40-under-40-key-decisions-the-wind-industry-faces-in-the-next-decade/2-1-2057512",
-      "reasons": [
-        "标题明确风电",
-        "低价值内容"
-      ]
-    },
-    {
-      "title": "Germany rethinks offshore wind layout to cut costly wake effects",
-      "source_name": "Recharge",
-      "published_at": "2026-10-27",
-      "url": "https://www.rechargenews.com/policy/germany-rethinks-offshore-wind-layout-to-cut-costly-wake-effects/2-1-2062551",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "US Wind gives up Baltimore monopile maker but insists Maryland offshore wind farm will proceed",
-      "source_name": "Recharge",
-      "published_at": "2026-10-27",
-      "url": "https://www.rechargenews.com/offshore-wind/us-wind-gives-up-baltimore-monopile-maker-but-insists-maryland-offshore-wind-farm-will-proceed/2-1-2063040",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Could offshore wind farms enhance US national security not threaten it?",
-      "source_name": "Recharge",
-      "published_at": "2026-10-27",
-      "url": "https://www.rechargenews.com/offshore-wind/could-offshore-wind-farms-enhance-us-national-security-not-threaten-it-/2-1-2063647",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Half of Germany's state premiers urge change to offshore wind reform to save sector",
-      "source_name": "Recharge",
-      "published_at": "2026-10-27",
-      "url": "https://www.rechargenews.com/policy/half-of-germanys-state-premiers-urge-change-to-offshore-wind-reform-to-save-sector/2-1-2064477",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -351,15 +321,6 @@
       ]
     },
     {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-25",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Türkiye's first offshore wind YEKA project expected to draw $3B investment",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-25",
@@ -367,6 +328,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-25",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -402,7 +372,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-19",
-      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
+      "url": "https://www.aa.com.tr/en/energy/finance",
       "reasons": [
         "风电相关性不足"
       ]
@@ -411,7 +381,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-19",
-      "url": "https://www.aa.com.tr/en/energy/finance",
+      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
       ]

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-28T06:02:29+00:00",
+  "generated_at": "2026-10-29T06:09:08+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-22",
-    "end": "2026-10-28"
+    "start": "2026-10-23",
+    "end": "2026-10-29"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -144,7 +144,7 @@
       "source_name": "Recharge",
       "title": "Despite Trump hurdles, US wind turbine orders climb to three-year high of 2.8GW",
       "translated_title": "尽管特朗普有障碍,美国风电机组订单却攀升到三年2.8GW的最高点.",
-      "published_at": "2026-10-27",
+      "published_at": "2026-10-28",
       "url": "https://www.rechargenews.com/offshore-wind/despite-trump-hurdles-us-wind-turbine-orders-climb-to-three-year-high-of-2-8gw/2-1-2064316",
       "tags": [
         "招标采购"
