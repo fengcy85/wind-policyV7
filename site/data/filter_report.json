@@ -1,31 +1,21 @@
 {
-  "generated_at": "2026-10-29T06:09:08+00:00",
-  "before": 366,
-  "kept": 316,
-  "filtered_out": 50,
+  "generated_at": "2026-10-30T06:08:13+00:00",
+  "before": 372,
+  "kept": 321,
+  "filtered_out": 51,
   "tag_counts": {
-    "竞对资讯": 271,
-    "招标采购": 80,
+    "竞对资讯": 274,
+    "审批政策": 43,
+    "招标采购": 78,
+    "市场机制": 15,
     "电网建设": 27,
-    "审批政策": 42,
-    "市场机制": 12,
     "宏观政策": 3
   },
   "rejected_examples": [
     {
-      "title": "GE Vernova's wind EBITDA improves to positive USD 72m in Q3",
-      "source_name": "Renewables Now",
-      "published_at": "2026-10-28",
-      "url": "https://renewablesnow.com/news/ge-vernovas-wind-ebitda-improves-to-positive-usd-72m-in-q3-1303856/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Could offshore wind farms enhance US national security not threaten it?",
       "source_name": "Recharge",
-      "published_at": "2026-10-28",
+      "published_at": "2026-10-30",
       "url": "https://www.rechargenews.com/offshore-wind/could-offshore-wind-farms-enhance-us-national-security-not-threaten-it-/2-1-2063647",
       "reasons": [
         "无六类监测标签",
@@ -35,7 +25,7 @@
     {
       "title": "Half of Germany's state premiers urge change to offshore wind reform to save sector",
       "source_name": "Recharge",
-      "published_at": "2026-10-28",
+      "published_at": "2026-10-30",
       "url": "https://www.rechargenews.com/policy/half-of-germanys-state-premiers-urge-change-to-offshore-wind-reform-to-save-sector/2-1-2064477",
       "reasons": [
         "无六类监测标签",
@@ -43,10 +33,127 @@
       ]
     },
     {
-      "title": "27.10.2026 TouchWind’s floating turbine tilts its rotor in strong winds",
+      "title": "Chấp thuận chủ trương đầu tư, nhà đầu tư dự án điện gió An Phúc Đông Hải và Đông Hải 1, 3, 13 (giai đoạn tiếp theo)",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-10-30",
+      "url": "https://nangluongvietnam.vn/chap-thuan-chu-truong-dau-tu-nha-dau-tu-du-an-dien-gio-an-phuc-dong-hai-va-dong-hai-1-3-13-giai-doan-tiep-theo-36554.html",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Việt Nam muốn phát triển điện gió ngoài khơi, năng lực logistics cũng phải sẵn sàng",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-10-30",
+      "url": "https://nangluongvietnam.vn/viet-nam-muon-phat-trien-dien-gio-ngoai-khoi-nang-luc-logistics-cung-phai-san-sang-36561.html",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "AKROCEAN triển khai thành công chiến dịch đo gió ngoài khơi thông qua hệ thống Floating LiDAR cho dự án Điện gió Nam Bộ 3",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-10-30",
+      "url": "https://nangluongvietnam.vn/akrocean-trien-khai-thanh-cong-chien-dich-do-gio-ngoai-khoi-thong-qua-he-thong-floating-lidar-cho-du-an-dien-gio-nam-bo-3-36645.html",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Chấp thuận chủ trương đầu tư, nhà đầu tư dự án Nhà máy Điện gió Đình Lập 5 (tỉnh Lạng Sơn)",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-10-30",
+      "url": "https://nangluongvietnam.vn/chap-thuan-chu-truong-dau-tu-nha-dau-tu-du-an-nha-may-dien-gio-dinh-lap-5-tinh-lang-son-36783.html",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "PetroVietnam và đối tác Đan Mạch thỏa thuận hợp tác phát triển điện gió ngoài khơi Việt Nam",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-10-30",
+      "url": "https://nangluongvietnam.vn/petrovietnam-va-doi-tac-dan-mach-thoa-thuan-hop-tac-phat-trien-dien-gio-ngoai-khoi-viet-nam-36804.html",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "PTSC M&C và Semco Maritime (Đan Mạch) mở rộng hợp tác chiến lược trong lĩnh vực điện gió ngoài khơi",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-10-30",
+      "url": "https://nangluongvietnam.vn/ptsc-mc-va-semco-maritime-dan-mach-mo-rong-hop-tac-chien-luoc-trong-linh-vuc-dien-gio-ngoai-khoi-36814.html",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Phê duyệt điều chỉnh cập nhật phương án đấu nối dự án Nhà máy Điện gió Đông Hải 3 (vị trí V3-3)",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-10-30",
+      "url": "https://nangluongvietnam.vn/phe-duyet-dieu-chinh-cap-nhat-phuong-an-dau-noi-du-an-nha-may-dien-gio-dong-hai-3-vi-tri-v3-3-36841.html",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "TouchWind’s floating turbine tilts its rotor in strong winds",
       "source_name": "QazaqGreen",
-      "published_at": "2026-10-28",
+      "published_at": "2026-10-30",
       "url": "https://qazaqgreen.com/en/news/world/3961/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-10-30",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
+      "reasons": [
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Pralhad Joshi to Inaugurate Windergy India 2026 in Chennai",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-10-30",
+      "url": "https://www.energetica-india.net/news/pralhad-joshi-to-inaugurate-windergy-india-2026-in-chennai",
+      "reasons": [
+        "正文明确涉及风电"
+      ]
+    },
+    {
+      "title": "Free subscription magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-10-30",
+      "url": "https://www.energetica-india.net/news/renewable-energy/subscriptions/printed-magazine",
+      "reasons": [
+        "正文明确涉及风电"
+      ]
+    },
+    {
+      "title": "Juniper Green Energy Commissions Additional 65.4 MW Wind Capacity - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-10-30",
+      "url": "https://www.energetica-india.net/news/juniper-green-energy-commissions-additional-654-mw-wind-capacity",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Equitix raises Beatrice offshore wind stake as TRIG exits",
+      "source_name": "Renewables Now",
+      "published_at": "2026-10-29",
+      "url": "https://renewablesnow.com/news/equitix-raises-beatrice-offshore-wind-stake-as-trig-exits-1303878/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -63,110 +170,12 @@
       ]
     },
     {
-      "title": "Chấp thuận chủ trương đầu tư, nhà đầu tư dự án điện gió An Phúc Đông Hải và Đông Hải 1, 3, 13 (giai đoạn tiếp theo)",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-27",
-      "url": "https://nangluongvietnam.vn/chap-thuan-chu-truong-dau-tu-nha-dau-tu-du-an-dien-gio-an-phuc-dong-hai-va-dong-hai-1-3-13-giai-doan-tiep-theo-36554.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Việt Nam muốn phát triển điện gió ngoài khơi, năng lực logistics cũng phải sẵn sàng",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-27",
-      "url": "https://nangluongvietnam.vn/viet-nam-muon-phat-trien-dien-gio-ngoai-khoi-nang-luc-logistics-cung-phai-san-sang-36561.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "AKROCEAN triển khai thành công chiến dịch đo gió ngoài khơi thông qua hệ thống Floating LiDAR cho dự án Điện gió Nam Bộ 3",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-27",
-      "url": "https://nangluongvietnam.vn/akrocean-trien-khai-thanh-cong-chien-dich-do-gio-ngoai-khoi-thong-qua-he-thong-floating-lidar-cho-du-an-dien-gio-nam-bo-3-36645.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Chấp thuận chủ trương đầu tư, nhà đầu tư dự án Nhà máy Điện gió Đình Lập 5 (tỉnh Lạng Sơn)",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-27",
-      "url": "https://nangluongvietnam.vn/chap-thuan-chu-truong-dau-tu-nha-dau-tu-du-an-nha-may-dien-gio-dinh-lap-5-tinh-lang-son-36783.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "PetroVietnam và đối tác Đan Mạch thỏa thuận hợp tác phát triển điện gió ngoài khơi Việt Nam",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-27",
-      "url": "https://nangluongvietnam.vn/petrovietnam-va-doi-tac-dan-mach-thoa-thuan-hop-tac-phat-trien-dien-gio-ngoai-khoi-viet-nam-36804.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "PTSC M&C và Semco Maritime (Đan Mạch) mở rộng hợp tác chiến lược trong lĩnh vực điện gió ngoài khơi",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-27",
-      "url": "https://nangluongvietnam.vn/ptsc-mc-va-semco-maritime-dan-mach-mo-rong-hop-tac-chien-luoc-trong-linh-vuc-dien-gio-ngoai-khoi-36814.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-10-26",
       "url": "https://renewablewatch.in/2026/07/17/manufacturing-lines-building-flexibility-into-solar-production-for-the-next-technology-shift/",
       "reasons": [
         "正文明确涉及风电"
-      ]
-    },
-    {
-      "title": "Pralhad Joshi to Inaugurate Windergy India 2026 in Chennai",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-10-19",
-      "url": "https://www.energetica-india.net/news/pralhad-joshi-to-inaugurate-windergy-india-2026-in-chennai",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Free subscription magazine",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-10-19",
-      "url": "https://www.energetica-india.net/news/renewable-energy/subscriptions/printed-magazine",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "KPI Green Energy to Acquire 507.9 MW Wind Portfolio for INR 2,410 Crore - Asia Pacific | Energetica India Magazine",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-10-19",
-      "url": "https://www.energetica-india.net/news/kpi-green-energy-to-acquire-507-9-mw-wind-portfolio-for-inr-2410-crore",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Juniper Green Energy Commissions Additional 65.4 MW Wind Capacity - Asia Pacific | Energetica India Magazine",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-10-19",
-      "url": "https://www.energetica-india.net/news/juniper-green-energy-commissions-additional-654-mw-wind-capacity",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
       ]
     },
     {
@@ -275,15 +284,6 @@
       ]
     },
     {
-      "title": "28 Ottobre 2026 - SEMINARIO 4 - Power Purchase Agreement per le Rinnovabili per supportare gli obiettivi di crescita del PNIEC - ANEV",
-      "source_name": "ANEV",
-      "published_at": "2026-09-29",
-      "url": "https://www.anev.org/2026/09/29/seminario-4-2026-power-purchase-agreement-per-le-rinnovabili-per-supportare-gli-obiettivi-di-crescita-del-pniec/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Wind Offshore - CORSO DI FORMAZIONE 4/2026 - ANEV",
       "source_name": "ANEV",
       "published_at": "2026-09-29",
@@ -291,6 +291,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "28 Ottobre 2026 - SEMINARIO 4 - Power Purchase Agreement per le Rinnovabili per supportare gli obiettivi di crescita del PNIEC - ANEV",
+      "source_name": "ANEV",
+      "published_at": "2026-09-28",
+      "url": "https://www.anev.org/2026/09/28/seminario-4-2026-power-purchase-agreement-per-le-rinnovabili-per-supportare-gli-obiettivi-di-crescita-del-pniec/",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -360,6 +369,15 @@
       ]
     },
     {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-19",
+      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Türkiye to invest $108B to expand power generation and grid by 2035",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-19",
@@ -373,15 +391,6 @@
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-19",
       "url": "https://www.aa.com.tr/en/energy/finance",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-19",
-      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
       ]
