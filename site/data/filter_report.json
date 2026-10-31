@@ -1,22 +1,32 @@
 {
-  "generated_at": "2026-10-30T06:08:13+00:00",
-  "before": 372,
-  "kept": 321,
-  "filtered_out": 51,
+  "generated_at": "2026-10-31T06:00:21+00:00",
+  "before": 380,
+  "kept": 328,
+  "filtered_out": 52,
   "tag_counts": {
-    "竞对资讯": 274,
+    "竞对资讯": 280,
+    "招标采购": 81,
     "审批政策": 43,
-    "招标采购": 78,
     "市场机制": 15,
     "电网建设": 27,
     "宏观政策": 3
   },
   "rejected_examples": [
     {
-      "title": "Could offshore wind farms enhance US national security not threaten it?",
-      "source_name": "Recharge",
+      "title": "Vattenfall opens its first wind-solar hybrid park in Germany",
+      "source_name": "Renewables Now",
       "published_at": "2026-10-30",
-      "url": "https://www.rechargenews.com/offshore-wind/could-offshore-wind-farms-enhance-us-national-security-not-threaten-it-/2-1-2063647",
+      "url": "https://renewablesnow.com/news/vattenfall-opens-its-first-wind-solar-hybrid-park-in-germany-1304043/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Airborne wind tech firm Kitepower goes bankrupt as trustee seeks buyer",
+      "source_name": "Renewables Now",
+      "published_at": "2026-10-30",
+      "url": "https://renewablesnow.com/news/airborne-wind-tech-firm-kitepower-goes-bankrupt-as-trustee-seeks-buyer-1304042/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -27,6 +37,16 @@
       "source_name": "Recharge",
       "published_at": "2026-10-30",
       "url": "https://www.rechargenews.com/policy/half-of-germanys-state-premiers-urge-change-to-offshore-wind-reform-to-save-sector/2-1-2064477",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Two floating wind projects win funding to test 18.5MW turbines",
+      "source_name": "Recharge",
+      "published_at": "2026-10-30",
+      "url": "https://www.rechargenews.com/offshore-wind/two-floating-wind-projects-win-funding-to-test-18-5mw-turbines/2-1-2066651",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -103,7 +123,7 @@
       ]
     },
     {
-      "title": "TouchWind’s floating turbine tilts its rotor in strong winds",
+      "title": "27.10.2026 TouchWind’s floating turbine tilts its rotor in strong winds",
       "source_name": "QazaqGreen",
       "published_at": "2026-10-30",
       "url": "https://qazaqgreen.com/en/news/world/3961/",
@@ -113,7 +133,7 @@
       ]
     },
     {
-      "title": "Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
+      "title": "29.10.2026 Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
       "source_name": "QazaqGreen",
       "published_at": "2026-10-30",
       "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
@@ -150,13 +170,12 @@
       ]
     },
     {
-      "title": "Equitix raises Beatrice offshore wind stake as TRIG exits",
-      "source_name": "Renewables Now",
-      "published_at": "2026-10-29",
-      "url": "https://renewablesnow.com/news/equitix-raises-beatrice-offshore-wind-stake-as-trig-exits-1303878/",
+      "title": "post image",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-30",
+      "url": "https://renewablewatch.in/2026/08/07/can-white-hydrogen-accelerate-indias-energy-transition/",
       "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
+        "风电相关性不足"
       ]
     },
     {
@@ -175,7 +194,7 @@
       "published_at": "2026-10-26",
       "url": "https://renewablewatch.in/2026/07/17/manufacturing-lines-building-flexibility-into-solar-production-for-the-next-technology-shift/",
       "reasons": [
-        "正文明确涉及风电"
+        "风电相关性不足"
       ]
     },
     {
@@ -185,16 +204,6 @@
       "url": "https://renewablewatch.in/2026/10/15/telangana-issues-2-gw-fdre-rtc-tender/",
       "reasons": [
         "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Alfanar accepts KPI Green Energy's binding offer for 507.9 MW Bhuj wind portfolio; proceeds to fund 3 GW India pipeline",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-13",
-      "url": "https://renewablewatch.in/2026/10/13/alfanar-accepts-kpi-green-energys-binding-offer-for-507-9-mw-bhuj-wind-portfolio-proceeds-to-fund-3-gw-india-pipeline/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
       ]
     },
     {
@@ -266,6 +275,15 @@
       ]
     },
     {
+      "title": "Unlocking Potential: Can CBG ambitions go beyond targets?",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-07",
+      "url": "https://renewablewatch.in/2026/07/10/unlocking-potential-can-indias-cbg-ambitions-go-beyond-policy-targets/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Renewable Roadblocks: Regulatory and legal challenges in land acquisition",
       "source_name": "Renewable Watch",
       "published_at": "2026-10-01",
@@ -330,6 +348,15 @@
       ]
     },
     {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-25",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Türkiye's first offshore wind YEKA project expected to draw $3B investment",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-25",
@@ -337,15 +364,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-25",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -369,19 +387,19 @@
       ]
     },
     {
-      "title": "Anadolu Agency",
+      "title": "Türkiye to invest $108B to expand power generation and grid by 2035",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-19",
-      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
+      "url": "https://www.aa.com.tr/en/energy/electricity/turkiye-to-invest-108b-to-expand-power-generation-and-grid-by-2035/59649",
       "reasons": [
         "风电相关性不足"
       ]
     },
     {
-      "title": "Türkiye to invest $108B to expand power generation and grid by 2035",
+      "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-19",
-      "url": "https://www.aa.com.tr/en/energy/electricity/turkiye-to-invest-108b-to-expand-power-generation-and-grid-by-2035/59649",
+      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
       ]
@@ -491,15 +509,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Unlocking Potential: Can CBG ambitions go beyond targets?",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-07-10",
-      "url": "https://renewablewatch.in/2026/07/10/unlocking-potential-can-indias-cbg-ambitions-go-beyond-policy-targets/",
-      "reasons": [
-        "风电相关性不足"
       ]
     }
   ]

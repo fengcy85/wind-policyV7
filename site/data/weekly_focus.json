@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-30T06:08:13+00:00",
+  "generated_at": "2026-10-31T06:00:21+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-24",
-    "end": "2026-10-30"
+    "start": "2026-10-25",
+    "end": "2026-10-31"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -17,8 +17,8 @@
   ],
   "tag_counts": {
     "竞对资讯": 5,
-    "招标采购": 4,
-    "市场机制": 3,
+    "招标采购": 5,
+    "市场机制": 2,
     "电网建设": 1,
     "宏观政策": 0,
     "审批政策": 1
@@ -50,25 +50,24 @@
     {
       "country": "全球",
       "source_name": "Renewables Now",
-      "title": "US wind turbine orders rise to 2.8 GW in Q2 ahead of tax deadline",
-      "translated_title": "美国风电机组订单在纳税期限前在Q2中上升至2.8GW",
-      "published_at": "2026-10-26",
-      "url": "https://renewablesnow.com/news/us-wind-turbine-orders-rise-to-2-8-gw-in-q2-ahead-of-tax-deadline-1303682/",
+      "title": "South Korea announces 2.2-GW offshore wind auction, 2nd for 2026",
+      "translated_title": "韩国宣布2.2-GW出海风拍卖会,2026年第2回",
+      "published_at": "2026-10-30",
+      "url": "https://renewablesnow.com/news/south-korea-announces-2-2-gw-offshore-wind-auction-2nd-for-2026-1304056/",
       "tags": [
-        "竞对资讯",
         "招标采购"
       ],
       "competitors": [
         "ReNew"
       ],
-      "monitor_reason": "招标/采购节点 · 竞对项目动态 · GW级项目 · 标题明确风电",
+      "monitor_reason": "招标/采购节点 · GW级项目 · 标题明确风电",
       "signals": [
-        "2.8 GW",
-        "竞对资讯",
-        "招标采购"
+        "2.2 GW",
+        "招标采购",
+        "ReNew"
       ],
       "rank": 2,
-      "importance_reason": "2.8 GW · 竞对资讯 · 招标采购"
+      "importance_reason": "2.2 GW · 招标采购 · ReNew"
     },
     {
       "country": "全球",
@@ -97,7 +96,7 @@
     {
       "country": "哈萨克斯坦",
       "source_name": "QazaqGreen",
-      "title": "Kazakhstan’s Turkistan region to host 150 MW wind farm, scalable to 350 MW",
+      "title": "27.10.2026 Kazakhstan’s Turkistan region to host 150 MW wind farm, scalable to 350 MW",
       "translated_title": "哈萨克斯坦的突厥斯坦地区有150兆瓦的风力发电场,可扩展至350兆瓦",
       "published_at": "2026-10-30",
       "url": "https://qazaqgreen.com/en/news/kazakhstan/3960/",
@@ -113,6 +112,29 @@
       ],
       "rank": 4,
       "importance_reason": "350 MW · 电网建设 · 项目涉及电网/送出"
+    },
+    {
+      "country": "全球",
+      "source_name": "Renewables Now",
+      "title": "US wind turbine orders rise to 2.8 GW in Q2 ahead of tax deadline",
+      "translated_title": "美国风电机组订单在纳税期限前在Q2中上升至2.8GW",
+      "published_at": "2026-10-26",
+      "url": "https://renewablesnow.com/news/us-wind-turbine-orders-rise-to-2-8-gw-in-q2-ahead-of-tax-deadline-1303682/",
+      "tags": [
+        "竞对资讯",
+        "招标采购"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "招标/采购节点 · 竞对项目动态 · GW级项目 · 标题明确风电",
+      "signals": [
+        "2.8 GW",
+        "竞对资讯",
+        "招标采购"
+      ],
+      "rank": 5,
+      "importance_reason": "2.8 GW · 竞对资讯 · 招标采购"
     },
     {
       "country": "印度",
@@ -134,7 +156,7 @@
         "竞对资讯",
         "市场机制"
       ],
-      "rank": 5,
+      "rank": 6,
       "importance_reason": "300 MW · 竞对资讯 · 市场机制"
     },
     {
@@ -154,51 +176,31 @@
         "招标采购",
         "招标/采购节点"
       ],
-      "rank": 6,
+      "rank": 7,
       "importance_reason": "39 GW · 招标采购 · 招标/采购节点"
     },
     {
       "country": "全球",
       "source_name": "Renewables Now",
-      "title": "US to negotiate over wind turbine imports, no new tariffs announced",
-      "translated_title": "美国谈判风电机组进口,没有宣布新的关税",
-      "published_at": "2026-10-26",
-      "url": "https://renewablesnow.com/news/us-to-negotiate-over-wind-turbine-imports-no-new-tariffs-announced-1303626/",
+      "title": "Elementum Energy wins bid in Ukraine's oversubscribed wind tender",
+      "translated_title": "乌克兰超标的风能竞标获胜",
+      "published_at": "2026-10-30",
+      "url": "https://renewablesnow.com/news/elementum-energy-wins-bid-in-ukraines-oversubscribed-wind-tender-1304001/",
       "tags": [
         "竞对资讯",
-        "市场机制"
+        "招标采购"
       ],
       "competitors": [
         "ReNew"
       ],
-      "monitor_reason": "电价/市场机制 · 竞对项目动态 · 标题明确风电",
+      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
       "signals": [
         "竞对资讯",
-        "市场机制",
+        "招标采购",
         "ReNew"
       ],
-      "rank": 7,
-      "importance_reason": "竞对资讯 · 市场机制 · ReNew"
-    },
-    {
-      "country": "印度",
-      "source_name": "Energetica India – Wind Power",
-      "title": "Enviro Infra Engineers Arm Bags INR 228 Cr EPC Contract for 100 MW Wind Project in Maharashtra - Asia Pacific | Energetica India Magazine",
-      "translated_title": "在马哈拉施特拉的100兆瓦风力工程合同",
-      "published_at": "2026-10-30",
-      "url": "https://www.energetica-india.net/news/enviro-infra-engineers-arm-bags-inr-228-cr-epc-contract-for-100-mw-wind-project-in-maharashtra",
-      "tags": [
-        "招标采购"
-      ],
-      "competitors": [],
-      "monitor_reason": "招标/采购节点 · 标题明确风电",
-      "signals": [
-        "100 MW",
-        "招标采购",
-        "招标/采购节点"
-      ],
       "rank": 8,
-      "importance_reason": "100 MW · 招标采购 · 招标/采购节点"
+      "importance_reason": "竞对资讯 · 招标采购 · ReNew"
     }
   ]
 }
