@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-31T06:00:21+00:00",
+  "generated_at": "2026-11-01T06:48:26+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-25",
-    "end": "2026-10-31"
+    "start": "2026-10-26",
+    "end": "2026-11-01"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -181,26 +181,26 @@
     },
     {
       "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "Elementum Energy wins bid in Ukraine's oversubscribed wind tender",
-      "translated_title": "乌克兰超标的风能竞标获胜",
+      "source_name": "Recharge",
+      "title": "Vattenfall weighs bids as Germany plans to retender oil giants' offshore wind sites",
+      "translated_title": "Vattenfall在德国计划重新招标石油巨头的岸外风景点时,",
       "published_at": "2026-10-30",
-      "url": "https://renewablesnow.com/news/elementum-energy-wins-bid-in-ukraines-oversubscribed-wind-tender-1304001/",
+      "url": "https://www.rechargenews.com/offshore-wind/vattenfall-weighs-bids-as-germany-plans-to-retender-oil-giants-offshore-wind-sites/2-1-2066383",
       "tags": [
         "竞对资讯",
         "招标采购"
       ],
       "competitors": [
-        "ReNew"
+        "Vattenfall"
       ],
       "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
       "signals": [
         "竞对资讯",
         "招标采购",
-        "ReNew"
+        "Vattenfall"
       ],
       "rank": 8,
-      "importance_reason": "竞对资讯 · 招标采购 · ReNew"
+      "importance_reason": "竞对资讯 · 招标采购 · Vattenfall"
     }
   ]
 }

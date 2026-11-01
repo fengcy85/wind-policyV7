@@ -1,37 +1,17 @@
 {
-  "generated_at": "2026-10-31T06:00:21+00:00",
-  "before": 380,
+  "generated_at": "2026-11-01T06:48:26+00:00",
+  "before": 378,
   "kept": 328,
-  "filtered_out": 52,
+  "filtered_out": 50,
   "tag_counts": {
-    "竞对资讯": 280,
     "招标采购": 81,
-    "审批政策": 43,
+    "竞对资讯": 280,
     "市场机制": 15,
     "电网建设": 27,
+    "审批政策": 43,
     "宏观政策": 3
   },
   "rejected_examples": [
-    {
-      "title": "Vattenfall opens its first wind-solar hybrid park in Germany",
-      "source_name": "Renewables Now",
-      "published_at": "2026-10-30",
-      "url": "https://renewablesnow.com/news/vattenfall-opens-its-first-wind-solar-hybrid-park-in-germany-1304043/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Airborne wind tech firm Kitepower goes bankrupt as trustee seeks buyer",
-      "source_name": "Renewables Now",
-      "published_at": "2026-10-30",
-      "url": "https://renewablesnow.com/news/airborne-wind-tech-firm-kitepower-goes-bankrupt-as-trustee-seeks-buyer-1304042/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
     {
       "title": "Half of Germany's state premiers urge change to offshore wind reform to save sector",
       "source_name": "Recharge",
@@ -348,15 +328,6 @@
       ]
     },
     {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-25",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Türkiye's first offshore wind YEKA project expected to draw $3B investment",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-25",
@@ -364,6 +335,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-25",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -399,7 +379,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-19",
-      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
+      "url": "https://www.aa.com.tr/en/energy/finance",
       "reasons": [
         "风电相关性不足"
       ]
@@ -408,7 +388,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-19",
-      "url": "https://www.aa.com.tr/en/energy/finance",
+      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
       ]
