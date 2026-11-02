@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T06:48:26+00:00",
+  "generated_at": "2026-11-02T06:23:00+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-26",
-    "end": "2026-11-01"
+    "start": "2026-10-27",
+    "end": "2026-11-02"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -114,29 +114,6 @@
       "importance_reason": "350 MW · 电网建设 · 项目涉及电网/送出"
     },
     {
-      "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "US wind turbine orders rise to 2.8 GW in Q2 ahead of tax deadline",
-      "translated_title": "美国风电机组订单在纳税期限前在Q2中上升至2.8GW",
-      "published_at": "2026-10-26",
-      "url": "https://renewablesnow.com/news/us-wind-turbine-orders-rise-to-2-8-gw-in-q2-ahead-of-tax-deadline-1303682/",
-      "tags": [
-        "竞对资讯",
-        "招标采购"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "招标/采购节点 · 竞对项目动态 · GW级项目 · 标题明确风电",
-      "signals": [
-        "2.8 GW",
-        "竞对资讯",
-        "招标采购"
-      ],
-      "rank": 5,
-      "importance_reason": "2.8 GW · 竞对资讯 · 招标采购"
-    },
-    {
       "country": "印度",
       "source_name": "Energetica India – Wind Power",
       "title": "Rezolv Energy Energises 192 MW Wind Project in Romania",
@@ -156,7 +133,7 @@
         "竞对资讯",
         "市场机制"
       ],
-      "rank": 6,
+      "rank": 5,
       "importance_reason": "300 MW · 竞对资讯 · 市场机制"
     },
     {
@@ -176,7 +153,7 @@
         "招标采购",
         "招标/采购节点"
       ],
-      "rank": 7,
+      "rank": 6,
       "importance_reason": "39 GW · 招标采购 · 招标/采购节点"
     },
     {
@@ -199,8 +176,31 @@
         "招标采购",
         "Vattenfall"
       ],
-      "rank": 8,
+      "rank": 7,
       "importance_reason": "竞对资讯 · 招标采购 · Vattenfall"
+    },
+    {
+      "country": "全球",
+      "source_name": "Renewables Now",
+      "title": "Elementum Energy wins bid in Ukraine's oversubscribed wind tender",
+      "translated_title": "乌克兰超标的风能竞标获胜",
+      "published_at": "2026-10-30",
+      "url": "https://renewablesnow.com/news/elementum-energy-wins-bid-in-ukraines-oversubscribed-wind-tender-1304001/",
+      "tags": [
+        "竞对资讯",
+        "招标采购"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
+      "signals": [
+        "竞对资讯",
+        "招标采购",
+        "ReNew"
+      ],
+      "rank": 8,
+      "importance_reason": "竞对资讯 · 招标采购 · ReNew"
     }
   ]
 }

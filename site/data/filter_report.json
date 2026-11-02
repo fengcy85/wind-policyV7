@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-01T06:48:26+00:00",
+  "generated_at": "2026-11-02T06:23:00+00:00",
   "before": 378,
   "kept": 328,
   "filtered_out": 50,
   "tag_counts": {
-    "招标采购": 81,
     "竞对资讯": 280,
+    "审批政策": 43,
+    "招标采购": 81,
     "市场机制": 15,
     "电网建设": 27,
-    "审批政策": 43,
     "宏观政策": 3
   },
   "rejected_examples": [
@@ -103,21 +103,21 @@
       ]
     },
     {
+      "title": "29.10.2026 Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-10-30",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
+      "reasons": [
+        "标题明确风电"
+      ]
+    },
+    {
       "title": "27.10.2026 TouchWind’s floating turbine tilts its rotor in strong winds",
       "source_name": "QazaqGreen",
       "published_at": "2026-10-30",
       "url": "https://qazaqgreen.com/en/news/world/3961/",
       "reasons": [
         "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "29.10.2026 Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-10-30",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
-      "reasons": [
         "标题明确风电"
       ]
     },
