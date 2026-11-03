@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-02T06:23:00+00:00",
+  "generated_at": "2026-11-03T08:07:25+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-27",
-    "end": "2026-11-02"
+    "start": "2026-10-28",
+    "end": "2026-11-03"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -16,9 +16,9 @@
     "审批政策"
   ],
   "tag_counts": {
-    "竞对资讯": 5,
-    "招标采购": 5,
-    "市场机制": 2,
+    "竞对资讯": 4,
+    "招标采购": 3,
+    "市场机制": 1,
     "电网建设": 1,
     "宏观政策": 0,
     "审批政策": 1
@@ -27,10 +27,10 @@
     {
       "country": "印度",
       "source_name": "Energetica India – Wind Power",
-      "title": "Alfanar to Sell 507.9 MW Gujarat Wind Portfolio to KPI Green",
-      "translated_title": "Alfanar向KPI Green出售507.9兆瓦古吉拉特风能组合",
+      "title": "Rezolv Energy Energises 192 MW Wind Project in Romania",
+      "translated_title": "罗马尼亚Rezolv能源能源能源192兆瓦风能项目",
       "published_at": "2026-10-30",
-      "url": "https://www.energetica-india.net/news/alfanar-to-sell-5079-mw-gujarat-wind-portfolio-to-kpi-green",
+      "url": "https://www.energetica-india.net/news/rezolv-energy-energises-192-mw-wind-project-in-romania",
       "tags": [
         "竞对资讯",
         "市场机制"
@@ -38,14 +38,14 @@
       "competitors": [
         "ReNew"
       ],
-      "monitor_reason": "政策正文涉及市场机制 · 竞对项目动态 · 500MW+项目 · 标题明确风电",
+      "monitor_reason": "政策正文涉及市场机制 · 竞对项目动态 · 标题明确风电",
       "signals": [
-        "508 MW",
+        "300 MW",
         "竞对资讯",
         "市场机制"
       ],
       "rank": 1,
-      "importance_reason": "508 MW · 竞对资讯 · 市场机制"
+      "importance_reason": "300 MW · 竞对资讯 · 市场机制"
     },
     {
       "country": "全球",
@@ -72,33 +72,28 @@
     {
       "country": "全球",
       "source_name": "Recharge",
-      "title": "Latest US offshore wind remand bid may rattle permitting talks, but Iberdrola project already stalled",
-      "translated_title": "美国最近的海上风还押招标 可能引发谈判 但Iberdrola项目已经停滞了",
-      "published_at": "2026-10-27",
-      "url": "https://www.rechargenews.com/policy/latest-us-offshore-wind-remand-bid-may-rattle-permitting-talks-but-iberdrola-project-already-stalled/2-1-2063030",
+      "title": "Pentagon wind permitting dispute threatens fragile bipartisan reform deal",
+      "translated_title": "五角大楼风力允许争端 威胁到脆弱的两党改革",
+      "published_at": "2026-10-30",
+      "url": "https://www.rechargenews.com/legal/pentagon-wind-permitting-dispute-threatens-fragile-bipartisan-reform-deal/2-1-2066455",
       "tags": [
-        "竞对资讯",
-        "招标采购",
         "审批政策"
       ],
-      "competitors": [
-        "Iberdrola"
-      ],
-      "monitor_reason": "招标/采购节点 · 审批/许可节点 · 竞对项目动态 · 标题明确风电",
+      "competitors": [],
+      "monitor_reason": "审批/许可节点 · 标题明确风电",
       "signals": [
-        "竞对资讯",
-        "招标采购",
-        "Iberdrola"
+        "审批政策",
+        "审批/许可节点"
       ],
       "rank": 3,
-      "importance_reason": "竞对资讯 · 招标采购 · Iberdrola"
+      "importance_reason": "审批政策 · 审批/许可节点"
     },
     {
       "country": "哈萨克斯坦",
       "source_name": "QazaqGreen",
       "title": "27.10.2026 Kazakhstan’s Turkistan region to host 150 MW wind farm, scalable to 350 MW",
       "translated_title": "哈萨克斯坦的突厥斯坦地区有150兆瓦的风力发电场,可扩展至350兆瓦",
-      "published_at": "2026-10-30",
+      "published_at": "2026-11-02",
       "url": "https://qazaqgreen.com/en/news/kazakhstan/3960/",
       "tags": [
         "电网建设"
@@ -114,27 +109,27 @@
       "importance_reason": "350 MW · 电网建设 · 项目涉及电网/送出"
     },
     {
-      "country": "印度",
-      "source_name": "Energetica India – Wind Power",
-      "title": "Rezolv Energy Energises 192 MW Wind Project in Romania",
-      "translated_title": "罗马尼亚Rezolv能源能源能源192兆瓦风能项目",
-      "published_at": "2026-10-30",
-      "url": "https://www.energetica-india.net/news/rezolv-energy-energises-192-mw-wind-project-in-romania",
+      "country": "全球",
+      "source_name": "Recharge",
+      "title": "Vattenfall weighs bids as Germany plans to retender oil giants' offshore wind sites",
+      "translated_title": "Vattenfall在德国计划重新招标石油巨头的岸外风景点时,",
+      "published_at": "2026-11-03",
+      "url": "https://www.rechargenews.com/offshore-wind/vattenfall-weighs-bids-as-germany-plans-to-retender-oil-giants-offshore-wind-sites/2-1-2066383",
       "tags": [
         "竞对资讯",
-        "市场机制"
+        "招标采购"
       ],
       "competitors": [
-        "ReNew"
+        "Vattenfall"
       ],
-      "monitor_reason": "政策正文涉及市场机制 · 竞对项目动态 · 标题明确风电",
+      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
       "signals": [
-        "300 MW",
         "竞对资讯",
-        "市场机制"
+        "招标采购",
+        "Vattenfall"
       ],
       "rank": 5,
-      "importance_reason": "300 MW · 竞对资讯 · 市场机制"
+      "importance_reason": "竞对资讯 · 招标采购 · Vattenfall"
     },
     {
       "country": "全球",
@@ -157,50 +152,48 @@
       "importance_reason": "39 GW · 招标采购 · 招标/采购节点"
     },
     {
-      "country": "全球",
-      "source_name": "Recharge",
-      "title": "Vattenfall weighs bids as Germany plans to retender oil giants' offshore wind sites",
-      "translated_title": "Vattenfall在德国计划重新招标石油巨头的岸外风景点时,",
-      "published_at": "2026-10-30",
-      "url": "https://www.rechargenews.com/offshore-wind/vattenfall-weighs-bids-as-germany-plans-to-retender-oil-giants-offshore-wind-sites/2-1-2066383",
+      "country": "印度",
+      "source_name": "Energetica India – Wind Power",
+      "title": "Alfanar to Sell 507.9 MW Gujarat Wind Portfolio to KPI Green",
+      "translated_title": "Alfanar向KPI Green出售507.9兆瓦古吉拉特风能组合",
+      "published_at": "2026-11-03",
+      "url": "https://www.energetica-india.net/news/alfanar-to-sell-5079-mw-gujarat-wind-portfolio-to-kpi-green",
       "tags": [
-        "竞对资讯",
-        "招标采购"
+        "竞对资讯"
       ],
       "competitors": [
-        "Vattenfall"
+        "ReNew"
       ],
-      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
+      "monitor_reason": "竞对项目动态 · 500MW+项目 · 标题明确风电",
       "signals": [
+        "508 MW",
         "竞对资讯",
-        "招标采购",
-        "Vattenfall"
+        "ReNew"
       ],
       "rank": 7,
-      "importance_reason": "竞对资讯 · 招标采购 · Vattenfall"
+      "importance_reason": "508 MW · 竞对资讯 · ReNew"
     },
     {
-      "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "Elementum Energy wins bid in Ukraine's oversubscribed wind tender",
-      "translated_title": "乌克兰超标的风能竞标获胜",
-      "published_at": "2026-10-30",
-      "url": "https://renewablesnow.com/news/elementum-energy-wins-bid-in-ukraines-oversubscribed-wind-tender-1304001/",
+      "country": "乌兹别克斯坦",
+      "source_name": "乌兹别克斯坦能源部",
+      "title": "Gijduvan Wind Power Plant — 500 MW",
+      "translated_title": "Gijduvan风能发电厂——500兆瓦",
+      "published_at": "2026-11-02",
+      "url": "https://gov.uz/en/minenergy/news/view/238689",
       "tags": [
-        "竞对资讯",
-        "招标采购"
+        "竞对资讯"
       ],
       "competitors": [
-        "ReNew"
+        "Envision"
       ],
-      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
+      "monitor_reason": "竞对项目动态 · 500MW+项目 · 标题明确风电",
       "signals": [
+        "500 MW",
         "竞对资讯",
-        "招标采购",
-        "ReNew"
+        "Envision"
       ],
       "rank": 8,
-      "importance_reason": "竞对资讯 · 招标采购 · ReNew"
+      "importance_reason": "500 MW · 竞对资讯 · Envision"
     }
   ]
 }

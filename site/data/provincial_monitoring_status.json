@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T06:13:44.494579+00:00",
+  "generated_at": "2026-11-03T06:58:44.414768+00:00",
   "warning": "国内不强制证明整段时间覆盖；已发现政策和正常目录读取才是采集结果，媒体线索不是官方法规，仍需留意漏抓风险",
   "province_count": 31,
   "provinces": [
@@ -695,8 +695,8 @@
         },
         {
           "name": "广西壮族自治区人民政府｜最新文件",
-          "status": "timeout",
-          "reason": "官方来源请求超时；有限重试后保留状态，待跨网络复核；提醒：动态分页/日期排序不完整"
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
         }
       ]
     },
@@ -889,8 +889,8 @@
       "official_sources_scanned": 3,
       "official_sources_with_saved_history": 3,
       "verified_official_catalogues": 0,
-      "readable_official_catalogues": 1,
-      "successful_source_feeds": 1,
+      "readable_official_catalogues": 2,
+      "successful_source_feeds": 2,
       "domestic_date_coverage_required": false,
       "official_policy_records": 0,
       "media_clues": 0,
@@ -899,11 +899,6 @@
           "name": "云南省发改委",
           "status": "http_error",
           "reason": "官方入口返回 HTTP 404：已失效或迁移；须核对网址及备用入口；提醒：动态分页/日期排序不完整"
-        },
-        {
-          "name": "云南省人民政府",
-          "status": "timeout",
-          "reason": "官方来源请求超时；有限重试后保留状态，待跨网络复核；提醒：动态分页/日期排序不完整"
         }
       ]
     },
@@ -1107,7 +1102,7 @@
       "contract_configured": true,
       "source_count": 5,
       "live_verified": false,
-      "status": "official_listing_readable",
+      "status": "media_clues_only",
       "official_sources_scanned": 5,
       "official_sources_with_saved_history": 5,
       "verified_official_catalogues": 0,
@@ -1115,7 +1110,7 @@
       "successful_source_feeds": 4,
       "domestic_date_coverage_required": false,
       "official_policy_records": 0,
-      "media_clues": 0,
+      "media_clues": 1,
       "issues": [
         {
           "name": "新疆人民政府",

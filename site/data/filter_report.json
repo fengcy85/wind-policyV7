@@ -1,42 +1,31 @@
 {
-  "generated_at": "2026-11-02T06:23:00+00:00",
-  "before": 378,
-  "kept": 328,
-  "filtered_out": 50,
+  "generated_at": "2026-11-03T08:07:25+00:00",
+  "before": 379,
+  "kept": 335,
+  "filtered_out": 44,
   "tag_counts": {
-    "竞对资讯": 280,
-    "审批政策": 43,
+    "竞对资讯": 287,
+    "市场机制": 14,
     "招标采购": 81,
-    "市场机制": 15,
     "电网建设": 27,
+    "审批政策": 43,
     "宏观政策": 3
   },
   "rejected_examples": [
     {
-      "title": "Half of Germany's state premiers urge change to offshore wind reform to save sector",
-      "source_name": "Recharge",
-      "published_at": "2026-10-30",
-      "url": "https://www.rechargenews.com/policy/half-of-germanys-state-premiers-urge-change-to-offshore-wind-reform-to-save-sector/2-1-2064477",
+      "title": "Onshore Wind",
+      "source_name": "Renewables Now",
+      "published_at": "2026-11-03",
+      "url": "https://renewablesnow.com/news/wind/",
       "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
+        "标题无效/栏目标题"
       ]
     },
     {
       "title": "Two floating wind projects win funding to test 18.5MW turbines",
       "source_name": "Recharge",
-      "published_at": "2026-10-30",
+      "published_at": "2026-11-03",
       "url": "https://www.rechargenews.com/offshore-wind/two-floating-wind-projects-win-funding-to-test-18-5mw-turbines/2-1-2066651",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Chấp thuận chủ trương đầu tư, nhà đầu tư dự án điện gió An Phúc Đông Hải và Đông Hải 1, 3, 13 (giai đoạn tiếp theo)",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-30",
-      "url": "https://nangluongvietnam.vn/chap-thuan-chu-truong-dau-tu-nha-dau-tu-du-an-dien-gio-an-phuc-dong-hai-va-dong-hai-1-3-13-giai-doan-tiep-theo-36554.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -45,7 +34,7 @@
     {
       "title": "Việt Nam muốn phát triển điện gió ngoài khơi, năng lực logistics cũng phải sẵn sàng",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-30",
+      "published_at": "2026-11-03",
       "url": "https://nangluongvietnam.vn/viet-nam-muon-phat-trien-dien-gio-ngoai-khoi-nang-luc-logistics-cung-phai-san-sang-36561.html",
       "reasons": [
         "无六类监测标签",
@@ -55,7 +44,7 @@
     {
       "title": "AKROCEAN triển khai thành công chiến dịch đo gió ngoài khơi thông qua hệ thống Floating LiDAR cho dự án Điện gió Nam Bộ 3",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-30",
+      "published_at": "2026-11-03",
       "url": "https://nangluongvietnam.vn/akrocean-trien-khai-thanh-cong-chien-dich-do-gio-ngoai-khoi-thong-qua-he-thong-floating-lidar-cho-du-an-dien-gio-nam-bo-3-36645.html",
       "reasons": [
         "无六类监测标签",
@@ -65,7 +54,7 @@
     {
       "title": "Chấp thuận chủ trương đầu tư, nhà đầu tư dự án Nhà máy Điện gió Đình Lập 5 (tỉnh Lạng Sơn)",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-30",
+      "published_at": "2026-11-03",
       "url": "https://nangluongvietnam.vn/chap-thuan-chu-truong-dau-tu-nha-dau-tu-du-an-nha-may-dien-gio-dinh-lap-5-tinh-lang-son-36783.html",
       "reasons": [
         "无六类监测标签",
@@ -75,7 +64,7 @@
     {
       "title": "PetroVietnam và đối tác Đan Mạch thỏa thuận hợp tác phát triển điện gió ngoài khơi Việt Nam",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-30",
+      "published_at": "2026-11-03",
       "url": "https://nangluongvietnam.vn/petrovietnam-va-doi-tac-dan-mach-thoa-thuan-hop-tac-phat-trien-dien-gio-ngoai-khoi-viet-nam-36804.html",
       "reasons": [
         "无六类监测标签",
@@ -85,7 +74,7 @@
     {
       "title": "PTSC M&C và Semco Maritime (Đan Mạch) mở rộng hợp tác chiến lược trong lĩnh vực điện gió ngoài khơi",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-30",
+      "published_at": "2026-11-03",
       "url": "https://nangluongvietnam.vn/ptsc-mc-va-semco-maritime-dan-mach-mo-rong-hop-tac-chien-luoc-trong-linh-vuc-dien-gio-ngoai-khoi-36814.html",
       "reasons": [
         "无六类监测标签",
@@ -95,27 +84,8 @@
     {
       "title": "Phê duyệt điều chỉnh cập nhật phương án đấu nối dự án Nhà máy Điện gió Đông Hải 3 (vị trí V3-3)",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-30",
+      "published_at": "2026-11-03",
       "url": "https://nangluongvietnam.vn/phe-duyet-dieu-chinh-cap-nhat-phuong-an-dau-noi-du-an-nha-may-dien-gio-dong-hai-3-vi-tri-v3-3-36841.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "29.10.2026 Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-10-30",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
-      "reasons": [
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "27.10.2026 TouchWind’s floating turbine tilts its rotor in strong winds",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-10-30",
-      "url": "https://qazaqgreen.com/en/news/world/3961/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -124,7 +94,7 @@
     {
       "title": "Pralhad Joshi to Inaugurate Windergy India 2026 in Chennai",
       "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-10-30",
+      "published_at": "2026-11-03",
       "url": "https://www.energetica-india.net/news/pralhad-joshi-to-inaugurate-windergy-india-2026-in-chennai",
       "reasons": [
         "正文明确涉及风电"
@@ -133,7 +103,7 @@
     {
       "title": "Free subscription magazine",
       "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-10-30",
+      "published_at": "2026-11-03",
       "url": "https://www.energetica-india.net/news/renewable-energy/subscriptions/printed-magazine",
       "reasons": [
         "正文明确涉及风电"
@@ -142,10 +112,29 @@
     {
       "title": "Juniper Green Energy Commissions Additional 65.4 MW Wind Capacity - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-10-30",
+      "published_at": "2026-11-03",
       "url": "https://www.energetica-india.net/news/juniper-green-energy-commissions-additional-654-mw-wind-capacity",
       "reasons": [
         "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "27.10.2026 TouchWind’s floating turbine tilts its rotor in strong winds",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-11-02",
+      "url": "https://qazaqgreen.com/en/news/world/3961/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "29.10.2026 Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-11-02",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
+      "reasons": [
         "标题明确风电"
       ]
     },
@@ -169,15 +158,6 @@
       ]
     },
     {
-      "title": "post image",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-26",
-      "url": "https://renewablewatch.in/2026/07/17/manufacturing-lines-building-flexibility-into-solar-production-for-the-next-technology-shift/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Telangana issues 2 GW FDRE-RTC tender",
       "source_name": "Renewable Watch",
       "published_at": "2026-10-15",
@@ -197,51 +177,13 @@
       ]
     },
     {
-      "title": "Europe’s plan to double down on electricity will require a more robust ETS",
-      "source_name": "WindEurope",
-      "published_at": "2026-10-12",
-      "url": "https://windeurope.org/news/europes-plan-to-double-down-on-electricity-will-require-a-more-robust-ets/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "12 October 2026 WindEurope opposes reopening of Birds and Habitats Directive",
-      "source_name": "WindEurope",
-      "published_at": "2026-10-12",
-      "url": "https://windeurope.org/news/how-wind-energy-supports-biodiversity/",
-      "reasons": [
-        "正文明确涉及风电"
-      ]
-    },
-    {
-      "title": "Wind industry names new leadership to turn record year into lasting momentum",
-      "source_name": "WindEurope",
-      "published_at": "2026-10-12",
-      "url": "https://windeurope.org/news/wind-industry-names-new-leadership-to-turn-record-year-into-lasting-momentum/",
+      "title": "Alfanar accepts KPI Green Energy's binding offer for 507.9 MW Bhuj wind portfolio; proceeds to fund 3 GW India pipeline",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-13",
+      "url": "https://renewablewatch.in/2026/10/13/alfanar-accepts-kpi-green-energys-binding-offer-for-507-9-mw-bhuj-wind-portfolio-proceeds-to-fund-3-gw-india-pipeline/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Wind sector commits to strengthening Europe’s literacy to boost skills and fight disinformation",
-      "source_name": "WindEurope",
-      "published_at": "2026-10-12",
-      "url": "https://windeurope.org/news/wind-sector-commits-to-strengthening-europes-literacy-to-boost-skills-and-fight-disinformation/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Wind energy is hiring. Here's how to get a job in it",
-      "source_name": "WindEurope",
-      "published_at": "2026-10-12",
-      "url": "https://windeurope.org/news/wind-energy-is-hiring-heres-how-to-get-a-job-in-it/",
-      "reasons": [
-        "标题明确风电",
-        "低价值内容"
       ]
     },
     {
@@ -277,6 +219,52 @@
       "source_name": "Renewable Watch",
       "published_at": "2026-10-01",
       "url": "https://renewablewatch.in/2026/10/13/beyond-boundaries-indias-cross-border-grid-ambitions/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "WindEurope backs Türkiye's focus on electrification at COP31",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-30",
+      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy/windeurope-backs-turkiyes-focus-on-electrification-at-cop31/59908",
+      "reasons": [
+        "正文明确涉及风电"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-30",
+      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-30",
+      "url": "https://www.aa.com.tr/en/energy/finance",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Denmark eyes new cooperation with Türkiye in wind energy, efficiency and water management",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-30",
+      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy/denmark-eyes-new-cooperation-with-turkiye-in-wind-energy-efficiency-and-water-management/59925",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-30",
+      "url": "https://www.aa.com.tr/en/energy/renewable",
       "reasons": [
         "风电相关性不足"
       ]
@@ -321,8 +309,8 @@
     {
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-27",
-      "url": "https://www.aa.com.tr/en/energy/renewable",
+      "published_at": "2026-09-25",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
       "reasons": [
         "风电相关性不足"
       ]
@@ -335,15 +323,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-25",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -367,40 +346,12 @@
       ]
     },
     {
-      "title": "Türkiye to invest $108B to expand power generation and grid by 2035",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-19",
-      "url": "https://www.aa.com.tr/en/energy/electricity/turkiye-to-invest-108b-to-expand-power-generation-and-grid-by-2035/59649",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-19",
-      "url": "https://www.aa.com.tr/en/energy/finance",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-19",
       "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
-      ]
-    },
-    {
-      "title": "EBRD backs 131 MW wind farm in North Macedonia",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-11",
-      "url": "https://www.aa.com.tr/en/energy/wind/ebrd-backs-131-mw-wind-farm-in-north-macedonia/59518",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
       ]
     },
     {
@@ -418,16 +369,6 @@
       "source_name": "WindInsider",
       "published_at": "2026-09-09",
       "url": "https://windinsider.com/2026/09/09/gerc-hears-dispute-with-guvnl-over-200-mw-wind-project-delays/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Europe installs 8.8 GW new wind power capacity in H126",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-04",
-      "url": "https://www.aa.com.tr/en/energy/electricity/europe-installs-88-gw-new-wind-power-capacity-in-h126/59394",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
