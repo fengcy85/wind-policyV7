@@ -1,112 +1,79 @@
 {
-  "generated_at": "2026-11-04T07:42:54+00:00",
-  "before": 382,
-  "kept": 336,
-  "filtered_out": 46,
+  "generated_at": "2026-11-05T08:04:32+00:00",
+  "before": 397,
+  "kept": 343,
+  "filtered_out": 54,
   "tag_counts": {
-    "竞对资讯": 288,
+    "竞对资讯": 293,
+    "市场机制": 16,
     "电网建设": 27,
-    "招标采购": 81,
-    "市场机制": 14,
+    "招标采购": 82,
     "审批政策": 43,
     "宏观政策": 3
   },
   "rejected_examples": [
     {
-      "title": "Two floating wind projects win funding to test 18.5MW turbines",
+      "title": "Onshore Wind",
+      "source_name": "Renewables Now",
+      "published_at": "2026-11-05",
+      "url": "https://renewablesnow.com/news/wind/",
+      "reasons": [
+        "标题无效/栏目标题"
+      ]
+    },
+    {
+      "title": "US wind industry sees opening for recovery as Democrats sweep Congress",
+      "source_name": "Recharge",
+      "published_at": "2026-11-05",
+      "url": "https://www.rechargenews.com/onshore-wind/us-wind-industry-sees-opening-for-recovery-as-democrats-sweep-congress/2-1-2069427",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Free subscription magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-05",
+      "url": "https://www.energetica-india.net/news/renewable-energy/subscriptions/printed-magazine",
+      "reasons": [
+        "正文明确涉及风电"
+      ]
+    },
+    {
+      "title": "Democrats' landslide pushes wind stocks higher but Trump vetoes could spoil party",
       "source_name": "Recharge",
       "published_at": "2026-11-04",
-      "url": "https://www.rechargenews.com/offshore-wind/two-floating-wind-projects-win-funding-to-test-18-5mw-turbines/2-1-2066651",
+      "url": "https://www.rechargenews.com/policy/democrats-landslide-pushes-wind-stocks-higher-but-trump-vetoes-could-spoil-party/2-1-2068858",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Dominion speeds up largest US offshore wind project amid data centre ramp offshore wind 02.11.2026",
-      "source_name": "Recharge",
+      "title": "MANOVRA 2027, APPROCCIO DEL GOVERNO ANCORA UNA VOLTA PUNITIVO PER LE AZIENDE DEL SETTORE ELETTRICO. FER X, RINNOVABILI A RISCHIO - ANEV",
+      "source_name": "ANEV",
       "published_at": "2026-11-04",
-      "url": "https://www.rechargenews.com/offshore-wind/dominion-speeds-up-largest-us-offshore-wind-project-amid-data-centre-ramp/2-1-2067178",
+      "url": "https://www.anev.org/2026/11/04/manovra-2027-approccio-del-governo-ancora-una-volta-punitivo-per-le-aziende-del-settore-elettrico-fer-x-rinnovabili-a-rischio/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "MME abre consulta pública para aprimoramento da metodologia de cálculo de garantia física de usinas eólicas e solares fotovoltaicas",
+      "source_name": "MME",
+      "published_at": "2026-11-04",
+      "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/novembro-26/mme-abre-consulta-publica-para-aprimoramento-da-metodologia-de-calculo-de-garantia-fisica-de-usinas-eolicas-e-solares-fotovoltaicas",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "UK policy shift could derail floating wind ambitions, Scottish chamber warns offshore wind 03.11.2026",
-      "source_name": "Recharge",
+      "title": "27.10.2026 TouchWind’s floating turbine tilts its rotor in strong winds",
+      "source_name": "QazaqGreen",
       "published_at": "2026-11-04",
-      "url": "https://www.rechargenews.com/offshore-wind/uk-policy-shift-could-derail-floating-wind-ambitions-scottish-chamber-warns/2-1-2067875",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "France and Turkey award over 2GW of onshore wind as price gap grows onshore wind 03.11.2026",
-      "source_name": "Recharge",
-      "published_at": "2026-11-04",
-      "url": "https://www.rechargenews.com/onshore-wind/france-and-turkey-award-over-2gw-of-onshore-wind-as-price-gap-grows/2-1-2068393",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Wind leads Xcel Energy’s $70bn expansion as utility targets gigawatts of new power onshore wind 03.11.2026",
-      "source_name": "Recharge",
-      "published_at": "2026-11-04",
-      "url": "https://www.rechargenews.com/onshore-wind/wind-leads-xcel-energy-s-70bn-expansion-as-utility-targets-gigawatts-of-new-power/2-1-2068649",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "AKROCEAN triển khai thành công chiến dịch đo gió ngoài khơi thông qua hệ thống Floating LiDAR cho dự án Điện gió Nam Bộ 3",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-11-04",
-      "url": "https://nangluongvietnam.vn/akrocean-trien-khai-thanh-cong-chien-dich-do-gio-ngoai-khoi-thong-qua-he-thong-floating-lidar-cho-du-an-dien-gio-nam-bo-3-36645.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Chấp thuận chủ trương đầu tư, nhà đầu tư dự án Nhà máy Điện gió Đình Lập 5 (tỉnh Lạng Sơn)",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-11-04",
-      "url": "https://nangluongvietnam.vn/chap-thuan-chu-truong-dau-tu-nha-dau-tu-du-an-nha-may-dien-gio-dinh-lap-5-tinh-lang-son-36783.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "PetroVietnam và đối tác Đan Mạch thỏa thuận hợp tác phát triển điện gió ngoài khơi Việt Nam",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-11-04",
-      "url": "https://nangluongvietnam.vn/petrovietnam-va-doi-tac-dan-mach-thoa-thuan-hop-tac-phat-trien-dien-gio-ngoai-khoi-viet-nam-36804.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "PTSC M&C và Semco Maritime (Đan Mạch) mở rộng hợp tác chiến lược trong lĩnh vực điện gió ngoài khơi",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-11-04",
-      "url": "https://nangluongvietnam.vn/ptsc-mc-va-semco-maritime-dan-mach-mo-rong-hop-tac-chien-luoc-trong-linh-vuc-dien-gio-ngoai-khoi-36814.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Phê duyệt điều chỉnh cập nhật phương án đấu nối dự án Nhà máy Điện gió Đông Hải 3 (vị trí V3-3)",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-11-04",
-      "url": "https://nangluongvietnam.vn/phe-duyet-dieu-chinh-cap-nhat-phuong-an-dau-noi-du-an-nha-may-dien-gio-dong-hai-3-vi-tri-v3-3-36841.html",
+      "url": "https://qazaqgreen.com/en/news/world/3961/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -115,45 +82,125 @@
     {
       "title": "29.10.2026 Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
       "source_name": "QazaqGreen",
-      "published_at": "2026-11-03",
+      "published_at": "2026-11-04",
       "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
       "reasons": [
         "标题明确风电"
       ]
     },
     {
-      "title": "27.10.2026 TouchWind’s floating turbine tilts its rotor in strong winds",
-      "source_name": "QazaqGreen",
+      "title": "UK policy shift could derail floating wind ambitions, Scottish chamber warns",
+      "source_name": "Recharge",
       "published_at": "2026-11-03",
-      "url": "https://qazaqgreen.com/en/news/world/3961/",
+      "url": "https://www.rechargenews.com/offshore-wind/uk-policy-shift-could-derail-floating-wind-ambitions-scottish-chamber-warns/2-1-2067875",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Pralhad Joshi to Inaugurate Windergy India 2026 in Chennai",
+      "title": "TERI Estimates India's Onshore Wind Potential at 2,933.9 GW at 200 m - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-03",
-      "url": "https://www.energetica-india.net/news/pralhad-joshi-to-inaugurate-windergy-india-2026-in-chennai",
+      "url": "https://www.energetica-india.net/news/teri-estimates-indias-onshore-wind-potential-at-29339-gw-at-200-m",
       "reasons": [
-        "正文明确涉及风电"
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
-      "title": "Free subscription magazine",
+      "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-03",
-      "url": "https://www.energetica-india.net/news/renewable-energy/subscriptions/printed-magazine",
+      "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
       "reasons": [
-        "正文明确涉及风电"
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
-      "title": "Juniper Green Energy Commissions Additional 65.4 MW Wind Capacity - Asia Pacific | Energetica India Magazine",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-11-03",
-      "url": "https://www.energetica-india.net/news/juniper-green-energy-commissions-additional-654-mw-wind-capacity",
+      "title": "New Chapter – International Promotion of ASEE 2027–Australia",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-02",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=426",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "New Chapter - Ongoing Promotion of AWE 2027 - Beijing",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-02",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=420",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-02",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=390",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-02",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Offshore Wind Spotlight | Formosa 4, Taiwan",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-02",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=395",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-02",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "From Guangzhou to Bangkok: Bringing the Global Wind Industry to Southeast Asia",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-02",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=402",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Vietnam–Norway Cooperation Opens New Opportunities for the Offshore Wind Industry",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-02",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=425",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Phê duyệt điều chỉnh cập nhật phương án đấu nối dự án Nhà máy Điện gió Đông Hải 3 (vị trí V3-3)",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-10-30",
+      "url": "https://nangluongvietnam.vn/phe-duyet-dieu-chinh-cap-nhat-phuong-an-dau-noi-du-an-nha-may-dien-gio-dong-hai-3-vi-tri-v3-3-36841.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -179,12 +226,43 @@
       ]
     },
     {
-      "title": "post image",
-      "source_name": "Renewable Watch",
+      "title": "PTSC M&C và Semco Maritime (Đan Mạch) mở rộng hợp tác chiến lược trong lĩnh vực điện gió ngoài khơi",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-10-26",
-      "url": "https://renewablewatch.in/2026/10/13/beyond-boundaries-indias-cross-border-grid-ambitions/",
+      "url": "https://nangluongvietnam.vn/ptsc-mc-va-semco-maritime-dan-mach-mo-rong-hop-tac-chien-luoc-trong-linh-vuc-dien-gio-ngoai-khoi-36814.html",
       "reasons": [
-        "正文明确涉及风电"
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "PetroVietnam và đối tác Đan Mạch thỏa thuận hợp tác phát triển điện gió ngoài khơi Việt Nam",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-10-23",
+      "url": "https://nangluongvietnam.vn/petrovietnam-va-doi-tac-dan-mach-thoa-thuan-hop-tac-phat-trien-dien-gio-ngoai-khoi-viet-nam-36804.html",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Chấp thuận chủ trương đầu tư, nhà đầu tư dự án Nhà máy Điện gió Đình Lập 5 (tỉnh Lạng Sơn)",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-10-19",
+      "url": "https://nangluongvietnam.vn/chap-thuan-chu-truong-dau-tu-nha-dau-tu-du-an-nha-may-dien-gio-dinh-lap-5-tinh-lang-son-36783.html",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Juniper Green Energy Commissions Additional 65.4 MW Wind Capacity - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-10-19",
+      "url": "https://www.energetica-india.net/news/juniper-green-energy-commissions-additional-654-mw-wind-capacity",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
@@ -194,26 +272,6 @@
       "url": "https://renewablewatch.in/2026/10/15/telangana-issues-2-gw-fdre-rtc-tender/",
       "reasons": [
         "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Alfanar accepts KPI Green Energy's binding offer for 507.9 MW Bhuj wind portfolio; proceeds to fund 3 GW India pipeline",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-13",
-      "url": "https://renewablewatch.in/2026/10/13/alfanar-accepts-kpi-green-energys-binding-offer-for-507-9-mw-bhuj-wind-portfolio-proceeds-to-fund-3-gw-india-pipeline/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Juniper Green commissions 150 MW wind-solar hybrid project in Gujarat",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-13",
-      "url": "https://renewablewatch.in/2026/10/13/juniper-green-commissions-150-mw-wind-solar-hybrid-project-in-gujarat/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
       ]
     },
     {
@@ -227,12 +285,51 @@
       ]
     },
     {
-      "title": "Unlocking Potential: Can CBG ambitions go beyond targets?",
+      "title": "DEE Fabricom Secures INR 55 Crore Wind Tower Supply Intent - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-10-09",
+      "url": "https://www.energetica-india.net/news/dee-fabricom-secures-inr-55-crore-wind-tower-supply-intent",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Mayur Dhamale: Head – Acquisitions, Investments & Financial Advisory, ENGIE",
       "source_name": "Renewable Watch",
-      "published_at": "2026-10-07",
-      "url": "https://renewablewatch.in/2026/07/10/unlocking-potential-can-indias-cbg-ambitions-go-beyond-policy-targets/",
+      "published_at": "2026-10-09",
+      "url": "https://renewablewatch.in/2026/10/15/mayur-dhamale-head-acquisitions-investments-financial-advisory-engie/",
       "reasons": [
         "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Alfanar Group Sells Wind Projects to KPI Green Energy Limited",
+      "source_name": "WindInsider",
+      "published_at": "2026-10-08",
+      "url": "https://windinsider.com/2026/10/08/alfanar-accepts-kpi-greens-offer-for-507-9-mw-bhuj-wind-portfolio-to-fund-3-gw-india-pipeline/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Rupal Gupta Founder, Managing Director and Chief Executive Officer, TrueRE Oriana Power",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-08",
+      "url": "https://renewablewatch.in/2026/10/08/rupal-gupta-founder-managing-director-and-chief-executive-officer-truere-oriana-power/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Purvah Green Signs PPA with SECI for 175 MW Wind Project - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-10-07",
+      "url": "https://www.energetica-india.net/news/purvah-green-signs-ppa-with-seci-for-175-mw-wind-project",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
@@ -240,6 +337,15 @@
       "source_name": "Renewable Watch",
       "published_at": "2026-10-01",
       "url": "https://renewablewatch.in/2026/10/15/renewable-roadblocks-regulatory-and-legal-challenges-in-land-acquisition/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Beyond Boundaries: India’s cross-border grid ambitions",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-01",
+      "url": "https://renewablewatch.in/2026/10/13/beyond-boundaries-indias-cross-border-grid-ambitions/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -257,6 +363,15 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-30",
+      "url": "https://www.aa.com.tr/en/energy/finance",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-30",
       "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
       "reasons": [
         "风电相关性不足"
@@ -266,7 +381,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-30",
-      "url": "https://www.aa.com.tr/en/energy/finance",
+      "url": "https://www.aa.com.tr/en/energy/renewable",
       "reasons": [
         "风电相关性不足"
       ]
@@ -279,15 +394,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-30",
-      "url": "https://www.aa.com.tr/en/energy/renewable",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -328,6 +434,15 @@
       ]
     },
     {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-25",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Türkiye's first offshore wind YEKA project expected to draw $3B investment",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-25",
@@ -335,15 +450,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-25",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -367,6 +473,15 @@
       ]
     },
     {
+      "title": "APTEL Grants Review Petition: Key Findings on Arbitration Powers",
+      "source_name": "WindInsider",
+      "published_at": "2026-09-22",
+      "url": "https://windinsider.com/2026/09/22/aptel-clarifies-cerc-arbitration-powers-and-corrects-dvc-judgment-interpretation/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-19",
@@ -376,10 +491,10 @@
       ]
     },
     {
-      "title": "DEE Fabricom Secures INR 55 Crore Wind Tower Supply Intent - Asia Pacific | Energetica India Magazine",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-09-10",
-      "url": "https://www.energetica-india.net/news/dee-fabricom-secures-inr-55-crore-wind-tower-supply-intent",
+      "title": "AKROCEAN triển khai thành công chiến dịch đo gió ngoài khơi thông qua hệ thống Floating LiDAR cho dự án Điện gió Nam Bộ 3",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-09-16",
+      "url": "https://nangluongvietnam.vn/akrocean-trien-khai-thanh-cong-chien-dich-do-gio-ngoai-khoi-thong-qua-he-thong-floating-lidar-cho-du-an-dien-gio-nam-bo-3-36645.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -396,36 +511,7 @@
       ]
     },
     {
-      "title": "La sicurezza nel Parco Eolico - CORSO DI FORMAZIONE 1/2026 - ANEV",
-      "source_name": "ANEV",
-      "published_at": "2026-09-02",
-      "url": "https://www.anev.org/2026/02/09/corso-di-formazione-1-2026-la-sicurezza-nel-parco-eolico/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "APTEL Grants Review Petition: Key Findings on Arbitration Powers",
-      "source_name": "WindInsider",
-      "published_at": "2026-08-10",
-      "url": "https://windinsider.com/2026/09/22/aptel-clarifies-cerc-arbitration-powers-and-corrects-dvc-judgment-interpretation/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Alfanar Group Sells Wind Projects to KPI Green Energy Limited",
-      "source_name": "WindInsider",
-      "published_at": "2026-08-10",
-      "url": "https://windinsider.com/2026/10/08/alfanar-accepts-kpi-greens-offer-for-507-9-mw-bhuj-wind-portfolio-to-fund-3-gw-india-pipeline/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "O&M e Asset Management – CORSO DI FORMAZIONE 3/2026",
+      "title": "O&M e Asset Management - CORSO DI FORMAZIONE 3/2026 - ANEV",
       "source_name": "ANEV",
       "published_at": "2026-08-03",
       "url": "https://www.anev.org/2026/08/03/om-e-asset-management-corso-di-formazione-3-2026/",
@@ -434,23 +520,12 @@
       ]
     },
     {
-      "title": "Purvah Green Signs PPA with SECI for 175 MW Wind Project - Asia Pacific | Energetica India Magazine",
-      "source_name": "Energetica India – Wind Power",
+      "title": "Unlocking Potential: Can CBG ambitions go beyond targets?",
+      "source_name": "Renewable Watch",
       "published_at": "2026-07-10",
-      "url": "https://www.energetica-india.net/news/purvah-green-signs-ppa-with-seci-for-175-mw-wind-project",
+      "url": "https://renewablewatch.in/2026/07/10/unlocking-potential-can-indias-cbg-ambitions-go-beyond-policy-targets/",
       "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Inox Green Completes INR 550 Crore WWIL Wind O&M Deal - Asia Pacific | Energetica India Magazine",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-07-10",
-      "url": "https://www.energetica-india.net/news/inox-green-completes-inr-550-crore-wwil-wind-om-deal",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
+        "风电相关性不足"
       ]
     }
   ]

@@ -7,14 +7,14 @@
     "adapter": "Wind Power 专栏 + RSS + 站内搜索",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-04T06:34:54+00:00",
+    "checked_at": "2026-11-05T06:57:20+00:00",
     "error": "",
     "attempts": [
       {
         "strategy": "rss",
         "url": "https://renewablewatch.in/category/wind-power/feed/",
         "ok": true,
-        "candidates": 10
+        "candidates": 5
       },
       {
         "strategy": "entry:requests",
@@ -45,7 +45,7 @@
     "adapter": "Wind Power 专栏 + 链接纠正",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-04T06:35:05+00:00",
+    "checked_at": "2026-11-05T06:57:30+00:00",
     "error": "",
     "attempts": [
       {
@@ -65,7 +65,7 @@
     "adapter": "News 列表 + 详情页核验 + 标题过滤",
     "status": "success",
     "found_count": 3,
-    "checked_at": "2026-11-04T06:35:23+00:00",
+    "checked_at": "2026-11-05T06:57:47+00:00",
     "error": "",
     "attempts": [
       {
@@ -85,7 +85,7 @@
     "adapter": "All News + Chromium 强制渲染 + 详情页风电过滤",
     "status": "success",
     "found_count": 1,
-    "checked_at": "2026-11-04T06:36:40+00:00",
+    "checked_at": "2026-11-05T06:59:04+00:00",
     "error": "",
     "attempts": [
       {
@@ -118,7 +118,7 @@
     "adapter": "News + RSS + 站内搜索",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-04T06:36:43+00:00",
+    "checked_at": "2026-11-05T06:59:08+00:00",
     "error": "",
     "attempts": [
       {
@@ -156,7 +156,7 @@
     "adapter": "可再生能源栏目 + 越南语关键词 + 单层文章链接识别",
     "status": "success",
     "found_count": 6,
-    "checked_at": "2026-11-04T06:37:01+00:00",
+    "checked_at": "2026-11-05T06:59:25+00:00",
     "error": "",
     "attempts": [
       {
@@ -175,8 +175,8 @@
     "role": "政府政策/规划",
     "adapter": "MME Notícias + 葡语站内搜索 + 浏览器兜底",
     "status": "success",
-    "found_count": 2,
-    "checked_at": "2026-11-04T06:37:24+00:00",
+    "found_count": 3,
+    "checked_at": "2026-11-05T06:59:47+00:00",
     "error": "",
     "attempts": [
       {
@@ -208,7 +208,7 @@
     "adapter": "首页 + RSS + 站内搜索",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-04T06:37:48+00:00",
+    "checked_at": "2026-11-05T07:00:10+00:00",
     "error": "",
     "attempts": [
       {
@@ -246,7 +246,7 @@
     "adapter": "News + RSS + 站内搜索",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-04T06:38:08+00:00",
+    "checked_at": "2026-11-05T07:00:22+00:00",
     "error": "",
     "attempts": [
       {
@@ -282,9 +282,9 @@
     "name": "ASEAN Wind Energy Expo",
     "role": "风电市场/政策/项目",
     "adapter": "Media & News 列表 + 日期提示 + 详情页兜底",
-    "status": "no_news",
-    "found_count": 0,
-    "checked_at": "2026-11-04T06:38:25+00:00",
+    "status": "success",
+    "found_count": 12,
+    "checked_at": "2026-11-05T07:00:32+00:00",
     "error": "",
     "attempts": [
       {
@@ -294,7 +294,7 @@
         "candidates": 20
       }
     ],
-    "strategic_kept_total": 6
+    "strategic_kept_total": 7
   },
   {
     "id": "oman_mem",
@@ -304,7 +304,7 @@
     "adapter": "News + Chromium 动态渲染 + 宽入口详情核验",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-04T06:38:48+00:00",
+    "checked_at": "2026-11-05T07:00:52+00:00",
     "error": "",
     "attempts": [
       {
@@ -330,7 +330,7 @@
     "adapter": "Wind 专栏",
     "status": "success",
     "found_count": 12,
-    "checked_at": "2026-11-04T06:39:03+00:00",
+    "checked_at": "2026-11-05T07:01:05+00:00",
     "error": "",
     "attempts": [
       {
@@ -350,7 +350,7 @@
     "adapter": "NEWS + Comunicati Stampa + 意大利语搜索",
     "status": "success",
     "found_count": 6,
-    "checked_at": "2026-11-04T06:39:53+00:00",
+    "checked_at": "2026-11-05T07:01:29+00:00",
     "error": "",
     "attempts": [
       {
@@ -394,7 +394,7 @@
     "adapter": "Latest + 首页 + 浏览器兜底（不绕过付费墙）",
     "status": "success",
     "found_count": 8,
-    "checked_at": "2026-11-04T06:41:10+00:00",
+    "checked_at": "2026-11-05T07:02:49+00:00",
     "error": "",
     "attempts": [
       {
@@ -417,7 +417,7 @@
         "note": "单站达到时间上限，已停止继续深挖。"
       }
     ],
-    "strategic_kept_total": 102
+    "strategic_kept_total": 106
   },
   {
     "id": "windeurope",
@@ -427,7 +427,7 @@
     "adapter": "News 专页 + 详情页",
     "status": "no_news",
     "found_count": 0,
-    "checked_at": "2026-11-04T07:41:11+00:00",
+    "checked_at": "2026-11-05T08:02:49+00:00",
     "error": "",
     "attempts": [
       {
@@ -453,21 +453,27 @@
     "role": "全球风电新闻",
     "adapter": "月度归档 → 日期归档 → 风电文章（403 时使用列表信息）",
     "status": "success",
-    "found_count": 1,
-    "checked_at": "2026-11-04T07:42:28+00:00",
+    "found_count": 3,
+    "checked_at": "2026-11-05T08:04:06+00:00",
     "error": "",
     "attempts": [
       {
         "strategy": "archive-month:requests",
         "url": "https://renewablesnow.com/sitemaps/2026/november/",
         "ok": true,
-        "candidates": 3
+        "candidates": 4
+      },
+      {
+        "strategy": "archive-day:requests",
+        "url": "https://renewablesnow.com/sitemaps/2026/november/5/",
+        "ok": true,
+        "candidates": 11
       },
       {
         "strategy": "archive-day:requests",
         "url": "https://renewablesnow.com/sitemaps/2026/november/4/",
         "ok": true,
-        "candidates": 10
+        "candidates": 20
       },
       {
         "strategy": "archive-day:requests",
@@ -485,10 +491,10 @@
         "strategy": "budget",
         "url": "",
         "ok": true,
-        "candidates": 1,
+        "candidates": 3,
         "note": "单站达到时间上限，已停止继续深挖。"
       }
     ],
-    "strategic_kept_total": 130
+    "strategic_kept_total": 132
   }
 ]
