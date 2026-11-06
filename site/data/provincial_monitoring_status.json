@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:56:34.410961+00:00",
+  "generated_at": "2026-11-06T06:54:57.879738+00:00",
   "warning": "国内不强制证明整段时间覆盖；已发现政策和正常目录读取才是采集结果，媒体线索不是官方法规，仍需留意漏抓风险",
   "province_count": 31,
   "provinces": [
@@ -55,8 +55,8 @@
       "issues": [
         {
           "name": "天津发展和改革委员会",
-          "status": "timeout",
-          "reason": "官方来源请求超时；有限重试后保留状态，待跨网络复核；提醒：动态分页/日期排序不完整"
+          "status": "blocked",
+          "reason": "官方返回 HTTP 403：访问被拒绝；需核查执行地及官方访问条件；提醒：动态分页/日期排序不完整"
         },
         {
           "name": "天津工业和信息化局",
@@ -607,7 +607,7 @@
       "successful_source_feeds": 0,
       "domestic_date_coverage_required": false,
       "official_policy_records": 0,
-      "media_clues": 1,
+      "media_clues": 2,
       "issues": [
         {
           "name": "湖南省发改委",
@@ -841,30 +841,9 @@
       "readable_official_catalogues": 1,
       "successful_source_feeds": 1,
       "domestic_date_coverage_required": false,
-      "official_policy_records": 6,
+      "official_policy_records": 7,
       "media_clues": 0,
-      "issues": [
-        {
-          "name": "贵州省发改委",
-          "status": "connection_error",
-          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
-        },
-        {
-          "name": "贵州省人民政府",
-          "status": "connection_error",
-          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
-        },
-        {
-          "name": "贵州省工信厅",
-          "status": "connection_error",
-          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
-        },
-        {
-          "name": "贵州省政府｜黔府办发",
-          "status": "connection_error",
-          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
-        }
-      ]
+      "issues": []
     },
     {
       "province": "云南",

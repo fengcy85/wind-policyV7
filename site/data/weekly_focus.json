@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-05T08:04:32+00:00",
+  "generated_at": "2026-11-06T08:02:57+00:00",
   "period": {
     "days": 7,
-    "start": "2026-10-30",
-    "end": "2026-11-05"
+    "start": "2026-10-31",
+    "end": "2026-11-06"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -16,12 +16,12 @@
     "审批政策"
   ],
   "tag_counts": {
-    "竞对资讯": 4,
+    "竞对资讯": 6,
     "招标采购": 3,
-    "市场机制": 2,
+    "市场机制": 1,
     "电网建设": 1,
     "宏观政策": 0,
-    "审批政策": 1
+    "审批政策": 0
   },
   "items": [
     {
@@ -29,23 +29,25 @@
       "source_name": "Recharge",
       "title": "Dogger Bank partners swoop for additional vessel after CfD milestone delay offshore wind 05.11.2026",
       "translated_title": "Dogger Bank 合伙人在CfD地标延迟到岸外风速05.11. 2026年11月5日之后,要求增加船只",
-      "published_at": "2026-11-05",
+      "published_at": "2026-11-06",
       "url": "https://www.rechargenews.com/offshore-wind/dogger-bank-partners-swoop-for-additional-vessel-after-cfd-milestone-delay/2-1-2069312",
       "tags": [
         "竞对资讯",
+        "招标采购",
         "市场机制"
       ],
       "competitors": [
-        "EnBW"
+        "Orsted",
+        "Brookfield"
       ],
-      "monitor_reason": "电价/市场机制 · 竞对项目动态 · 标题明确风电",
+      "monitor_reason": "正文含招标/采购 · 电价/市场机制 · 竞对项目动态 · 标题明确风电",
       "signals": [
         "竞对资讯",
-        "市场机制",
-        "EnBW"
+        "招标采购",
+        "Orsted"
       ],
       "rank": 1,
-      "importance_reason": "竞对资讯 · 市场机制 · EnBW"
+      "importance_reason": "竞对资讯 · 招标采购 · Orsted"
     },
     {
       "country": "全球",
@@ -68,25 +70,6 @@
       "importance_reason": "2 GW · 招标采购 · 正文含招标/采购"
     },
     {
-      "country": "全球",
-      "source_name": "Recharge",
-      "title": "Pentagon wind permitting dispute threatens fragile bipartisan reform deal",
-      "translated_title": "五角大楼风力允许争端 威胁到脆弱的两党改革",
-      "published_at": "2026-10-30",
-      "url": "https://www.rechargenews.com/legal/pentagon-wind-permitting-dispute-threatens-fragile-bipartisan-reform-deal/2-1-2066455",
-      "tags": [
-        "审批政策"
-      ],
-      "competitors": [],
-      "monitor_reason": "审批/许可节点 · 标题明确风电",
-      "signals": [
-        "审批政策",
-        "审批/许可节点"
-      ],
-      "rank": 3,
-      "importance_reason": "审批政策 · 审批/许可节点"
-    },
-    {
       "country": "哈萨克斯坦",
       "source_name": "QazaqGreen",
       "title": "27.10.2026 Kazakhstan’s Turkistan region to host 150 MW wind farm, scalable to 350 MW",
@@ -103,8 +86,30 @@
         "电网建设",
         "项目涉及电网/送出"
       ],
-      "rank": 4,
+      "rank": 3,
       "importance_reason": "350 MW · 电网建设 · 项目涉及电网/送出"
+    },
+    {
+      "country": "全球",
+      "source_name": "Recharge",
+      "title": "Wind finally turned profitable for GE Vernova: now its CEO is watching two things analysis 02.11.2026",
+      "translated_title": "风终于对GE Vernova有利可图:现在它的CEO正在观看两件事的分析02.11.2026",
+      "published_at": "2026-11-04",
+      "url": "https://www.rechargenews.com/analysis/wind-finally-turned-profitable-for-ge-vernova-now-its-ceo-is-watching-two-things/2-1-2065727",
+      "tags": [
+        "竞对资讯"
+      ],
+      "competitors": [
+        "GE Vernova"
+      ],
+      "monitor_reason": "竞对项目动态 · GW级项目 · 标题明确风电",
+      "signals": [
+        "2 GW",
+        "竞对资讯",
+        "GE Vernova"
+      ],
+      "rank": 4,
+      "importance_reason": "2 GW · 竞对资讯 · GE Vernova"
     },
     {
       "country": "全球",
@@ -129,51 +134,6 @@
       "importance_reason": "1.3 GW · 竞对资讯 · ReNew"
     },
     {
-      "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "South Korea announces 2.2-GW offshore wind auction, 2nd for 2026",
-      "translated_title": "韩国宣布2.2-GW出海风拍卖会,2026年第2回",
-      "published_at": "2026-10-30",
-      "url": "https://renewablesnow.com/news/south-korea-announces-2-2-gw-offshore-wind-auction-2nd-for-2026-1304056/",
-      "tags": [
-        "招标采购"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "招标/采购节点 · GW级项目 · 标题明确风电",
-      "signals": [
-        "2.2 GW",
-        "招标采购",
-        "ReNew"
-      ],
-      "rank": 6,
-      "importance_reason": "2.2 GW · 招标采购 · ReNew"
-    },
-    {
-      "country": "印度",
-      "source_name": "Energetica India – Wind Power",
-      "title": "Rezolv Energy Energises 192 MW Wind Project in Romania",
-      "translated_title": "罗马尼亚Rezolv能源能源能源192兆瓦风能项目",
-      "published_at": "2026-10-30",
-      "url": "https://www.energetica-india.net/news/rezolv-energy-energises-192-mw-wind-project-in-romania",
-      "tags": [
-        "竞对资讯",
-        "市场机制"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "政策正文涉及市场机制 · 竞对项目动态 · 标题明确风电",
-      "signals": [
-        "300 MW",
-        "竞对资讯",
-        "市场机制"
-      ],
-      "rank": 7,
-      "importance_reason": "300 MW · 竞对资讯 · 市场机制"
-    },
-    {
       "country": "东南亚",
       "source_name": "ASEAN Wind Energy Expo",
       "title": "Vestas Secures 137 MW in New Wind Orders Across Europe and Latin America",
@@ -193,8 +153,52 @@
         "竞对资讯",
         "招标采购"
       ],
-      "rank": 8,
+      "rank": 6,
       "importance_reason": "137 MW · 竞对资讯 · 招标采购"
+    },
+    {
+      "country": "乌兹别克斯坦",
+      "source_name": "乌兹别克斯坦能源部",
+      "title": "Gijduvan Wind Power Plant — 500 MW",
+      "translated_title": "Gijduvan风能发电厂——500兆瓦",
+      "published_at": "2026-11-04",
+      "url": "https://gov.uz/en/minenergy/news/view/238689",
+      "tags": [
+        "竞对资讯"
+      ],
+      "competitors": [
+        "Envision"
+      ],
+      "monitor_reason": "竞对项目动态 · 500MW+项目 · 标题明确风电",
+      "signals": [
+        "500 MW",
+        "竞对资讯",
+        "Envision"
+      ],
+      "rank": 7,
+      "importance_reason": "500 MW · 竞对资讯 · Envision"
+    },
+    {
+      "country": "全球",
+      "source_name": "Renewables Now",
+      "title": "Emergy secures grid-connection for 400 MW of Romanian wind farms",
+      "translated_title": "Emergy为400兆瓦的罗马尼亚风电场提供电网连接",
+      "published_at": "2026-11-06",
+      "url": "https://renewablesnow.com/news/emergy-secures-grid-connection-for-400-mw-of-romanian-wind-farms-1304447/",
+      "tags": [
+        "竞对资讯"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "竞对项目动态 · 标题明确风电",
+      "signals": [
+        "400 MW",
+        "竞对资讯",
+        "ReNew"
+      ],
+      "rank": 8,
+      "importance_reason": "400 MW · 竞对资讯 · ReNew"
     }
   ]
 }
