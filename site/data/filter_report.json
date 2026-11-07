@@ -1,26 +1,17 @@
 {
-  "generated_at": "2026-11-06T08:02:56+00:00",
-  "before": 403,
-  "kept": 350,
+  "generated_at": "2026-11-07T07:16:13+00:00",
+  "before": 405,
+  "kept": 352,
   "filtered_out": 53,
   "tag_counts": {
-    "竞对资讯": 299,
-    "招标采购": 86,
+    "竞对资讯": 300,
+    "招标采购": 87,
     "市场机制": 16,
-    "电网建设": 27,
+    "电网建设": 26,
     "审批政策": 43,
     "宏观政策": 3
   },
   "rejected_examples": [
-    {
-      "title": "Onshore Wind",
-      "source_name": "Renewables Now",
-      "published_at": "2026-11-06",
-      "url": "https://renewablesnow.com/news/wind/",
-      "reasons": [
-        "标题无效/栏目标题"
-      ]
-    },
     {
       "title": "Offshore Wind",
       "source_name": "Renewables Now",
@@ -28,6 +19,45 @@
       "url": "https://renewablesnow.com/news/offshore-wind/",
       "reasons": [
         "标题无效/栏目标题"
+      ]
+    },
+    {
+      "title": "'Crucial' project delay sparks funding crunch at major offshore wind player: shares plunge 20%",
+      "source_name": "Recharge",
+      "published_at": "2026-11-06",
+      "url": "https://www.rechargenews.com/offshore-wind/crucial-project-delay-sparks-funding-crunch-at-major-offshore-wind-player-shares-plunge-20-/2-1-2070686",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Floating wind pioneer that sold project for £1 faces liquidation threat",
+      "source_name": "Recharge",
+      "published_at": "2026-11-06",
+      "url": "https://www.rechargenews.com/offshore-wind/floating-wind-pioneer-that-sold-project-for-1-faces-liquidation-threat/2-1-2070994",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Pentagon clears 11 wind projects, but signs only a single mitigation deal",
+      "source_name": "Recharge",
+      "published_at": "2026-11-06",
+      "url": "https://www.rechargenews.com/onshore-wind/pentagon-clears-11-wind-projects-but-signs-only-a-single-mitigation-deal/2-1-2071024",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-11-06",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
+      "reasons": [
+        "标题明确风电"
       ]
     },
     {
@@ -60,35 +90,6 @@
       ]
     },
     {
-      "title": "29.10.2026 Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-11-05",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
-      "reasons": [
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "27.10.2026 TouchWind’s floating turbine tilts its rotor in strong winds",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-11-05",
-      "url": "https://qazaqgreen.com/en/news/world/3961/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Democrats' landslide pushes wind stocks higher but Trump vetoes could spoil party",
-      "source_name": "Recharge",
-      "published_at": "2026-11-04",
-      "url": "https://www.rechargenews.com/policy/democrats-landslide-pushes-wind-stocks-higher-but-trump-vetoes-could-spoil-party/2-1-2068858",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "MANOVRA 2027, APPROCCIO DEL GOVERNO ANCORA UNA VOLTA PUNITIVO PER LE AZIENDE DEL SETTORE ELETTRICO. FER X, RINNOVABILI A RISCHIO - ANEV",
       "source_name": "ANEV",
       "published_at": "2026-11-04",
@@ -108,20 +109,20 @@
       ]
     },
     {
-      "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
+      "title": "TERI Estimates India's Onshore Wind Potential at 2,933.9 GW at 200 m - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-03",
-      "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
+      "url": "https://www.energetica-india.net/news/teri-estimates-indias-onshore-wind-potential-at-29339-gw-at-200-m",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "TERI Estimates India's Onshore Wind Potential at 2,933.9 GW at 200 m - Asia Pacific | Energetica India Magazine",
+      "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-03",
-      "url": "https://www.energetica-india.net/news/teri-estimates-indias-onshore-wind-potential-at-29339-gw-at-200-m",
+      "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -235,6 +236,24 @@
       ]
     },
     {
+      "title": "post image",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-26",
+      "url": "https://renewablewatch.in/2026/10/15/renewable-roadblocks-regulatory-and-legal-challenges-in-land-acquisition/",
+      "reasons": [
+        "正文明确涉及风电"
+      ]
+    },
+    {
+      "title": "post image",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-26",
+      "url": "https://renewablewatch.in/2026/10/13/beyond-boundaries-indias-cross-border-grid-ambitions/",
+      "reasons": [
+        "正文明确涉及风电"
+      ]
+    },
+    {
       "title": "PetroVietnam và đối tác Đan Mạch thỏa thuận hợp tác phát triển điện gió ngoài khơi Việt Nam",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-10-23",
@@ -313,16 +332,6 @@
       ]
     },
     {
-      "title": "Turbine blades find second life beyond wind, turning waste into infrastructure",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-05",
-      "url": "https://www.aa.com.tr/en/energy/wind/turbine-blades-find-second-life-beyond-wind-turning-waste-into-infrastructure/59997",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-05",
@@ -332,21 +341,13 @@
       ]
     },
     {
-      "title": "Renewable Roadblocks: Regulatory and legal challenges in land acquisition",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-01",
-      "url": "https://renewablewatch.in/2026/10/15/renewable-roadblocks-regulatory-and-legal-challenges-in-land-acquisition/",
+      "title": "Turbine blades find second life beyond wind, turning waste into infrastructure",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-05",
+      "url": "https://www.aa.com.tr/en/energy/wind/turbine-blades-find-second-life-beyond-wind-turning-waste-into-infrastructure/59997",
       "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Beyond Boundaries: India’s cross-border grid ambitions",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-01",
-      "url": "https://renewablewatch.in/2026/10/13/beyond-boundaries-indias-cross-border-grid-ambitions/",
-      "reasons": [
-        "风电相关性不足"
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
@@ -377,15 +378,6 @@
       ]
     },
     {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-30",
-      "url": "https://www.aa.com.tr/en/energy/finance",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Denmark eyes new cooperation with Türkiye in wind energy, efficiency and water management",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-30",
@@ -393,6 +385,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-30",
+      "url": "https://www.aa.com.tr/en/energy/finance",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -433,15 +434,6 @@
       ]
     },
     {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-25",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Türkiye's first offshore wind YEKA project expected to draw $3B investment",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-25",
@@ -449,6 +441,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-25",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
