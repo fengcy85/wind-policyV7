@@ -1,24 +1,25 @@
 {
-  "generated_at": "2026-11-07T07:16:13+00:00",
-  "before": 405,
-  "kept": 352,
+  "generated_at": "2026-11-08T07:42:56+00:00",
+  "before": 409,
+  "kept": 356,
   "filtered_out": 53,
   "tag_counts": {
-    "竞对资讯": 300,
+    "竞对资讯": 304,
     "招标采购": 87,
     "市场机制": 16,
-    "电网建设": 26,
+    "电网建设": 27,
     "审批政策": 43,
     "宏观政策": 3
   },
   "rejected_examples": [
     {
-      "title": "Offshore Wind",
-      "source_name": "Renewables Now",
-      "published_at": "2026-11-06",
-      "url": "https://renewablesnow.com/news/offshore-wind/",
+      "title": "Khởi công dự án Nhà máy Điện gió Vân Canh 2 (tỉnh Gia Lai)",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-11-07",
+      "url": "https://nangluongvietnam.vn/khoi-cong-du-an-nha-may-dien-gio-van-canh-2-tinh-gia-lai-36884.html",
       "reasons": [
-        "标题无效/栏目标题"
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
@@ -52,7 +53,7 @@
       ]
     },
     {
-      "title": "Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
+      "title": "29.10.2026 Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
       "source_name": "QazaqGreen",
       "published_at": "2026-11-06",
       "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
@@ -147,20 +148,20 @@
       ]
     },
     {
-      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
+      "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=390",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
+      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=390",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -177,20 +178,20 @@
       ]
     },
     {
-      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
+      "title": "From Guangzhou to Bangkok: Bringing the Global Wind Industry to Southeast Asia",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=402",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "From Guangzhou to Bangkok: Bringing the Global Wind Industry to Southeast Asia",
+      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=402",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -204,6 +205,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "post image",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-11-02",
+      "url": "https://renewablewatch.in/2026/07/10/unlocking-potential-can-indias-cbg-ambitions-go-beyond-policy-targets/",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -233,24 +243,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "post image",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-26",
-      "url": "https://renewablewatch.in/2026/10/15/renewable-roadblocks-regulatory-and-legal-challenges-in-land-acquisition/",
-      "reasons": [
-        "正文明确涉及风电"
-      ]
-    },
-    {
-      "title": "post image",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-26",
-      "url": "https://renewablewatch.in/2026/10/13/beyond-boundaries-indias-cross-border-grid-ambitions/",
-      "reasons": [
-        "正文明确涉及风电"
       ]
     },
     {
@@ -351,6 +343,24 @@
       ]
     },
     {
+      "title": "Renewable Roadblocks: Regulatory and legal challenges in land acquisition",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-01",
+      "url": "https://renewablewatch.in/2026/10/15/renewable-roadblocks-regulatory-and-legal-challenges-in-land-acquisition/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Beyond Boundaries: India’s cross-border grid ambitions",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-01",
+      "url": "https://renewablewatch.in/2026/10/13/beyond-boundaries-indias-cross-border-grid-ambitions/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Strengthening Discom Finances: Privatisation, debt relief, market access emerge as long-term solutions",
       "source_name": "Renewable Watch",
       "published_at": "2026-10-01",
@@ -372,6 +382,15 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-30",
+      "url": "https://www.aa.com.tr/en/energy/finance",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-30",
       "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
       "reasons": [
         "风电相关性不足"
@@ -385,15 +404,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-30",
-      "url": "https://www.aa.com.tr/en/energy/finance",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -434,6 +444,15 @@
       ]
     },
     {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-25",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Türkiye's first offshore wind YEKA project expected to draw $3B investment",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-25",
@@ -441,15 +460,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-25",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -506,15 +516,6 @@
       "source_name": "ANEV",
       "published_at": "2026-08-03",
       "url": "https://www.anev.org/2026/08/03/om-e-asset-management-corso-di-formazione-3-2026/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Unlocking Potential: Can CBG ambitions go beyond targets?",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-07-10",
-      "url": "https://renewablewatch.in/2026/07/10/unlocking-potential-can-indias-cbg-ambitions-go-beyond-policy-targets/",
       "reasons": [
         "风电相关性不足"
       ]
