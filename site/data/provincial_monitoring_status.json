@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T06:34:56.530460+00:00",
+  "generated_at": "2026-11-09T06:39:37.171091+00:00",
   "warning": "国内不强制证明整段时间覆盖；已发现政策和正常目录读取才是采集结果，媒体线索不是官方法规，仍需留意漏抓风险",
   "province_count": 31,
   "provinces": [
@@ -485,12 +485,17 @@
       "official_sources_scanned": 4,
       "official_sources_with_saved_history": 4,
       "verified_official_catalogues": 0,
-      "readable_official_catalogues": 1,
+      "readable_official_catalogues": 0,
       "successful_source_feeds": 0,
       "domestic_date_coverage_required": false,
       "official_policy_records": 1,
       "media_clues": 0,
       "issues": [
+        {
+          "name": "国家能源局山东监管办公室（官方替代）",
+          "status": "needs_adapter",
+          "reason": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：15行"
+        },
         {
           "name": "山东省发改委",
           "status": "connection_error",

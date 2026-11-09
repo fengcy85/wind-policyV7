@@ -1,17 +1,114 @@
 {
-  "generated_at": "2026-11-08T07:42:56+00:00",
-  "before": 409,
-  "kept": 356,
-  "filtered_out": 53,
+  "generated_at": "2026-11-09T07:47:41+00:00",
+  "before": 412,
+  "kept": 358,
+  "filtered_out": 54,
   "tag_counts": {
-    "竞对资讯": 304,
-    "招标采购": 87,
+    "竞对资讯": 306,
+    "招标采购": 86,
     "市场机制": 16,
     "电网建设": 27,
     "审批政策": 43,
     "宏观政策": 3
   },
   "rejected_examples": [
+    {
+      "title": "Onshore Wind",
+      "source_name": "Renewables Now",
+      "published_at": "2026-11-09",
+      "url": "https://renewablesnow.com/news/wind/",
+      "reasons": [
+        "标题无效/栏目标题"
+      ]
+    },
+    {
+      "title": "New Chapter - Ongoing Promotion of AWE 2027 - Beijing",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-09",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=420",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "New Chapter – International Promotion of ASEE 2027–Australia",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-09",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=426",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-09",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=390",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-09",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Offshore Wind Spotlight | Formosa 4, Taiwan",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-09",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=395",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "From Guangzhou to Bangkok: Bringing the Global Wind Industry to Southeast Asia",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-09",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=402",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-09",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Vietnam–Norway Cooperation Opens New Opportunities for the Offshore Wind Industry",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-09",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=425",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Philippines Takes Another Step Forward in Wind Energy Development!",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-09",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=428",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
     {
       "title": "Khởi công dự án Nhà máy Điện gió Vân Canh 2 (tỉnh Gia Lai)",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
@@ -81,16 +178,6 @@
       ]
     },
     {
-      "title": "US wind industry sees opening for recovery as Democrats sweep Congress",
-      "source_name": "Recharge",
-      "published_at": "2026-11-05",
-      "url": "https://www.rechargenews.com/onshore-wind/us-wind-industry-sees-opening-for-recovery-as-democrats-sweep-congress/2-1-2069427",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "MANOVRA 2027, APPROCCIO DEL GOVERNO ANCORA UNA VOLTA PUNITIVO PER LE AZIENDE DEL SETTORE ELETTRICO. FER X, RINNOVABILI A RISCHIO - ANEV",
       "source_name": "ANEV",
       "published_at": "2026-11-04",
@@ -124,84 +211,6 @@
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-03",
       "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "New Chapter - Ongoing Promotion of AWE 2027 - Beijing",
-      "source_name": "ASEAN Wind Energy Expo",
-      "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=420",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "New Chapter – International Promotion of ASEE 2027–Australia",
-      "source_name": "ASEAN Wind Energy Expo",
-      "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=426",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
-      "source_name": "ASEAN Wind Energy Expo",
-      "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=390",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
-      "source_name": "ASEAN Wind Energy Expo",
-      "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Offshore Wind Spotlight | Formosa 4, Taiwan",
-      "source_name": "ASEAN Wind Energy Expo",
-      "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=395",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "From Guangzhou to Bangkok: Bringing the Global Wind Industry to Southeast Asia",
-      "source_name": "ASEAN Wind Energy Expo",
-      "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=402",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
-      "source_name": "ASEAN Wind Energy Expo",
-      "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Vietnam–Norway Cooperation Opens New Opportunities for the Offshore Wind Industry",
-      "source_name": "ASEAN Wind Energy Expo",
-      "published_at": "2026-11-02",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=425",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"

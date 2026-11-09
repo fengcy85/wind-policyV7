@@ -1,11 +1,11 @@
 [
   {
-    "source_id": "cn_d6be9d4b18a8",
-    "source_name": "吉林省能源局｜通知公告及能源政策",
-    "title": "吉林省能源局关于2026年聚力攻坚储能技术及应用专项课题拟立项名单的公示",
-    "url": "https://nyj.jl.gov.cn/zwgk/tzgg/202606/t20260612_3642302.html",
-    "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:24:20+00:00"
+    "source_id": "cn_124239bfeb82",
+    "source_name": "国家能源局山东监管办公室（官方替代）",
+    "title": "关于印发《山东省电力并网运行管理实施细则》《山东省电力辅助服务管理实施细则》(2026年修订... 2026-10-10",
+    "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202610/t20261010_310115.html",
+    "reason": "未能证实发布日期（避免把旧法规当近30天）",
+    "checked_at": "2026-11-09T06:27:17+00:00"
   },
   {
     "source_id": "cn_124239bfeb82",
@@ -13,7 +13,7 @@
     "title": "关于开展电力市场秩序问题线索征集工作的通知 2026-08-20",
     "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202608/t20260820_307013.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:24:16+00:00"
+    "checked_at": "2026-11-09T06:27:18+00:00"
   },
   {
     "source_id": "cn_124239bfeb82",
@@ -21,7 +21,7 @@
     "title": "关于印发《山东省电力市场监管办法(试行)》《山东电力市场电力交易主体异常行为认定和处置监... 2026-06-10",
     "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202606/t20260610_302815.html",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:24:18+00:00"
+    "checked_at": "2026-11-09T06:27:20+00:00"
   },
   {
     "source_id": "cn_124239bfeb82",
@@ -29,7 +29,15 @@
     "title": "关于公开征求《山东省电力并网运行管理实施细则(征求意见稿)》《山东省电力辅助服务管理实施... 2026-06-08",
     "url": "https://sdb.nea.gov.cn/dtyw/tzgg/202606/t20260608_302712.html",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:24:20+00:00"
+    "checked_at": "2026-11-09T06:27:22+00:00"
+  },
+  {
+    "source_id": "cn_d6be9d4b18a8",
+    "source_name": "吉林省能源局｜通知公告及能源政策",
+    "title": "吉林省能源局关于2026年聚力攻坚储能技术及应用专项课题拟立项名单的公示",
+    "url": "https://nyj.jl.gov.cn/zwgk/tzgg/202606/t20260612_3642302.html",
+    "reason": "发布日期早于回溯起点",
+    "checked_at": "2026-11-09T06:27:22+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -37,7 +45,7 @@
     "title": "新疆：依托“沙戈荒”新能源基地，推动风电与农牧业融合场景建设",
     "url": "https://news.bjx.com.cn/html/20261103/1518668.shtml",
     "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:24:16+00:00"
+    "checked_at": "2026-11-09T06:27:16+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -45,7 +53,7 @@
     "title": "风电并网新规！国家能源局征求意见稿发布",
     "url": "https://news.bjx.com.cn/html/20261009/1515366.shtml",
     "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:24:16+00:00"
+    "checked_at": "2026-11-09T06:27:16+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -53,7 +61,7 @@
     "title": "河北：就风、光发电及独立储能项目共用工程建设及费用分摊征求意见",
     "url": "https://news.bjx.com.cn/html/20260921/1513716.shtml",
     "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:24:17+00:00"
+    "checked_at": "2026-11-09T06:27:17+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -61,7 +69,7 @@
     "title": "6个新能源！国家能源局公布“人工智能+”能源试点项目清单",
     "url": "https://news.bjx.com.cn/html/20261106/1519188.shtml",
     "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:24:17+00:00"
+    "checked_at": "2026-11-09T06:27:18+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -69,7 +77,7 @@
     "title": "湖南省“十五五”可再生能源发展规划发布！",
     "url": "https://news.bjx.com.cn/html/20261106/1519186.shtml",
     "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:24:18+00:00"
+    "checked_at": "2026-11-09T06:27:18+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -77,7 +85,7 @@
     "title": "附政策解读！安徽印发（2027年版）机制电价竞价细则",
     "url": "https://news.bjx.com.cn/html/20261102/1518568.shtml",
     "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:24:19+00:00"
+    "checked_at": "2026-11-09T06:27:19+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -85,7 +93,7 @@
     "title": "青海2027年新能源增量项目开展机制电价竞价工作有关事项：机制电量总规模28.59亿千瓦时",
     "url": "https://news.bjx.com.cn/html/20261030/1518290.shtml",
     "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:24:19+00:00"
+    "checked_at": "2026-11-09T06:27:20+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -93,7 +101,7 @@
     "title": "湖南2026年度新能源机制电价竞价工作有关事项：电量规模22.86亿千瓦时",
     "url": "https://news.bjx.com.cn/html/20261030/1518288.shtml",
     "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:24:20+00:00"
+    "checked_at": "2026-11-09T06:27:21+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -101,7 +109,7 @@
     "title": "浙江2026年第2次机制电价竞价：0.242-0.393元/kWh",
     "url": "https://news.bjx.com.cn/html/20261028/1518026.shtml",
     "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:24:21+00:00"
+    "checked_at": "2026-11-09T06:27:21+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -109,7 +117,7 @@
     "title": "国家发改委：支持新能源与场站内配套储能作为联合报价主体参与电力现货市场申报、出清、调用、结算、考核等（征求意见）",
     "url": "https://news.bjx.com.cn/html/20261020/1516992.shtml",
     "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:24:21+00:00"
+    "checked_at": "2026-11-09T06:27:22+00:00"
   },
   {
     "source_id": "cn_5555c1d4376e",
@@ -117,7 +125,7 @@
     "title": "涉及新能源开发！天津开展2027年市级重点项目申报",
     "url": "https://news.bjx.com.cn/html/20261013/1515993.shtml",
     "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:24:22+00:00"
+    "checked_at": "2026-11-09T06:27:23+00:00"
   },
   {
     "source_id": "cn_68fd9b24ba66",
@@ -125,7 +133,7 @@
     "title": "GB/T 47721-2026 风能发电系统 海上 风力发电机组 支撑结构一体化设计规范",
     "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=52AF72FB01D2403AE06397BE0A0AD6A8",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:29:09+00:00"
+    "checked_at": "2026-11-09T06:31:49+00:00"
   },
   {
     "source_id": "cn_68fd9b24ba66",
@@ -133,183 +141,7 @@
     "title": "GB/T 47560-2026 风能发电系统 风力发电机组 偏航系统技术规范",
     "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=511EBC5968E49318E06397BE0A0AFBD5",
     "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:29:09+00:00"
-  },
-  {
-    "source_id": "intl_0e079da25f30",
-    "source_name": "nersa.org.za",
-    "title": "NERSA Regulatory Rules on Network Charges for Third Party transportation of energy 8 April 2025",
-    "url": "https://www.nersa.org.za/electricity/file/7394/NERSA-Regulatory-Rules-on-Network-Charges-for-Third-Party-transportation-of-energy_Approved-03-March-2025-_2.pdf",
-    "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:33:18+00:00"
-  },
-  {
-    "source_id": "intl_0e079da25f30",
-    "source_name": "nersa.org.za",
-    "title": "Regulatory Rules for Power Purchase Cost Recovery 21 September 2020",
-    "url": "https://www.nersa.org.za/electricity/file/716/1060_001-1.pdf",
-    "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:33:19+00:00"
-  },
-  {
-    "source_id": "intl_0e079da25f30",
-    "source_name": "nersa.org.za",
-    "title": "Approved Grid Capacity Allocation Rules 5 December 2025",
-    "url": "https://www.nersa.org.za/electricity/file/8233/ApprovedGridCapacityAllocationRules_12November2025.pdf",
-    "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:33:19+00:00"
-  },
-  {
-    "source_id": "intl_0e079da25f30",
-    "source_name": "nersa.org.za",
-    "title": "Reasons for Decision on Grid Capacity Allocation Rules 5 December 2025",
-    "url": "https://www.nersa.org.za/electricity/file/8234/ReasonsforDecisiononGridCapacityAllocationRules.pdf",
-    "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:33:20+00:00"
-  },
-  {
-    "source_id": "intl_0e079da25f30",
-    "source_name": "nersa.org.za",
-    "title": "Rules on selection criteria for renewable energy projects under the REFIT programme 21 September 2020",
-    "url": "https://www.nersa.org.za/electricity/file/715/RULES-FOR-SELECTION-CRITERIA-19-Feb10.pdf",
-    "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:33:21+00:00"
-  },
-  {
-    "source_id": "intl_845de2334f9c",
-    "source_name": "ntcsa.co.za",
-    "title": "RPP BESF and Hybrid Power Plant Post Commercial Operation Process",
-    "url": "https://www.ntcsa.co.za/wp-content/uploads/2026/09/RPP-BESF-and-Hybrid-Power-Plant-Post-Commercial-Operation-Process_Signed.pdf",
-    "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:33:32+00:00"
-  },
-  {
-    "source_id": "intl_845de2334f9c",
-    "source_name": "ntcsa.co.za",
-    "title": "Hybrid Power Plants Guidance Note",
-    "url": "https://www.ntcsa.co.za/wp-content/uploads/2025/10/240-180000896-Guideline-Note-Grid-Code-Requirements-for-Hybrid-Power-Plants.pdf",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:33:32+00:00"
-  },
-  {
-    "source_id": "intl_851d40951467",
-    "source_name": "印度国家风能研究院",
-    "title": "Certificate of Accreditation [ PDF, 199.17 KB]",
-    "url": "https://niwe.res.in/static/pdf/NABL_certificate_of_accreditation_2024-26.pdf",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:33:55+00:00"
-  },
-  {
-    "source_id": "intl_2d4b292b6df3",
-    "source_name": "egyptera.org",
-    "title": "Electricity Law",
-    "url": "https://egyptera.org/en/SidePages/img/works/pdf/SitePDF/law2015.pdf",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:33:39+00:00"
-  },
-  {
-    "source_id": "intl_2d4b292b6df3",
-    "source_name": "egyptera.org",
-    "title": "Renewal license of generation from Renewable Energy Resources",
-    "url": "https://egyptera.org/en/RenewLicRequest.aspx",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:33:41+00:00"
-  },
-  {
-    "source_id": "intl_2d4b292b6df3",
-    "source_name": "egyptera.org",
-    "title": "Permit Application for Distribution Grid",
-    "url": "https://egyptera.org/en/DisPerRequest.aspx",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:33:43+00:00"
-  },
-  {
-    "source_id": "intl_2d4b292b6df3",
-    "source_name": "egyptera.org",
-    "title": "Decisions of the Committee for Renewable of license/permit",
-    "url": "https://egyptera.org/en/LicDis.aspx",
-    "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:33:44+00:00"
-  },
-  {
-    "source_id": "intl_2d4b292b6df3",
-    "source_name": "egyptera.org",
-    "title": "Feed-in tariff for electricity generation projects From waste into energy",
-    "url": "https://egyptera.org/en/download%5Cpdf%5CW2E2025TariffENG.pdf",
-    "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:33:45+00:00"
-  },
-  {
-    "source_id": "intl_2d4b292b6df3",
-    "source_name": "egyptera.org",
-    "title": "Tariff for purchasing energy from sludge and gases",
-    "url": "https://egyptera.org/en/download%5Cpdf%5CSludgeTariff2025ENG.pdf",
-    "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:33:45+00:00"
-  },
-  {
-    "source_id": "intl_2d4b292b6df3",
-    "source_name": "egyptera.org",
-    "title": "Fees for Transmission Grid usage",
-    "url": "https://egyptera.org/en/download%5Cpdf%5Ccalculation_methodology_for_transmission_network_usage.pdf",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:33:46+00:00"
-  },
-  {
-    "source_id": "intl_2d4b292b6df3",
-    "source_name": "egyptera.org",
-    "title": "apply for Electric power supply",
-    "url": "https://egyptera.org/en/ConsumerInfo.aspx",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:33:48+00:00"
-  },
-  {
-    "source_id": "intl_2d4b292b6df3",
-    "source_name": "egyptera.org",
-    "title": "Electric Power Connection Rules 2020",
-    "url": "https://egyptera.org/en/download%5Cpdf%5Cguide2020.pdf",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:33:50+00:00"
-  },
-  {
-    "source_id": "intl_2d4b292b6df3",
-    "source_name": "egyptera.org",
-    "title": "Electricity Utility Facilities",
-    "url": "https://egyptera.org/en/EleAgencyFacilities.aspx",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:33:51+00:00"
-  },
-  {
-    "source_id": "intl_2d4b292b6df3",
-    "source_name": "egyptera.org",
-    "title": "Power plant Owned by Consumer",
-    "url": "https://egyptera.org/en/SolarStation.aspx",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:33:54+00:00"
-  },
-  {
-    "source_id": "intl_2d4b292b6df3",
-    "source_name": "egyptera.org",
-    "title": "Electricity Consumption Plan",
-    "url": "https://egyptera.org/en/EnergyConsuptionPlan.aspx",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:33:56+00:00"
-  },
-  {
-    "source_id": "intl_2d4b292b6df3",
-    "source_name": "egyptera.org",
-    "title": "Electricity Consumption",
-    "url": "https://egyptera.org/en/download\\pdf\\ElectricityConsumption.pdf",
-    "reason": "详情访问失败",
-    "checked_at": "2026-11-08T06:33:57+00:00"
-  },
-  {
-    "source_id": "intl_2d4b292b6df3",
-    "source_name": "egyptera.org",
-    "title": "home appliances Electricity Consumption",
-    "url": "https://egyptera.org/en/EfficientUse.aspx",
-    "reason": "未能证实发布日期（避免把旧法规当近30天）",
-    "checked_at": "2026-11-08T06:33:58+00:00"
+    "checked_at": "2026-11-09T06:31:50+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -317,7 +149,7 @@
     "title": "《风电场改造升级和退役管理办法》",
     "url": "https://www.cweea.com.cn/zcfg/html/36226.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:33:19+00:00"
+    "checked_at": "2026-11-09T06:36:40+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -325,7 +157,7 @@
     "title": "《国家能源局关于进一步加强海上风电项目安全风险防控相关工作的通知》",
     "url": "https://www.cweea.com.cn/zcfg/html/34922.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:33:24+00:00"
+    "checked_at": "2026-11-09T06:36:49+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -333,7 +165,7 @@
     "title": "《国家能源局关于2021年风电、光伏发电开发建设有关事项的通知》",
     "url": "https://www.cweea.com.cn/zcfg/html/32027.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:33:25+00:00"
+    "checked_at": "2026-11-09T06:36:57+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -341,7 +173,7 @@
     "title": "国家能源局再次发布2021年风光开发建设通知（征求意见稿）",
     "url": "https://www.cweea.com.cn/zcfg/html/31947.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:33:27+00:00"
+    "checked_at": "2026-11-09T06:37:05+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -349,7 +181,7 @@
     "title": "国家能源局发布2021年风电开发建设事项征求意见稿",
     "url": "https://www.cweea.com.cn/zcfg/html/31800.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:33:33+00:00"
+    "checked_at": "2026-11-09T06:37:16+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -357,7 +189,7 @@
     "title": "国家能源局征求未来十年各省可再生能源消纳意见，风、光年新增预期130GW以上",
     "url": "https://www.cweea.com.cn/zcfg/html/31774.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:33:38+00:00"
+    "checked_at": "2026-11-09T06:37:23+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -365,7 +197,7 @@
     "title": "延长半年并网期限，湖北省风电项目上网电价政策延期",
     "url": "https://www.cweea.com.cn/zcfg/html/31740.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:33:41+00:00"
+    "checked_at": "2026-11-09T06:37:25+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -373,7 +205,7 @@
     "title": "风光发电享税收等政策优惠，国家发改委：支持西部地区新能源等战略性新兴产业",
     "url": "https://www.cweea.com.cn/zcfg/html/31706.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:33:45+00:00"
+    "checked_at": "2026-11-09T06:37:31+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -381,7 +213,7 @@
     "title": "国家发展改革委办公厅 国家能源局综合司关于公布2020年风电、光伏发电平价上网项目的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/30892.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:33:47+00:00"
+    "checked_at": "2026-11-09T06:37:39+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -389,7 +221,7 @@
     "title": "国家能源局关于发布《2020年度风电投资监测预警结果》和《2019年度光伏发电市场环境监测评价结果》的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/30073.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:33:51+00:00"
+    "checked_at": "2026-11-09T06:37:47+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
@@ -397,158 +229,102 @@
     "title": "国家能源局关于2020年风电、光伏发电项目建设有关事项的通知",
     "url": "https://www.cweea.com.cn/zcfg/html/29899.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:33:54+00:00"
+    "checked_at": "2026-11-09T06:37:54+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
     "source_name": "风能产业网｜政策法规",
-    "title": "《国家能源局关于2019年风电、光伏发电项目建设有关事项的通知》解读",
-    "url": "https://www.cweea.com.cn/zcfg/html/25586.html",
+    "title": "国家发改委就2021年风光发电上网电价征求意见",
+    "url": "https://www.cweea.com.cn/zcfg/html/31912.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:33:59+00:00"
+    "checked_at": "2026-11-09T06:38:02+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
     "source_name": "风能产业网｜政策法规",
-    "title": "发改委能源局关于积极推进风电、光伏发电无补贴平价上网有关工作的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/350.html",
+    "title": "国家能源局关于印发《可再生能源绿色电力证书管理实施细则（试行）》的通知",
+    "url": "https://www.cweea.com.cn/zcfg/html/41080.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:01+00:00"
+    "checked_at": "2026-11-09T06:38:19+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
     "source_name": "风能产业网｜政策法规",
-    "title": "国家能源局关于2018年度风电建设管理有关要求的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/345.html",
+    "title": "国家发展改革委 国家能源局关于深化新能源上网电价市场化改革促进新能源高质量发展的通知",
+    "url": "https://www.cweea.com.cn/zcfg/html/41078.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:07+00:00"
+    "checked_at": "2026-11-09T06:38:33+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
     "source_name": "风能产业网｜政策法规",
-    "title": "国家能源局关于印发《分散式风电项目开发建设暂行管理办法》的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/343.html",
+    "title": "国家发改委发布《关于2021年新能源上网电价政策有关事项的通知》",
+    "url": "https://www.cweea.com.cn/zcfg/html/32079.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:08+00:00"
+    "checked_at": "2026-11-09T06:38:41+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
     "source_name": "风能产业网｜政策法规",
-    "title": "国家能源局关于发布2018年度风电投资监测预警结果的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/339.html",
+    "title": "《关于2021年可再生能源电力消纳责任权重及有关事项的通知》出台",
+    "url": "https://www.cweea.com.cn/zcfg/html/32034.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:11+00:00"
+    "checked_at": "2026-11-09T06:38:50+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
     "source_name": "风能产业网｜政策法规",
-    "title": "国家能源局关于公布风电平价上网示范项目的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/331.html",
+    "title": "国家能源局发布《关于做好2020年度新能源发电项目并网接入有关工作的通知》",
+    "url": "https://www.cweea.com.cn/zcfg/html/31358.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:14+00:00"
+    "checked_at": "2026-11-09T06:38:53+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
     "source_name": "风能产业网｜政策法规",
-    "title": "国家能源局关于加快推进分散式接入风电项目建设有关要求的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/328.html",
+    "title": "国家发改委 能源局关于印发各省级行政区域2020年可再生能源电力消纳责任权重的通知",
+    "url": "https://www.cweea.com.cn/zcfg/html/30423.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:18+00:00"
+    "checked_at": "2026-11-09T06:38:58+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
     "source_name": "风能产业网｜政策法规",
-    "title": "国家能源局综合司发布关于开展风电平价上网示范工作的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/327.html",
+    "title": "关于促进非水可再生能源发电健康发展的若干意见",
+    "url": "https://www.cweea.com.cn/zcfg/html/29720.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:21+00:00"
+    "checked_at": "2026-11-09T06:39:04+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
     "source_name": "风能产业网｜政策法规",
-    "title": "国家能源局关于发布2017年度风电投资监测预警结果的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/320.html",
+    "title": "《关于有序推动多用户绿电直连发展有关事项的通知》发布",
+    "url": "https://www.cweea.com.cn/zcfg/html/41533.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:23+00:00"
+    "checked_at": "2026-11-09T06:39:10+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
     "source_name": "风能产业网｜政策法规",
-    "title": "国家能源局 国家海洋局关于印发《海上风电开发建设管理办法》的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/319.html",
+    "title": "关于印发《贯彻落实<关于促进储能技术与产业发展的指导意见&gt2019-2020年行动计划》的通知",
+    "url": "https://www.cweea.com.cn/zcfg/html/29122.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:24+00:00"
+    "checked_at": "2026-11-09T06:39:20+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
     "source_name": "风能产业网｜政策法规",
-    "title": "关于调整光伏发电陆上风电标杆上网电价的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/315.html",
+    "title": "国家发展改革委、国家能源局 《关于促进新时代新能源高质量发展的实施方案》",
+    "url": "https://www.cweea.com.cn/zcfg/html/33924.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:29+00:00"
+    "checked_at": "2026-11-09T06:39:32+00:00"
   },
   {
     "source_id": "cn_2e22c487ffee",
     "source_name": "风能产业网｜政策法规",
-    "title": "国家能源局关于印发《风电发展“十三五”规划》的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/313.html",
+    "title": "《“十四五”新型储能发展实施方案》印发",
+    "url": "https://www.cweea.com.cn/zcfg/html/33388.html",
     "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:33+00:00"
-  },
-  {
-    "source_id": "cn_2e22c487ffee",
-    "source_name": "风能产业网｜政策法规",
-    "title": "国家海洋局关于进一步规范海上风电用海管理的意见",
-    "url": "https://www.cweea.com.cn/zcfg/html/311.html",
-    "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:36+00:00"
-  },
-  {
-    "source_id": "cn_2e22c487ffee",
-    "source_name": "风能产业网｜政策法规",
-    "title": "关于建立监测预警机制促进风电产业持续健康发展的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/310.html",
-    "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:37+00:00"
-  },
-  {
-    "source_id": "cn_2e22c487ffee",
-    "source_name": "风能产业网｜政策法规",
-    "title": "国家能源局关于下达2016年全国风电开发建设方案的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/303.html",
-    "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:39+00:00"
-  },
-  {
-    "source_id": "cn_2e22c487ffee",
-    "source_name": "风能产业网｜政策法规",
-    "title": "国家发展改革委关于完善陆上风电光伏发电上网标杆电价政策的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/292.html",
-    "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:41+00:00"
-  },
-  {
-    "source_id": "cn_2e22c487ffee",
-    "source_name": "风能产业网｜政策法规",
-    "title": "国家能源局综合司关于开展风电清洁供暖工作的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/281.html",
-    "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:42+00:00"
-  },
-  {
-    "source_id": "cn_2e22c487ffee",
-    "source_name": "风能产业网｜政策法规",
-    "title": "国家能源局关于进一步完善风电年度开发方案管理工作的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/279.html",
-    "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:45+00:00"
-  },
-  {
-    "source_id": "cn_2e22c487ffee",
-    "source_name": "风能产业网｜政策法规",
-    "title": "国家能源局关于印发“十二五”第五批风电项目核准计划的通知",
-    "url": "https://www.cweea.com.cn/zcfg/html/276.html",
-    "reason": "发布日期早于回溯起点",
-    "checked_at": "2026-11-08T06:34:48+00:00"
+    "checked_at": "2026-11-09T06:39:37+00:00"
   }
 ]
