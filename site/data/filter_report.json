@@ -1,17 +1,54 @@
 {
-  "generated_at": "2026-11-10T08:39:22+00:00",
-  "before": 422,
-  "kept": 363,
-  "filtered_out": 59,
+  "generated_at": "2026-11-11T06:39:32+00:00",
+  "before": 432,
+  "kept": 368,
+  "filtered_out": 64,
   "tag_counts": {
-    "竞对资讯": 310,
-    "审批政策": 44,
+    "竞对资讯": 314,
+    "审批政策": 46,
     "招标采购": 87,
     "市场机制": 16,
     "电网建设": 27,
     "宏观政策": 3
   },
   "rejected_examples": [
+    {
+      "title": "29.10.2026 Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-11-11",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
+      "reasons": [
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "09.11.2026 Ember: Kazakhstan can use wind to meet its growing power demand",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-11-11",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/3996/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Offshore Wind",
+      "source_name": "Renewables Now",
+      "published_at": "2026-11-10",
+      "url": "https://renewablesnow.com/news/offshore-wind/",
+      "reasons": [
+        "标题无效/栏目标题"
+      ]
+    },
+    {
+      "title": "RE-Source 2026: Europe needs stronger corporate PPA market to deliver on electrification ambitions",
+      "source_name": "WindEurope",
+      "published_at": "2026-11-10",
+      "url": "https://windeurope.org/news/re-source-2026-europe-needs-stronger-corporate-ppa-market-to-deliver-on-electrification-ambitions/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
     {
       "title": "The newest player in offshore wind vessels just got bigger again",
       "source_name": "Recharge",
@@ -23,29 +60,30 @@
       ]
     },
     {
-      "title": "TTVN Group và Tokyo Gas (Nhật Bản) hợp tác phát triển hơn 500MW điện gió gần bờ tại Vĩnh Long",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "title": "Energy security push 'can cut emissions' as wind and solar win both ways: WoodMac",
+      "source_name": "Recharge",
       "published_at": "2026-11-10",
-      "url": "https://nangluongvietnam.vn/ttvn-group-va-tokyo-gas-nhat-ban-hop-tac-phat-trien-hon-500mw-dien-gio-gan-bo-tai-vinh-long-36898.html",
+      "url": "https://www.rechargenews.com/policy/energy-security-push-can-cut-emissions-as-wind-and-solar-win-both-ways-woodmac/2-1-2071907",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "29.10.2026 Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
-      "source_name": "QazaqGreen",
+      "title": "EU greenlights €2bn in state aid for Belgian offshore wind",
+      "source_name": "Recharge",
       "published_at": "2026-11-10",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
+      "url": "https://www.rechargenews.com/offshore-wind/eu-greenlights-2bn-in-state-aid-for-belgian-offshore-wind/2-1-2072166",
       "reasons": [
+        "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "09.11.2026 Ember: Kazakhstan can use wind to meet its growing power demand",
-      "source_name": "QazaqGreen",
+      "title": "TTVN Group và Tokyo Gas (Nhật Bản) hợp tác phát triển hơn 500MW điện gió gần bờ tại Vĩnh Long",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-11-10",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/3996/",
+      "url": "https://nangluongvietnam.vn/ttvn-group-va-tokyo-gas-nhat-ban-hop-tac-phat-trien-hon-500mw-dien-gio-gan-bo-tai-vinh-long-36898.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -64,7 +102,7 @@
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-11-10",
-      "url": "https://renewablewatch.in/2026/10/09/aerem-addressing-financing-challenges-in-distributed-solar/",
+      "url": "https://renewablewatch.in/2026/07/23/truere-oriana-power-strengthening-its-bess-portfolio/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -73,9 +111,18 @@
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-11-10",
-      "url": "https://renewablewatch.in/2026/07/23/truere-oriana-power-strengthening-its-bess-portfolio/",
+      "url": "https://renewablewatch.in/2026/10/09/aerem-addressing-financing-challenges-in-distributed-solar/",
       "reasons": [
         "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Windergy India 2026 – Powering India’s Energy Resilience: Charting the Course Toward 100 GW and Beyond",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-11-10",
+      "url": "https://renewablewatch.in/company-release/windergy-india-2026-powering-indias-energy-resilience-charting-the-course-toward-100-gw-and-beyond-12798360",
+      "reasons": [
+        "正文明确涉及风电"
       ]
     },
     {
@@ -197,36 +244,6 @@
       ]
     },
     {
-      "title": "'Crucial' project delay sparks funding crunch at major offshore wind player: shares plunge 20%",
-      "source_name": "Recharge",
-      "published_at": "2026-11-06",
-      "url": "https://www.rechargenews.com/offshore-wind/crucial-project-delay-sparks-funding-crunch-at-major-offshore-wind-player-shares-plunge-20-/2-1-2070686",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Floating wind pioneer that sold project for £1 faces liquidation threat",
-      "source_name": "Recharge",
-      "published_at": "2026-11-06",
-      "url": "https://www.rechargenews.com/offshore-wind/floating-wind-pioneer-that-sold-project-for-1-faces-liquidation-threat/2-1-2070994",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Pentagon clears 11 wind projects, but signs only a single mitigation deal",
-      "source_name": "Recharge",
-      "published_at": "2026-11-06",
-      "url": "https://www.rechargenews.com/onshore-wind/pentagon-clears-11-wind-projects-but-signs-only-a-single-mitigation-deal/2-1-2071024",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Datta Infra Signs 110 MW Wind PPA with SJVN - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-06",
@@ -256,20 +273,20 @@
       ]
     },
     {
-      "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
+      "title": "TERI Estimates India's Onshore Wind Potential at 2,933.9 GW at 200 m - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-03",
-      "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
+      "url": "https://www.energetica-india.net/news/teri-estimates-indias-onshore-wind-potential-at-29339-gw-at-200-m",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "TERI Estimates India's Onshore Wind Potential at 2,933.9 GW at 200 m - Asia Pacific | Energetica India Magazine",
+      "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-03",
-      "url": "https://www.energetica-india.net/news/teri-estimates-indias-onshore-wind-potential-at-29339-gw-at-200-m",
+      "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -326,10 +343,56 @@
       ]
     },
     {
+      "title": "WindEurope opposes reopening of Birds and Habitats Directive",
+      "source_name": "WindEurope",
+      "published_at": "2026-10-12",
+      "url": "https://windeurope.org/news/how-wind-energy-supports-biodiversity/",
+      "reasons": [
+        "正文明确涉及风电"
+      ]
+    },
+    {
       "title": "T&T Group tiếp tục đầu tư dự án Nhà máy điện gió Savan 2 (gần 500 MW) tại Lào",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-10-10",
       "url": "https://nangluongvietnam.vn/tt-group-tiep-tuc-dau-tu-du-an-nha-may-dien-gio-savan-2-gan-500-mw-tai-lao-36748.html",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-08",
+      "url": "https://www.aa.com.tr/en/energy/finance",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-08",
+      "url": "https://www.aa.com.tr/en/energy/renewable",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-08",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Türkiye sets record for solar, wind power generation in August",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-08",
+      "url": "https://www.aa.com.tr/en/energy/electricity/turkiye-sets-record-for-solar-wind-power-generation-in-august/60073",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -343,24 +406,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Rupal Gupta Founder, Managing Director and Chief Executive Officer, TrueRE Oriana Power",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-08",
-      "url": "https://renewablewatch.in/2026/10/08/rupal-gupta-founder-managing-director-and-chief-executive-officer-truere-oriana-power/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-05",
-      "url": "https://www.aa.com.tr/en/energy/renewable",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -407,15 +452,6 @@
       "url": "https://www.aa.com.tr/en/energy/energy-diplomacy/windeurope-backs-turkiyes-focus-on-electrification-at-cop31/59908",
       "reasons": [
         "正文明确涉及风电"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-30",
-      "url": "https://www.aa.com.tr/en/energy/finance",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -475,15 +511,6 @@
       ]
     },
     {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-25",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Türkiye's first offshore wind YEKA project expected to draw $3B investment",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-25",
@@ -494,10 +521,20 @@
       ]
     },
     {
-      "title": "Türkiye seeks stronger international cooperation for resilient wind energy supply chains",
-      "source_name": "Anadolu Agency Energy – Wind",
+      "title": "Wind energy is hiring. Here's how to get a job in it",
+      "source_name": "WindEurope",
+      "published_at": "2026-09-24",
+      "url": "https://windeurope.org/news/wind-energy-is-hiring-heres-how-to-get-a-job-in-it/",
+      "reasons": [
+        "标题明确风电",
+        "低价值内容"
+      ]
+    },
+    {
+      "title": "Wind sector commits to strengthening Europe’s literacy to boost skills and fight disinformation",
+      "source_name": "WindEurope",
       "published_at": "2026-09-23",
-      "url": "https://www.aa.com.tr/en/energy/wind/turkiye-seeks-stronger-international-cooperation-for-resilient-wind-energy-supply-chains/59763",
+      "url": "https://windeurope.org/news/wind-sector-commits-to-strengthening-europes-literacy-to-boost-skills-and-fight-disinformation/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -523,10 +560,10 @@
       ]
     },
     {
-      "title": "AKROCEAN triển khai thành công chiến dịch đo gió ngoài khơi thông qua hệ thống Floating LiDAR cho dự án Điện gió Nam Bộ 3",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "title": "Wind industry names new leadership to turn record year into lasting momentum",
+      "source_name": "WindEurope",
       "published_at": "2026-09-16",
-      "url": "https://nangluongvietnam.vn/akrocean-trien-khai-thanh-cong-chien-dich-do-gio-ngoai-khoi-thong-qua-he-thong-floating-lidar-cho-du-an-dien-gio-nam-bo-3-36645.html",
+      "url": "https://windeurope.org/news/wind-industry-names-new-leadership-to-turn-record-year-into-lasting-momentum/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -574,6 +611,15 @@
       "source_name": "Renewable Watch",
       "published_at": "2026-07-28",
       "url": "https://renewablewatch.in/2026/07/28/changing-demand-trends-shift-towards-rtc-and-storage-backed-solutions-in-the-ci-market/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Europe’s plan to double down on electricity will require a more robust ETS",
+      "source_name": "WindEurope",
+      "published_at": "2026-07-17",
+      "url": "https://windeurope.org/news/europes-plan-to-double-down-on-electricity-will-require-a-more-robust-ets/",
       "reasons": [
         "风电相关性不足"
       ]

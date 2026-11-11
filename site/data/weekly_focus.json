@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-10T08:39:22+00:00",
+  "generated_at": "2026-11-11T06:39:32+00:00",
   "period": {
     "days": 7,
-    "start": "2026-11-04",
-    "end": "2026-11-10"
+    "start": "2026-11-05",
+    "end": "2026-11-11"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -16,10 +16,10 @@
     "审批政策"
   ],
   "tag_counts": {
-    "竞对资讯": 7,
+    "竞对资讯": 8,
     "招标采购": 2,
     "市场机制": 1,
-    "电网建设": 1,
+    "电网建设": 0,
     "宏观政策": 0,
     "审批政策": 1
   },
@@ -73,45 +73,47 @@
     {
       "country": "全球",
       "source_name": "Recharge",
-      "title": "Brookfield sees 'outsized returns' on batteries as Aypa deal closes onshore wind 05.11.2026",
-      "translated_title": "布鲁克菲尔德看到电池的\"超大回报\",因为艾帕交易关闭了岸上风能 05.11.2026",
+      "title": "Trump said he will refuse wind permits despite bipartisan permitting bill",
+      "translated_title": "特朗普说,尽管两党允许法案,他仍会拒绝批准风行许可",
       "published_at": "2026-11-10",
-      "url": "https://www.rechargenews.com/onshore-wind/brookfield-sees-outsized-returns-on-batteries-as-aypa-deal-closes/2-1-2070249",
+      "url": "https://www.rechargenews.com/policy/trump-said-he-will-refuse-wind-permits-despite-bipartisan-permitting-bill/2-1-2071803",
       "tags": [
         "竞对资讯",
         "审批政策"
       ],
       "competitors": [
-        "Brookfield"
+        "ReNew"
       ],
-      "monitor_reason": "正文涉及审批/许可 · 竞对项目动态 · 标题明确风电",
+      "monitor_reason": "审批/许可节点 · 竞对项目动态 · 标题明确风电",
       "signals": [
         "竞对资讯",
         "审批政策",
-        "Brookfield"
+        "ReNew"
       ],
       "rank": 3,
-      "importance_reason": "竞对资讯 · 审批政策 · Brookfield"
+      "importance_reason": "竞对资讯 · 审批政策 · ReNew"
     },
     {
-      "country": "哈萨克斯坦",
-      "source_name": "QazaqGreen",
-      "title": "27.10.2026 Kazakhstan’s Turkistan region to host 150 MW wind farm, scalable to 350 MW",
-      "translated_title": "哈萨克斯坦的突厥斯坦地区有150兆瓦的风力发电场,可扩展至350兆瓦",
-      "published_at": "2026-11-04",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/3960/",
+      "country": "全球",
+      "source_name": "Recharge",
+      "title": "RWE and KKR take FID on $16bn UK offshore wind projects",
+      "translated_title": "RWE和KKR在16bn的英国岸外风力项目上接受FID",
+      "published_at": "2026-11-11",
+      "url": "https://www.rechargenews.com/offshore-wind/rwe-and-kkr-take-fid-on-16bn-uk-offshore-wind-projects/2-1-2072355",
       "tags": [
-        "电网建设"
+        "竞对资讯"
       ],
-      "competitors": [],
-      "monitor_reason": "项目涉及电网/送出 · 标题明确风电",
+      "competitors": [
+        "RWE"
+      ],
+      "monitor_reason": "竞对项目动态 · GW级项目 · 标题明确风电",
       "signals": [
-        "350 MW",
-        "电网建设",
-        "项目涉及电网/送出"
+        "2.8 GW",
+        "竞对资讯",
+        "RWE"
       ],
       "rank": 4,
-      "importance_reason": "350 MW · 电网建设 · 项目涉及电网/送出"
+      "importance_reason": "2.8 GW · 竞对资讯 · RWE"
     },
     {
       "country": "印度",
@@ -162,6 +164,28 @@
     {
       "country": "全球",
       "source_name": "Renewables Now",
+      "title": "China Three Gorges connects first batch of 545 MW wind project in Yunnan",
+      "translated_title": "中国三峡连接云南首批545兆瓦风力工程",
+      "published_at": "2026-11-10",
+      "url": "https://renewablesnow.com/news/china-three-gorges-connects-first-batch-of-545-mw-wind-project-in-yunnan-1304637/",
+      "tags": [
+        "竞对资讯"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "竞对项目动态 · 500MW+项目 · 标题明确风电",
+      "signals": [
+        "545 MW",
+        "竞对资讯",
+        "ReNew"
+      ],
+      "rank": 7,
+      "importance_reason": "545 MW · 竞对资讯 · ReNew"
+    },
+    {
+      "country": "全球",
+      "source_name": "Renewables Now",
       "title": "European Energy explores 1-GW wind cluster project in Bulgaria",
       "translated_title": "欧洲能源在保加利亚探索1-GW风波集群项目",
       "published_at": "2026-11-06",
@@ -178,30 +202,8 @@
         "竞对资讯",
         "ReNew"
       ],
-      "rank": 7,
-      "importance_reason": "1 GW · 竞对资讯 · ReNew"
-    },
-    {
-      "country": "全球",
-      "source_name": "Recharge",
-      "title": "Wind finally turned profitable for GE Vernova: now its CEO is watching two things analysis 02.11.2026",
-      "translated_title": "风终于对GE Vernova有利可图:现在它的CEO正在观看两件事的分析02.11.2026",
-      "published_at": "2026-11-04",
-      "url": "https://www.rechargenews.com/analysis/wind-finally-turned-profitable-for-ge-vernova-now-its-ceo-is-watching-two-things/2-1-2065727",
-      "tags": [
-        "竞对资讯"
-      ],
-      "competitors": [
-        "GE Vernova"
-      ],
-      "monitor_reason": "竞对项目动态 · GW级项目 · 标题明确风电",
-      "signals": [
-        "2 GW",
-        "竞对资讯",
-        "GE Vernova"
-      ],
       "rank": 8,
-      "importance_reason": "2 GW · 竞对资讯 · GE Vernova"
+      "importance_reason": "1 GW · 竞对资讯 · ReNew"
     }
   ]
 }
