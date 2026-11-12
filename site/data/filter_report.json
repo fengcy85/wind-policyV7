@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-11T06:39:32+00:00",
-  "before": 432,
-  "kept": 368,
-  "filtered_out": 64,
+  "generated_at": "2026-11-12T07:32:54+00:00",
+  "before": 436,
+  "kept": 373,
+  "filtered_out": 63,
   "tag_counts": {
-    "竞对资讯": 314,
+    "竞对资讯": 318,
+    "电网建设": 28,
     "审批政策": 46,
     "招标采购": 87,
     "市场机制": 16,
-    "电网建设": 27,
     "宏观政策": 3
   },
   "rejected_examples": [
     {
-      "title": "29.10.2026 Kazakhstan drafts five professional standards for solar, wind and green hydrogen",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-11-11",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/3969/",
+      "title": "Onshore Wind",
+      "source_name": "Renewables Now",
+      "published_at": "2026-11-12",
+      "url": "https://renewablesnow.com/news/wind/",
       "reasons": [
-        "标题明确风电"
+        "标题无效/栏目标题"
       ]
     },
     {
-      "title": "09.11.2026 Ember: Kazakhstan can use wind to meet its growing power demand",
+      "title": "Ember: Kazakhstan can use wind to meet its growing power demand",
       "source_name": "QazaqGreen",
       "published_at": "2026-11-11",
       "url": "https://qazaqgreen.com/en/news/kazakhstan/3996/",
@@ -32,12 +32,22 @@
       ]
     },
     {
-      "title": "Offshore Wind",
-      "source_name": "Renewables Now",
-      "published_at": "2026-11-10",
-      "url": "https://renewablesnow.com/news/offshore-wind/",
+      "title": "Russia’s Omsk region plans to build its first wind farm",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-11-11",
+      "url": "https://qazaqgreen.com/en/news/sng/4006/",
       "reasons": [
-        "标题无效/栏目标题"
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "post image",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-11-11",
+      "url": "https://renewablewatch.in/2025/10/28/interview-with-pratik-agarwal-the-sector-is-set-to-become-greener-smarter-and-more-resilient/",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -47,16 +57,6 @@
       "url": "https://windeurope.org/news/re-source-2026-europe-needs-stronger-corporate-ppa-market-to-deliver-on-electrification-ambitions/",
       "reasons": [
         "风电相关性不足"
-      ]
-    },
-    {
-      "title": "The newest player in offshore wind vessels just got bigger again",
-      "source_name": "Recharge",
-      "published_at": "2026-11-10",
-      "url": "https://www.rechargenews.com/offshore-wind/the-newest-player-in-offshore-wind-vessels-just-got-bigger-again/2-1-2071361",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
       ]
     },
     {
@@ -114,15 +114,6 @@
       "url": "https://renewablewatch.in/2026/10/09/aerem-addressing-financing-challenges-in-distributed-solar/",
       "reasons": [
         "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Windergy India 2026 – Powering India’s Energy Resilience: Charting the Course Toward 100 GW and Beyond",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-11-10",
-      "url": "https://renewablewatch.in/company-release/windergy-india-2026-powering-indias-energy-resilience-charting-the-course-toward-100-gw-and-beyond-12798360",
-      "reasons": [
-        "正文明确涉及风电"
       ]
     },
     {
@@ -214,16 +205,6 @@
       ]
     },
     {
-      "title": "Egypt signs $42mn gas exploration deal with Cheiron for East Alexandria offshore block",
-      "source_name": "Daily News Egypt",
-      "published_at": "2026-11-09",
-      "url": "https://dailynewsegypt.com/2026/11/09/egypt-signs-42mn-gas-exploration-deal-with-cheiron-for-east-alexandria-offshore-block/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Datta Infra Group Signs 100 MW Wind PPA with SJVN - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-09",
@@ -260,16 +241,6 @@
       "url": "https://www.anev.org/2026/11/04/manovra-2027-approccio-del-governo-ancora-una-volta-punitivo-per-le-aziende-del-settore-elettrico-fer-x-rinnovabili-a-rischio/",
       "reasons": [
         "风电相关性不足"
-      ]
-    },
-    {
-      "title": "MME abre consulta pública para aprimoramento da metodologia de cálculo de garantia física de usinas eólicas e solares fotovoltaicas",
-      "source_name": "MME",
-      "published_at": "2026-11-04",
-      "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/novembro-26/mme-abre-consulta-publica-para-aprimoramento-da-metodologia-de-calculo-de-garantia-fisica-de-usinas-eolicas-e-solares-fotovoltaicas",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
       ]
     },
     {
@@ -343,6 +314,61 @@
       ]
     },
     {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-14",
+      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-14",
+      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-14",
+      "url": "https://www.aa.com.tr/en/energy/renewable",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-14",
+      "url": "https://www.aa.com.tr/en/energy/finance",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-14",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Türkiye's wind power capacity could save $4B each year on natural gas imports",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-14",
+      "url": "https://www.aa.com.tr/en/energy/electricity/turkiyes-wind-power-capacity-could-save-4b-each-year-on-natural-gas-imports/60185",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
       "title": "WindEurope opposes reopening of Birds and Habitats Directive",
       "source_name": "WindEurope",
       "published_at": "2026-10-12",
@@ -359,33 +385,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-08",
-      "url": "https://www.aa.com.tr/en/energy/finance",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-08",
-      "url": "https://www.aa.com.tr/en/energy/renewable",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-08",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -437,6 +436,15 @@
       ]
     },
     {
+      "title": "Interview with Efectis' Dr Daniel Joyeux",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-01",
+      "url": "https://renewablewatch.in/2026/10/01/interview-with-efectis-dr-daniel-joyeux/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Beyond Boundaries: India’s cross-border grid ambitions",
       "source_name": "Renewable Watch",
       "published_at": "2026-10-01",
@@ -455,15 +463,6 @@
       ]
     },
     {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-30",
-      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
       "title": "Denmark eyes new cooperation with Türkiye in wind energy, efficiency and water management",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-30",
@@ -477,7 +476,7 @@
       "title": "Wind Offshore - CORSO DI FORMAZIONE 4/2026 - ANEV",
       "source_name": "ANEV",
       "published_at": "2026-09-29",
-      "url": "https://www.anev.org/2026/09/29/wind-offshore-3/",
+      "url": "https://www.anev.org/2026/09/29/wind-offshore-corso-di-formazione-4-2026/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -535,16 +534,6 @@
       "source_name": "WindEurope",
       "published_at": "2026-09-23",
       "url": "https://windeurope.org/news/wind-sector-commits-to-strengthening-europes-literacy-to-boost-skills-and-fight-disinformation/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "Global wind power capacity to rise by more than 180 GW this year",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-23",
-      "url": "https://www.aa.com.tr/en/energy/wind/global-wind-power-capacity-to-rise-by-more-than-180-gw-this-year/59784",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"

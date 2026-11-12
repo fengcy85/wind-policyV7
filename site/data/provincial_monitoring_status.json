@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:31:32.562391+00:00",
+  "generated_at": "2026-11-12T07:24:11.604149+00:00",
   "warning": "国内不强制证明整段时间覆盖；已发现政策和正常目录读取才是采集结果，媒体线索不是官方法规，仍需留意漏抓风险",
   "province_count": 31,
   "provinces": [
@@ -655,7 +655,7 @@
       "readable_official_catalogues": 6,
       "successful_source_feeds": 6,
       "domestic_date_coverage_required": false,
-      "official_policy_records": 12,
+      "official_policy_records": 13,
       "media_clues": 0,
       "issues": []
     },
