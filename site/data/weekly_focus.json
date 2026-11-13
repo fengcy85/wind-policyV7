@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-12T07:32:54+00:00",
+  "generated_at": "2026-11-13T07:06:05+00:00",
   "period": {
     "days": 7,
-    "start": "2026-11-06",
-    "end": "2026-11-12"
+    "start": "2026-11-07",
+    "end": "2026-11-13"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -16,7 +16,7 @@
     "审批政策"
   ],
   "tag_counts": {
-    "竞对资讯": 7,
+    "竞对资讯": 8,
     "招标采购": 2,
     "市场机制": 1,
     "电网建设": 1,
@@ -94,23 +94,71 @@
       "importance_reason": "竞对资讯 · 审批政策 · ReNew"
     },
     {
-      "country": "全球",
-      "source_name": "Recharge",
-      "title": "SSE picks preferred turbine supplier for huge UK offshore wind project",
-      "translated_title": "SSE 为英国大型岸外风力项目挑选首选风机供应商",
-      "published_at": "2026-11-11",
-      "url": "https://www.rechargenews.com/offshore-wind/sse-picks-preferred-turbine-supplier-for-huge-uk-offshore-wind-project/2-1-2072503",
+      "country": "哈萨克斯坦",
+      "source_name": "QazaqGreen",
+      "title": "12.11.2026 RWE and KKR commit £12 billion to UK offshore wind",
+      "translated_title": "12.11.2026 RWE和KKR承诺向英国近海风力提供120亿英镑.",
+      "published_at": "2026-11-12",
+      "url": "https://qazaqgreen.com/en/news/world/4012/",
       "tags": [
+        "竞对资讯",
         "电网建设"
       ],
-      "competitors": [],
-      "monitor_reason": "项目涉及电网/送出 · 标题明确风电",
+      "competitors": [
+        "RWE"
+      ],
+      "monitor_reason": "项目涉及电网/送出 · 竞对项目动态 · GW级项目 · 标题明确风电",
       "signals": [
-        "电网建设",
-        "项目涉及电网/送出"
+        "2.8 GW",
+        "竞对资讯",
+        "电网建设"
       ],
       "rank": 4,
-      "importance_reason": "电网建设 · 项目涉及电网/送出"
+      "importance_reason": "2.8 GW · 竞对资讯 · 电网建设"
+    },
+    {
+      "country": "全球",
+      "source_name": "Recharge",
+      "title": "RWE and KKR take FID on $16bn UK offshore wind projects",
+      "translated_title": "RWE和KKR在16bn的英国岸外风力项目上接受FID",
+      "published_at": "2026-11-11",
+      "url": "https://www.rechargenews.com/offshore-wind/rwe-and-kkr-take-fid-on-16bn-uk-offshore-wind-projects/2-1-2072355",
+      "tags": [
+        "竞对资讯"
+      ],
+      "competitors": [
+        "RWE"
+      ],
+      "monitor_reason": "竞对项目动态 · GW级项目 · 标题明确风电",
+      "signals": [
+        "2.8 GW",
+        "竞对资讯",
+        "RWE"
+      ],
+      "rank": 5,
+      "importance_reason": "2.8 GW · 竞对资讯 · RWE"
+    },
+    {
+      "country": "哈萨克斯坦",
+      "source_name": "QazaqGreen",
+      "title": "Agreements to build two wind farms in Kazakhstan signed at COP31",
+      "translated_title": "在第三十一届缔约方会议上签署的在哈萨克斯坦建造两个风电场的协议",
+      "published_at": "2026-11-12",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/4010/",
+      "tags": [
+        "竞对资讯"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "竞对项目动态 · GW级项目 · 标题明确风电",
+      "signals": [
+        "1 GW",
+        "竞对资讯",
+        "ReNew"
+      ],
+      "rank": 6,
+      "importance_reason": "1 GW · 竞对资讯 · ReNew"
     },
     {
       "country": "印度",
@@ -131,7 +179,7 @@
         "竞对资讯",
         "Vattenfall"
       ],
-      "rank": 5,
+      "rank": 7,
       "importance_reason": "1.8 GW · 竞对资讯 · Vattenfall"
     },
     {
@@ -155,52 +203,8 @@
         "招标采购",
         "Nordex"
       ],
-      "rank": 6,
-      "importance_reason": "竞对资讯 · 招标采购 · Nordex"
-    },
-    {
-      "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "China Three Gorges connects first batch of 545 MW wind project in Yunnan",
-      "translated_title": "中国三峡连接云南首批545兆瓦风力工程",
-      "published_at": "2026-11-10",
-      "url": "https://renewablesnow.com/news/china-three-gorges-connects-first-batch-of-545-mw-wind-project-in-yunnan-1304637/",
-      "tags": [
-        "竞对资讯"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "竞对项目动态 · 500MW+项目 · 标题明确风电",
-      "signals": [
-        "545 MW",
-        "竞对资讯",
-        "ReNew"
-      ],
-      "rank": 7,
-      "importance_reason": "545 MW · 竞对资讯 · ReNew"
-    },
-    {
-      "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "European Energy explores 1-GW wind cluster project in Bulgaria",
-      "translated_title": "欧洲能源在保加利亚探索1-GW风波集群项目",
-      "published_at": "2026-11-06",
-      "url": "https://renewablesnow.com/news/european-energy-explores-1-gw-wind-cluster-project-in-bulgaria-1304509/",
-      "tags": [
-        "竞对资讯"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "竞对项目动态 · GW级项目 · 标题明确风电",
-      "signals": [
-        "1 GW",
-        "竞对资讯",
-        "ReNew"
-      ],
       "rank": 8,
-      "importance_reason": "1 GW · 竞对资讯 · ReNew"
+      "importance_reason": "竞对资讯 · 招标采购 · Nordex"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-12T07:32:54+00:00",
-  "before": 436,
-  "kept": 373,
-  "filtered_out": 63,
+  "generated_at": "2026-11-13T07:06:05+00:00",
+  "before": 441,
+  "kept": 379,
+  "filtered_out": 62,
   "tag_counts": {
-    "竞对资讯": 318,
-    "电网建设": 28,
+    "竞对资讯": 324,
+    "电网建设": 29,
     "审批政策": 46,
     "招标采购": 87,
     "市场机制": 16,
@@ -13,29 +13,39 @@
   },
   "rejected_examples": [
     {
-      "title": "Onshore Wind",
-      "source_name": "Renewables Now",
+      "title": "Closer alignment between UK and EU on energy policy will cut bills and boost energy security",
+      "source_name": "WindEurope",
       "published_at": "2026-11-12",
-      "url": "https://renewablesnow.com/news/wind/",
+      "url": "https://windeurope.org/news/closer-alignment-between-uk-and-eu-on-energy-policy-will-cut-bills-and-boost-energy-security/",
       "reasons": [
-        "标题无效/栏目标题"
+        "风电相关性不足"
       ]
     },
     {
-      "title": "Ember: Kazakhstan can use wind to meet its growing power demand",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-11-11",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/3996/",
+      "title": "Offshore wind deals can't spark sluggish PPA market",
+      "source_name": "Recharge",
+      "published_at": "2026-11-12",
+      "url": "https://www.rechargenews.com/corporate-power/offshore-wind-deals-cant-spark-sluggish-ppa-market/2-1-2071538",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Russia’s Omsk region plans to build its first wind farm",
+      "title": "11.11.2026 Russia’s Omsk region plans to build its first wind farm",
       "source_name": "QazaqGreen",
-      "published_at": "2026-11-11",
+      "published_at": "2026-11-12",
       "url": "https://qazaqgreen.com/en/news/sng/4006/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "09.11.2026 Ember: Kazakhstan can use wind to meet its growing power demand",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-11-12",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/3996/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -57,26 +67,6 @@
       "url": "https://windeurope.org/news/re-source-2026-europe-needs-stronger-corporate-ppa-market-to-deliver-on-electrification-ambitions/",
       "reasons": [
         "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Energy security push 'can cut emissions' as wind and solar win both ways: WoodMac",
-      "source_name": "Recharge",
-      "published_at": "2026-11-10",
-      "url": "https://www.rechargenews.com/policy/energy-security-push-can-cut-emissions-as-wind-and-solar-win-both-ways-woodmac/2-1-2071907",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "EU greenlights €2bn in state aid for Belgian offshore wind",
-      "source_name": "Recharge",
-      "published_at": "2026-11-10",
-      "url": "https://www.rechargenews.com/offshore-wind/eu-greenlights-2bn-in-state-aid-for-belgian-offshore-wind/2-1-2072166",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
       ]
     },
     {
@@ -317,15 +307,6 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-14",
       "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
@@ -335,7 +316,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/renewable",
+      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
       "reasons": [
         "风电相关性不足"
       ]
@@ -345,6 +326,15 @@
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
       "url": "https://www.aa.com.tr/en/energy/finance",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-14",
+      "url": "https://www.aa.com.tr/en/energy/renewable",
       "reasons": [
         "风电相关性不足"
       ]
