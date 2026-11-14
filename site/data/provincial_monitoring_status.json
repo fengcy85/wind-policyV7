@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T06:57:52.362759+00:00",
+  "generated_at": "2026-11-14T06:33:00.377471+00:00",
   "warning": "国内不强制证明整段时间覆盖；已发现政策和正常目录读取才是采集结果，媒体线索不是官方法规，仍需留意漏抓风险",
   "province_count": 31,
   "provinces": [
@@ -1022,8 +1022,8 @@
       "official_sources_scanned": 3,
       "official_sources_with_saved_history": 3,
       "verified_official_catalogues": 0,
-      "readable_official_catalogues": 1,
-      "successful_source_feeds": 1,
+      "readable_official_catalogues": 0,
+      "successful_source_feeds": 0,
       "domestic_date_coverage_required": false,
       "official_policy_records": 1,
       "media_clues": 1,
@@ -1032,6 +1032,11 @@
           "name": "青海省发改委",
           "status": "connection_error",
           "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+        },
+        {
+          "name": "青海省人民政府",
+          "status": "blocked",
+          "reason": "官方返回 HTTP 412：请求前置条件不满足；不自动绕过；提醒：动态分页/日期排序不完整"
         },
         {
           "name": "青海省工信厅",

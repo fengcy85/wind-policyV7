@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-13T07:06:05+00:00",
+  "generated_at": "2026-11-14T06:40:50+00:00",
   "period": {
     "days": 7,
-    "start": "2026-11-07",
-    "end": "2026-11-13"
+    "start": "2026-11-08",
+    "end": "2026-11-14"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -72,33 +72,34 @@
     },
     {
       "country": "全球",
-      "source_name": "Recharge",
-      "title": "Trump said he will refuse wind permits despite bipartisan permitting bill",
-      "translated_title": "特朗普说,尽管两党允许法案,他仍会拒绝批准风行许可",
-      "published_at": "2026-11-10",
-      "url": "https://www.rechargenews.com/policy/trump-said-he-will-refuse-wind-permits-despite-bipartisan-permitting-bill/2-1-2071803",
+      "source_name": "Renewables Now",
+      "title": "Goldwind lands approval for 1.4-GW wind farm in New South Wales",
+      "translated_title": "新南威尔士州1.4-GW风力发电场的金风土地核准",
+      "published_at": "2026-11-13",
+      "url": "https://renewablesnow.com/news/goldwind-lands-approval-for-1-4-gw-wind-farm-in-new-south-wales-1304889/",
       "tags": [
         "竞对资讯",
         "审批政策"
       ],
       "competitors": [
+        "Goldwind",
         "ReNew"
       ],
-      "monitor_reason": "审批/许可节点 · 竞对项目动态 · 标题明确风电",
+      "monitor_reason": "审批/许可节点 · 竞对项目动态 · GW级项目 · 标题明确风电",
       "signals": [
+        "1.4 GW",
         "竞对资讯",
-        "审批政策",
-        "ReNew"
+        "审批政策"
       ],
       "rank": 3,
-      "importance_reason": "竞对资讯 · 审批政策 · ReNew"
+      "importance_reason": "1.4 GW · 竞对资讯 · 审批政策"
     },
     {
       "country": "哈萨克斯坦",
       "source_name": "QazaqGreen",
       "title": "12.11.2026 RWE and KKR commit £12 billion to UK offshore wind",
       "translated_title": "12.11.2026 RWE和KKR承诺向英国近海风力提供120亿英镑.",
-      "published_at": "2026-11-12",
+      "published_at": "2026-11-13",
       "url": "https://qazaqgreen.com/en/news/world/4012/",
       "tags": [
         "竞对资讯",
@@ -115,6 +116,28 @@
       ],
       "rank": 4,
       "importance_reason": "2.8 GW · 竞对资讯 · 电网建设"
+    },
+    {
+      "country": "哈萨克斯坦",
+      "source_name": "QazaqGreen",
+      "title": "12.11.2026 Agreements to build two wind farms in Kazakhstan signed at COP31",
+      "translated_title": "在第三十一届缔约方会议上签署的在哈萨克斯坦建造两个风电场的协议",
+      "published_at": "2026-11-13",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/4010/",
+      "tags": [
+        "竞对资讯"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "竞对项目动态 · GW级项目 · 标题明确风电",
+      "signals": [
+        "1 GW",
+        "竞对资讯",
+        "ReNew"
+      ],
+      "rank": 5,
+      "importance_reason": "1 GW · 竞对资讯 · ReNew"
     },
     {
       "country": "全球",
@@ -135,30 +158,8 @@
         "竞对资讯",
         "RWE"
       ],
-      "rank": 5,
-      "importance_reason": "2.8 GW · 竞对资讯 · RWE"
-    },
-    {
-      "country": "哈萨克斯坦",
-      "source_name": "QazaqGreen",
-      "title": "Agreements to build two wind farms in Kazakhstan signed at COP31",
-      "translated_title": "在第三十一届缔约方会议上签署的在哈萨克斯坦建造两个风电场的协议",
-      "published_at": "2026-11-12",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/4010/",
-      "tags": [
-        "竞对资讯"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "竞对项目动态 · GW级项目 · 标题明确风电",
-      "signals": [
-        "1 GW",
-        "竞对资讯",
-        "ReNew"
-      ],
       "rank": 6,
-      "importance_reason": "1 GW · 竞对资讯 · ReNew"
+      "importance_reason": "2.8 GW · 竞对资讯 · RWE"
     },
     {
       "country": "印度",

@@ -1,17 +1,66 @@
 {
-  "generated_at": "2026-11-13T07:06:05+00:00",
-  "before": 441,
-  "kept": 379,
-  "filtered_out": 62,
+  "generated_at": "2026-11-14T06:40:50+00:00",
+  "before": 448,
+  "kept": 384,
+  "filtered_out": 64,
   "tag_counts": {
-    "竞对资讯": 324,
+    "竞对资讯": 329,
+    "审批政策": 47,
     "电网建设": 29,
-    "审批政策": 46,
     "招标采购": 87,
     "市场机制": 16,
     "宏观政策": 3
   },
   "rejected_examples": [
+    {
+      "title": "Massachusetts, Nova Scotia seek input on offshore wind cooperation",
+      "source_name": "Renewables Now",
+      "published_at": "2026-11-13",
+      "url": "https://renewablesnow.com/news/massachusetts-nova-scotia-seek-input-on-offshore-wind-cooperation-1304935/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "China targets more than 100 GW of offshore wind capacity by 2030",
+      "source_name": "Renewables Now",
+      "published_at": "2026-11-13",
+      "url": "https://renewablesnow.com/news/china-targets-more-than-100-gw-of-offshore-wind-capacity-by-2030-1304894/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "11.11.2026 Russia’s Omsk region plans to build its first wind farm",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-11-13",
+      "url": "https://qazaqgreen.com/en/news/sng/4006/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "09.11.2026 Ember: Kazakhstan can use wind to meet its growing power demand",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-11-13",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/3996/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "post image",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-11-13",
+      "url": "https://renewablewatch.in/2025/10/28/interview-with-pratik-agarwal-the-sector-is-set-to-become-greener-smarter-and-more-resilient/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
     {
       "title": "Closer alignment between UK and EU on energy policy will cut bills and boost energy security",
       "source_name": "WindEurope",
@@ -29,35 +78,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "11.11.2026 Russia’s Omsk region plans to build its first wind farm",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-11-12",
-      "url": "https://qazaqgreen.com/en/news/sng/4006/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "09.11.2026 Ember: Kazakhstan can use wind to meet its growing power demand",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-11-12",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/3996/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "post image",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-11-11",
-      "url": "https://renewablewatch.in/2025/10/28/interview-with-pratik-agarwal-the-sector-is-set-to-become-greener-smarter-and-more-resilient/",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -165,20 +185,20 @@
       ]
     },
     {
-      "title": "Vietnam–Norway Cooperation Opens New Opportunities for the Offshore Wind Industry",
+      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-09",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=425",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
+      "title": "Vietnam–Norway Cooperation Opens New Opportunities for the Offshore Wind Industry",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-09",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=425",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -307,15 +327,6 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-14",
       "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
       "reasons": [
         "风电相关性不足"
@@ -326,6 +337,15 @@
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
       "url": "https://www.aa.com.tr/en/energy/finance",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-14",
+      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
       ]
@@ -473,19 +493,19 @@
       ]
     },
     {
-      "title": "28 Ottobre 2026 - SEMINARIO 4 - Power Purchase Agreement per le Rinnovabili per supportare gli obiettivi di crescita del PNIEC - ANEV",
+      "title": "SEMINARIO VIA - ANEV",
       "source_name": "ANEV",
       "published_at": "2026-09-28",
-      "url": "https://www.anev.org/2026/09/28/seminario-4-2026-power-purchase-agreement-per-le-rinnovabili-per-supportare-gli-obiettivi-di-crescita-del-pniec/",
+      "url": "https://www.anev.org/2026/09/28/seminario-via/",
       "reasons": [
         "风电相关性不足"
       ]
     },
     {
-      "title": "SEMINARIO VIA - ANEV",
+      "title": "28 Ottobre 2026 - SEMINARIO 4 - Power Purchase Agreement per le Rinnovabili per supportare gli obiettivi di crescita del PNIEC - ANEV",
       "source_name": "ANEV",
       "published_at": "2026-09-28",
-      "url": "https://www.anev.org/2026/09/28/seminario-via/",
+      "url": "https://www.anev.org/2026/09/28/seminario-4-2026-power-purchase-agreement-per-le-rinnovabili-per-supportare-gli-obiettivi-di-crescita-del-pniec/",
       "reasons": [
         "风电相关性不足"
       ]
