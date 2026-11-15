@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-14T06:40:50+00:00",
+  "generated_at": "2026-11-15T07:13:55+00:00",
   "before": 448,
-  "kept": 384,
-  "filtered_out": 64,
+  "kept": 385,
+  "filtered_out": 63,
   "tag_counts": {
     "竞对资讯": 329,
     "审批政策": 47,
     "电网建设": 29,
-    "招标采购": 87,
+    "招标采购": 88,
     "市场机制": 16,
     "宏观政策": 3
   },
@@ -33,20 +33,20 @@
       ]
     },
     {
-      "title": "11.11.2026 Russia’s Omsk region plans to build its first wind farm",
+      "title": "09.11.2026 Ember: Kazakhstan can use wind to meet its growing power demand",
       "source_name": "QazaqGreen",
       "published_at": "2026-11-13",
-      "url": "https://qazaqgreen.com/en/news/sng/4006/",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/3996/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "09.11.2026 Ember: Kazakhstan can use wind to meet its growing power demand",
+      "title": "Russia’s Omsk region plans to build its first wind farm",
       "source_name": "QazaqGreen",
       "published_at": "2026-11-13",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/3996/",
+      "url": "https://qazaqgreen.com/en/news/sng/4006/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -59,6 +59,15 @@
       "url": "https://renewablewatch.in/2025/10/28/interview-with-pratik-agarwal-the-sector-is-set-to-become-greener-smarter-and-more-resilient/",
       "reasons": [
         "风电相关性不足"
+      ]
+    },
+    {
+      "title": "17 July 2026 Europe’s plan to double down on electricity will require a more robust ETS",
+      "source_name": "WindEurope",
+      "published_at": "2026-11-12",
+      "url": "https://windeurope.org/news/europes-plan-to-double-down-on-electricity-will-require-a-more-robust-ets/",
+      "reasons": [
+        "正文明确涉及风电"
       ]
     },
     {
@@ -127,19 +136,19 @@
       ]
     },
     {
-      "title": "New Chapter - Ongoing Promotion of AWE 2027 - Beijing",
+      "title": "New Chapter – International Promotion of ASEE 2027–Australia",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-09",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=420",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=426",
       "reasons": [
         "风电相关性不足"
       ]
     },
     {
-      "title": "New Chapter – International Promotion of ASEE 2027–Australia",
+      "title": "New Chapter - Ongoing Promotion of AWE 2027 - Beijing",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-09",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=426",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=420",
       "reasons": [
         "风电相关性不足"
       ]
@@ -254,6 +263,24 @@
       ]
     },
     {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-11-04",
+      "url": "https://www.aa.com.tr/en/energy/finance",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-11-04",
+      "url": "https://www.aa.com.tr/en/energy/renewable",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "TERI Estimates India's Onshore Wind Potential at 2,933.9 GW at 200 m - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-03",
@@ -336,34 +363,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/finance",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-14",
       "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/renewable",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
       "reasons": [
         "风电相关性不足"
       ]
@@ -376,6 +376,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-14",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -520,16 +529,6 @@
       ]
     },
     {
-      "title": "Türkiye's first offshore wind YEKA project expected to draw $3B investment",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-25",
-      "url": "https://www.aa.com.tr/en/energy/electricity/turkiyes-first-offshore-wind-yeka-project-expected-to-draw-3b-investment/59836",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Wind energy is hiring. Here's how to get a job in it",
       "source_name": "WindEurope",
       "published_at": "2026-09-24",
@@ -610,15 +609,6 @@
       "source_name": "Renewable Watch",
       "published_at": "2026-07-28",
       "url": "https://renewablewatch.in/2026/07/28/changing-demand-trends-shift-towards-rtc-and-storage-backed-solutions-in-the-ci-market/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Europe’s plan to double down on electricity will require a more robust ETS",
-      "source_name": "WindEurope",
-      "published_at": "2026-07-17",
-      "url": "https://windeurope.org/news/europes-plan-to-double-down-on-electricity-will-require-a-more-robust-ets/",
       "reasons": [
         "风电相关性不足"
       ]

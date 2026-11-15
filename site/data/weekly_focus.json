@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-14T06:40:50+00:00",
+  "generated_at": "2026-11-15T07:13:55+00:00",
   "period": {
     "days": 7,
-    "start": "2026-11-08",
-    "end": "2026-11-14"
+    "start": "2026-11-09",
+    "end": "2026-11-15"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -97,7 +97,7 @@
     {
       "country": "哈萨克斯坦",
       "source_name": "QazaqGreen",
-      "title": "12.11.2026 RWE and KKR commit £12 billion to UK offshore wind",
+      "title": "RWE and KKR commit £12 billion to UK offshore wind",
       "translated_title": "12.11.2026 RWE和KKR承诺向英国近海风力提供120亿英镑.",
       "published_at": "2026-11-13",
       "url": "https://qazaqgreen.com/en/news/world/4012/",
@@ -120,7 +120,7 @@
     {
       "country": "哈萨克斯坦",
       "source_name": "QazaqGreen",
-      "title": "12.11.2026 Agreements to build two wind farms in Kazakhstan signed at COP31",
+      "title": "Agreements to build two wind farms in Kazakhstan signed at COP31",
       "translated_title": "在第三十一届缔约方会议上签署的在哈萨克斯坦建造两个风电场的协议",
       "published_at": "2026-11-13",
       "url": "https://qazaqgreen.com/en/news/kazakhstan/4010/",
