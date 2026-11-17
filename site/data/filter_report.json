@@ -1,24 +1,25 @@
 {
-  "generated_at": "2026-11-16T06:48:55+00:00",
-  "before": 451,
-  "kept": 391,
-  "filtered_out": 60,
+  "generated_at": "2026-11-17T08:14:12+00:00",
+  "before": 450,
+  "kept": 392,
+  "filtered_out": 58,
   "tag_counts": {
-    "竞对资讯": 336,
-    "市场机制": 17,
-    "招标采购": 89,
+    "竞对资讯": 334,
+    "招标采购": 92,
     "电网建设": 29,
-    "审批政策": 47,
+    "审批政策": 48,
+    "市场机制": 17,
     "宏观政策": 3
   },
   "rejected_examples": [
     {
-      "title": "Onshore Wind",
-      "source_name": "Renewables Now",
-      "published_at": "2026-11-16",
-      "url": "https://renewablesnow.com/news/wind/",
+      "title": "Russia’s Omsk region plans to build its first wind farm",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-11-17",
+      "url": "https://qazaqgreen.com/en/news/sng/4006/",
       "reasons": [
-        "标题无效/栏目标题"
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
@@ -31,20 +32,20 @@
       ]
     },
     {
-      "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
+      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=390",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
+      "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=390",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -61,20 +62,20 @@
       ]
     },
     {
-      "title": "From Guangzhou to Bangkok: Bringing the Global Wind Industry to Southeast Asia",
+      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=402",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
+      "title": "From Guangzhou to Bangkok: Bringing the Global Wind Industry to Southeast Asia",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=402",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -121,26 +122,6 @@
       ]
     },
     {
-      "title": "09.11.2026 Ember: Kazakhstan can use wind to meet its growing power demand",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-11-16",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/3996/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "11.11.2026 Russia’s Omsk region plans to build its first wind farm",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-11-16",
-      "url": "https://qazaqgreen.com/en/news/sng/4006/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Free subscription magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-16",
@@ -159,31 +140,12 @@
       ]
     },
     {
-      "title": "17 July 2026 Europe’s plan to double down on electricity will require a more robust ETS",
-      "source_name": "WindEurope",
-      "published_at": "2026-11-12",
-      "url": "https://windeurope.org/news/europes-plan-to-double-down-on-electricity-will-require-a-more-robust-ets/",
-      "reasons": [
-        "正文明确涉及风电"
-      ]
-    },
-    {
       "title": "Closer alignment between UK and EU on energy policy will cut bills and boost energy security",
       "source_name": "WindEurope",
       "published_at": "2026-11-12",
       "url": "https://windeurope.org/news/closer-alignment-between-uk-and-eu-on-energy-policy-will-cut-bills-and-boost-energy-security/",
       "reasons": [
         "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Offshore wind deals can't spark sluggish PPA market",
-      "source_name": "Recharge",
-      "published_at": "2026-11-12",
-      "url": "https://www.rechargenews.com/corporate-power/offshore-wind-deals-cant-spark-sluggish-ppa-market/2-1-2071538",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
       ]
     },
     {
@@ -224,10 +186,30 @@
       ]
     },
     {
+      "title": "Datta Infra Group Signs 100 MW Wind PPA with SJVN - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-09",
+      "url": "https://www.energetica-india.net/news/datta-infra-group-signs-100-mw-wind-ppa-with-sjvn",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
       "title": "Khởi công dự án Nhà máy Điện gió Vân Canh 2 (tỉnh Gia Lai)",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-11-07",
       "url": "https://nangluongvietnam.vn/khoi-cong-du-an-nha-may-dien-gio-van-canh-2-tinh-gia-lai-36884.html",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Datta Infra Signs 110 MW Wind PPA with SJVN - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-06",
+      "url": "https://www.energetica-india.net/news/datta-infra-signs-110-mw-wind-ppa-with-sjvn",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -246,7 +228,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-11-04",
-      "url": "https://www.aa.com.tr/en/energy/finance",
+      "url": "https://www.aa.com.tr/en/energy/renewable",
       "reasons": [
         "风电相关性不足"
       ]
@@ -255,7 +237,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-11-04",
-      "url": "https://www.aa.com.tr/en/energy/renewable",
+      "url": "https://www.aa.com.tr/en/energy/finance",
       "reasons": [
         "风电相关性不足"
       ]
@@ -265,6 +247,16 @@
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-03",
       "url": "https://www.energetica-india.net/news/teri-estimates-indias-onshore-wind-potential-at-29339-gw-at-200-m",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-03",
+      "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -532,16 +524,6 @@
       "source_name": "WindEurope",
       "published_at": "2026-09-16",
       "url": "https://windeurope.org/news/wind-industry-names-new-leadership-to-turn-record-year-into-lasting-momentum/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "GERC Dispute: Solarcraft Seeks Relief from GUVNL for Wind Project",
-      "source_name": "WindInsider",
-      "published_at": "2026-09-09",
-      "url": "https://windinsider.com/2026/09/09/gerc-hears-dispute-with-guvnl-over-200-mw-wind-project-delays/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"

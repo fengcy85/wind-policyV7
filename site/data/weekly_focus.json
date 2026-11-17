@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-16T06:48:55+00:00",
+  "generated_at": "2026-11-17T08:14:12+00:00",
   "period": {
     "days": 7,
-    "start": "2026-11-10",
-    "end": "2026-11-16"
+    "start": "2026-11-11",
+    "end": "2026-11-17"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -17,7 +17,7 @@
   ],
   "tag_counts": {
     "竞对资讯": 8,
-    "招标采购": 2,
+    "招标采购": 4,
     "市场机制": 1,
     "电网建设": 1,
     "宏观政策": 0,
@@ -97,9 +97,9 @@
     {
       "country": "哈萨克斯坦",
       "source_name": "QazaqGreen",
-      "title": "12.11.2026 RWE and KKR commit £12 billion to UK offshore wind",
+      "title": "RWE and KKR commit £12 billion to UK offshore wind",
       "translated_title": "12.11.2026 RWE和KKR承诺向英国近海风力提供120亿英镑.",
-      "published_at": "2026-11-16",
+      "published_at": "2026-11-17",
       "url": "https://qazaqgreen.com/en/news/world/4012/",
       "tags": [
         "竞对资讯",
@@ -143,9 +143,9 @@
     {
       "country": "哈萨克斯坦",
       "source_name": "QazaqGreen",
-      "title": "12.11.2026 Agreements to build two wind farms in Kazakhstan signed at COP31",
+      "title": "Agreements to build two wind farms in Kazakhstan signed at COP31",
       "translated_title": "在第三十一届缔约方会议上签署的在哈萨克斯坦建造两个风电场的协议",
-      "published_at": "2026-11-16",
+      "published_at": "2026-11-17",
       "url": "https://qazaqgreen.com/en/news/kazakhstan/4010/",
       "tags": [
         "竞对资讯"
@@ -165,46 +165,54 @@
     {
       "country": "全球",
       "source_name": "Recharge",
-      "title": "RWE and KKR take FID on $16bn UK offshore wind projects",
-      "translated_title": "RWE和KKR在16bn的英国岸外风力项目上接受FID",
-      "published_at": "2026-11-11",
-      "url": "https://www.rechargenews.com/offshore-wind/rwe-and-kkr-take-fid-on-16bn-uk-offshore-wind-projects/2-1-2072355",
+      "title": "Clearway Energy charts path around renewable tax credit cliff onshore wind 12.11.2026",
+      "translated_title": "环绕可再生税收抵免悬崖岸风力的能源图 2026年11月12日",
+      "published_at": "2026-11-17",
+      "url": "https://www.rechargenews.com/onshore-wind/clearway-energy-charts-path-around-renewable-tax-credit-cliff/2-1-2072319",
       "tags": [
-        "竞对资讯"
+        "竞对资讯",
+        "招标采购"
       ],
       "competitors": [
-        "RWE"
+        "Vestas",
+        "Orsted",
+        "RWE",
+        "ReNew"
       ],
-      "monitor_reason": "竞对项目动态 · GW级项目 · 标题明确风电",
+      "monitor_reason": "正文含招标/采购 · 竞对项目动态 · 标题明确风电",
       "signals": [
-        "2.8 GW",
         "竞对资讯",
-        "RWE"
+        "招标采购",
+        "Vestas"
       ],
       "rank": 7,
-      "importance_reason": "2.8 GW · 竞对资讯 · RWE"
+      "importance_reason": "竞对资讯 · 招标采购 · Vestas"
     },
     {
       "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "KfW IPEX-Bank finances 910-MW wind farm trio in Turkey",
-      "translated_title": "KfW IPEX-Bank在土耳其资助910-MW风电场三重工",
-      "published_at": "2026-11-16",
-      "url": "https://renewablesnow.com/news/kfw-ipex-bank-finances-910-mw-wind-farm-trio-in-turkey-1304965/",
+      "source_name": "Recharge",
+      "title": "How extreme weather losses are forcing renewables insurers to rethink approach onshore wind 13.11.2026",
+      "translated_title": "极端天气损失如何迫使可再生能源保险商重新思考如何接近岸上风力 13.11.2026",
+      "published_at": "2026-11-17",
+      "url": "https://www.rechargenews.com/onshore-wind/how-extreme-weather-losses-are-forcing-renewables-insurers-to-rethink-approach/2-1-2073588",
       "tags": [
-        "竞对资讯"
+        "竞对资讯",
+        "招标采购"
       ],
       "competitors": [
+        "Vestas",
+        "Orsted",
+        "RWE",
         "ReNew"
       ],
-      "monitor_reason": "竞对项目动态 · 500MW+项目 · 标题明确风电",
+      "monitor_reason": "正文含招标/采购 · 竞对项目动态 · 标题明确风电",
       "signals": [
-        "910 MW",
         "竞对资讯",
-        "ReNew"
+        "招标采购",
+        "Vestas"
       ],
       "rank": 8,
-      "importance_reason": "910 MW · 竞对资讯 · ReNew"
+      "importance_reason": "竞对资讯 · 招标采购 · Vestas"
     }
   ]
 }

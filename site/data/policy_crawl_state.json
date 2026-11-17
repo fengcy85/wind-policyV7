@@ -1,7 +1,7 @@
 {
   "version": "V7-province-first",
   "scope": "provincial",
-  "last_run": "2026-11-16T06:41:14+00:00",
+  "last_run": "2026-11-17T08:05:56+00:00",
   "configured_source_count": 139,
   "attempted_source_count": 118,
   "initial_phase_count": 20,
@@ -19,17 +19,17 @@
   "listing_verified_count": 1,
   "status_counts": {
     "blocked": 16,
-    "connection_error": 35,
+    "connection_error": 33,
     "http_error": 1,
     "needs_adapter": 15,
     "ok_no_recent": 42,
     "ok_with_results": 15,
     "partial_coverage": 10,
-    "timeout": 5
+    "timeout": 7
   },
   "change_counts": {
-    "inserted": 1,
+    "inserted": 0,
     "updated": 0,
-    "unchanged": 25
+    "unchanged": 26
   }
 }
