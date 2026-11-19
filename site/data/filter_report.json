@@ -1,24 +1,25 @@
 {
-  "generated_at": "2026-11-18T07:47:21+00:00",
-  "before": 460,
-  "kept": 397,
-  "filtered_out": 63,
+  "generated_at": "2026-11-19T07:43:36+00:00",
+  "before": 463,
+  "kept": 401,
+  "filtered_out": 62,
   "tag_counts": {
-    "竞对资讯": 339,
-    "招标采购": 93,
+    "竞对资讯": 342,
     "电网建设": 29,
-    "审批政策": 48,
+    "招标采购": 95,
+    "审批政策": 49,
     "市场机制": 17,
     "宏观政策": 3
   },
   "rejected_examples": [
     {
-      "title": "Onshore Wind",
-      "source_name": "Renewables Now",
-      "published_at": "2026-11-18",
-      "url": "https://renewablesnow.com/news/wind/",
+      "title": "11.11.2026 Russia’s Omsk region plans to build its first wind farm",
+      "source_name": "QazaqGreen",
+      "published_at": "2026-11-19",
+      "url": "https://qazaqgreen.com/en/news/sng/4006/",
       "reasons": [
-        "标题无效/栏目标题"
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
@@ -32,10 +33,20 @@
       ]
     },
     {
-      "title": "11.11.2026 Russia’s Omsk region plans to build its first wind farm",
-      "source_name": "QazaqGreen",
+      "title": "Nhà máy Điện gió Công Hải 1 (giai đoạn 2) chính thức hòa lưới điện quốc gia",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-11-18",
-      "url": "https://qazaqgreen.com/en/news/sng/4006/",
+      "url": "https://nangluongvietnam.vn/nha-may-dien-gio-cong-hai-1-giai-doan-2-chinh-thuc-hoa-luoi-dien-quoc-gia-36939.html",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Khởi công dự án Điện gió Tây Hồ - Chư Prông và Điện mặt trời nổi Bàu Cạn (tại Gia Lai)",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-11-18",
+      "url": "https://nangluongvietnam.vn/khoi-cong-du-an-dien-gio-tay-ho-chu-prong-va-dien-mat-troi-noi-bau-can-tai-gia-lai-36938.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -294,7 +305,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-11-04",
-      "url": "https://www.aa.com.tr/en/energy/finance",
+      "url": "https://www.aa.com.tr/en/energy/renewable",
       "reasons": [
         "风电相关性不足"
       ]
@@ -303,19 +314,9 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-11-04",
-      "url": "https://www.aa.com.tr/en/energy/renewable",
+      "url": "https://www.aa.com.tr/en/energy/finance",
       "reasons": [
         "风电相关性不足"
-      ]
-    },
-    {
-      "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-11-03",
-      "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
       ]
     },
     {
@@ -323,6 +324,16 @@
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-03",
       "url": "https://www.energetica-india.net/news/teri-estimates-indias-onshore-wind-potential-at-29339-gw-at-200-m",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-03",
+      "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -359,16 +370,6 @@
       ]
     },
     {
-      "title": "Chấp thuận chủ trương đầu tư, nhà đầu tư dự án Nhà máy Điện gió Đình Lập 5 (tỉnh Lạng Sơn)",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-19",
-      "url": "https://nangluongvietnam.vn/chap-thuan-chu-truong-dau-tu-nha-dau-tu-du-an-nha-may-dien-gio-dinh-lap-5-tinh-lang-son-36783.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Juniper Green Energy Commissions Additional 65.4 MW Wind Capacity - Asia Pacific | Energetica India Magazine",
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-10-19",
@@ -391,7 +392,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
       ]
@@ -400,7 +401,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
       "reasons": [
         "风电相关性不足"
       ]
@@ -422,16 +423,6 @@
       "url": "https://windeurope.org/news/how-wind-energy-supports-biodiversity/",
       "reasons": [
         "正文明确涉及风电"
-      ]
-    },
-    {
-      "title": "T&T Group tiếp tục đầu tư dự án Nhà máy điện gió Savan 2 (gần 500 MW) tại Lào",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-10-10",
-      "url": "https://nangluongvietnam.vn/tt-group-tiep-tuc-dau-tu-du-an-nha-may-dien-gio-savan-2-gan-500-mw-tai-lao-36748.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
       ]
     },
     {
@@ -501,6 +492,15 @@
       ]
     },
     {
+      "title": "WindEurope backs Türkiye's focus on electrification at COP31",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-30",
+      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy/windeurope-backs-turkiyes-focus-on-electrification-at-cop31/59908",
+      "reasons": [
+        "正文明确涉及风电"
+      ]
+    },
+    {
       "title": "Denmark eyes new cooperation with Türkiye in wind energy, efficiency and water management",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-09-30",
@@ -508,15 +508,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "WindEurope backs Türkiye's focus on electrification at COP31",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-30",
-      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy/windeurope-backs-turkiyes-focus-on-electrification-at-cop31/59908",
-      "reasons": [
-        "正文明确涉及风电"
       ]
     },
     {
@@ -530,19 +521,19 @@
       ]
     },
     {
-      "title": "28 Ottobre 2026 - SEMINARIO 4 - Power Purchase Agreement per le Rinnovabili per supportare gli obiettivi di crescita del PNIEC - ANEV",
+      "title": "SEMINARIO VIA - ANEV",
       "source_name": "ANEV",
       "published_at": "2026-09-28",
-      "url": "https://www.anev.org/2026/09/28/seminario-4-2026-power-purchase-agreement-per-le-rinnovabili-per-supportare-gli-obiettivi-di-crescita-del-pniec/",
+      "url": "https://www.anev.org/2026/09/28/seminario-via/",
       "reasons": [
         "风电相关性不足"
       ]
     },
     {
-      "title": "SEMINARIO VIA - ANEV",
+      "title": "28 Ottobre 2026 - SEMINARIO 4 - Power Purchase Agreement per le Rinnovabili per supportare gli obiettivi di crescita del PNIEC - ANEV",
       "source_name": "ANEV",
       "published_at": "2026-09-28",
-      "url": "https://www.anev.org/2026/09/28/seminario-via/",
+      "url": "https://www.anev.org/2026/09/28/seminario-4-2026-power-purchase-agreement-per-le-rinnovabili-per-supportare-gli-obiettivi-di-crescita-del-pniec/",
       "reasons": [
         "风电相关性不足"
       ]
