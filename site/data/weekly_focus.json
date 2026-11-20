@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T07:43:36+00:00",
+  "generated_at": "2026-11-20T07:33:49+00:00",
   "period": {
     "days": 7,
-    "start": "2026-11-13",
-    "end": "2026-11-19"
+    "start": "2026-11-14",
+    "end": "2026-11-20"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -16,8 +16,8 @@
     "审批政策"
   ],
   "tag_counts": {
-    "竞对资讯": 8,
-    "招标采购": 4,
+    "竞对资讯": 7,
+    "招标采购": 3,
     "市场机制": 1,
     "电网建设": 1,
     "宏观政策": 0,
@@ -72,34 +72,29 @@
     },
     {
       "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "Goldwind lands approval for 1.4-GW wind farm in New South Wales",
-      "translated_title": "新南威尔士州1.4-GW风力发电场的金风土地核准",
-      "published_at": "2026-11-13",
-      "url": "https://renewablesnow.com/news/goldwind-lands-approval-for-1-4-gw-wind-farm-in-new-south-wales-1304889/",
+      "source_name": "Recharge",
+      "title": "Germany to grant return option for offshore awards and relief for developers who continue",
+      "translated_title": "德国将给予继续获得海外奖项和减免的开发商以回报选择",
+      "published_at": "2026-11-18",
+      "url": "https://www.rechargenews.com/policy/germany-to-grant-return-option-for-offshore-awards-and-relief-for-developers-who-continue/2-1-2075774",
       "tags": [
-        "竞对资讯",
         "审批政策"
       ],
-      "competitors": [
-        "Goldwind",
-        "ReNew"
-      ],
-      "monitor_reason": "审批/许可节点 · 竞对项目动态 · GW级项目 · 标题明确风电",
+      "competitors": [],
+      "monitor_reason": "正文涉及审批/许可 · 标题明确风电",
       "signals": [
-        "1.4 GW",
-        "竞对资讯",
-        "审批政策"
+        "审批政策",
+        "正文涉及审批/许可"
       ],
       "rank": 3,
-      "importance_reason": "1.4 GW · 竞对资讯 · 审批政策"
+      "importance_reason": "审批政策 · 正文涉及审批/许可"
     },
     {
       "country": "哈萨克斯坦",
       "source_name": "QazaqGreen",
       "title": "12.11.2026 RWE and KKR commit £12 billion to UK offshore wind",
       "translated_title": "12.11.2026 RWE和KKR承诺向英国近海风力提供120亿英镑.",
-      "published_at": "2026-11-19",
+      "published_at": "2026-11-20",
       "url": "https://qazaqgreen.com/en/news/world/4012/",
       "tags": [
         "竞对资讯",
@@ -122,7 +117,7 @@
       "source_name": "QazaqGreen",
       "title": "12.11.2026 Agreements to build two wind farms in Kazakhstan signed at COP31",
       "translated_title": "在第三十一届缔约方会议上签署的在哈萨克斯坦建造两个风电场的协议",
-      "published_at": "2026-11-19",
+      "published_at": "2026-11-20",
       "url": "https://qazaqgreen.com/en/news/kazakhstan/4010/",
       "tags": [
         "竞对资讯"
@@ -142,10 +137,10 @@
     {
       "country": "全球",
       "source_name": "Recharge",
-      "title": "Why this year's UK offshore wind auction budget could be much smaller than the last",
-      "translated_title": "为什么今年的英国岸外风能拍卖预算 比上次要小得多",
-      "published_at": "2026-11-18",
-      "url": "https://www.rechargenews.com/analysis/why-this-years-uk-offshore-wind-auction-budget-could-be-much-smaller-than-the-last/2-1-2075178",
+      "title": "RenewableUK supports government decision to hold off setting wind and solar auction budget",
+      "translated_title": "BreatUK支持政府决定暂停设定风能和太阳能拍卖预算。",
+      "published_at": "2026-11-19",
+      "url": "https://www.rechargenews.com/auctions/renewableuk-supports-government-decision-to-hold-off-setting-wind-and-solar-auction-budget/2-1-2076764",
       "tags": [
         "竞对资讯",
         "招标采购"
@@ -161,31 +156,6 @@
       ],
       "rank": 6,
       "importance_reason": "竞对资讯 · 招标采购 · ReNew"
-    },
-    {
-      "country": "全球",
-      "source_name": "Recharge",
-      "title": "Siemens Gamesa bags major new offshore wind turbine order",
-      "translated_title": "Siemens Gamesa 邮袋 大型新的岸外风电机组订单",
-      "published_at": "2026-11-18",
-      "url": "https://www.rechargenews.com/offshore-wind/siemens-gamesa-bags-major-new-offshore-wind-turbine-order/2-1-2075785",
-      "tags": [
-        "竞对资讯",
-        "招标采购"
-      ],
-      "competitors": [
-        "Siemens Gamesa",
-        "Copenhagen Infrastructure Partners",
-        "Vattenfall"
-      ],
-      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
-      "signals": [
-        "竞对资讯",
-        "招标采购",
-        "Siemens Gamesa"
-      ],
-      "rank": 7,
-      "importance_reason": "竞对资讯 · 招标采购 · Siemens Gamesa"
     },
     {
       "country": "东南亚",
@@ -207,8 +177,30 @@
         "竞对资讯",
         "招标采购"
       ],
-      "rank": 8,
+      "rank": 7,
       "importance_reason": "137 MW · 竞对资讯 · 招标采购"
+    },
+    {
+      "country": "埃及",
+      "source_name": "Daily News Egypt",
+      "title": "AMEA Power signs $650m Amunet 2 wind contracts and deal for Egypt’s first wind turbine factory",
+      "translated_title": "AMEA Power 标牌为 650m Amunet 2 个风力合同,",
+      "published_at": "2026-11-18",
+      "url": "https://dailynewsegypt.com/2026/11/18/amea-power-signs-650m-amunet-2-wind-contracts-and-deal-for-egypts-first-wind-turbine-factory/",
+      "tags": [
+        "竞对资讯"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "竞对项目动态 · 500MW+项目 · 标题明确风电",
+      "signals": [
+        "500 MW",
+        "竞对资讯",
+        "ReNew"
+      ],
+      "rank": 8,
+      "importance_reason": "500 MW · 竞对资讯 · ReNew"
     }
   ]
 }

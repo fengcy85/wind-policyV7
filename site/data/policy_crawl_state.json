@@ -1,7 +1,7 @@
 {
   "version": "V7-province-first",
   "scope": "provincial",
-  "last_run": "2026-11-19T07:35:06+00:00",
+  "last_run": "2026-11-20T07:25:40+00:00",
   "configured_source_count": 139,
   "attempted_source_count": 118,
   "initial_phase_count": 20,
@@ -28,8 +28,8 @@
     "timeout": 5
   },
   "change_counts": {
-    "inserted": 4,
+    "inserted": 2,
     "updated": 0,
-    "unchanged": 27
+    "unchanged": 30
   }
 }
