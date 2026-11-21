@@ -1,38 +1,19 @@
 {
-  "generated_at": "2026-11-20T07:33:49+00:00",
-  "before": 469,
-  "kept": 407,
-  "filtered_out": 62,
+  "generated_at": "2026-11-21T07:25:18+00:00",
+  "before": 473,
+  "kept": 413,
+  "filtered_out": 60,
   "tag_counts": {
-    "竞对资讯": 348,
+    "竞对资讯": 353,
+    "招标采购": 98,
+    "宏观政策": 4,
     "电网建设": 29,
-    "招标采购": 96,
     "审批政策": 49,
-    "市场机制": 17,
-    "宏观政策": 3
+    "市场机制": 17
   },
   "rejected_examples": [
     {
-      "title": "Onshore Wind",
-      "source_name": "Renewables Now",
-      "published_at": "2026-11-20",
-      "url": "https://renewablesnow.com/news/wind/",
-      "reasons": [
-        "标题无效/栏目标题"
-      ]
-    },
-    {
-      "title": "11.11.2026 Russia’s Omsk region plans to build its first wind farm",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-11-20",
-      "url": "https://qazaqgreen.com/en/news/sng/4006/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "20.11.2026 Dubai to test wind turbines to power traffic lights and street lamps",
+      "title": "Dubai to test wind turbines to power traffic lights and street lamps",
       "source_name": "QazaqGreen",
       "published_at": "2026-11-20",
       "url": "https://qazaqgreen.com/en/news/world/4025/",
@@ -75,7 +56,7 @@
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-11-17",
-      "url": "https://renewablewatch.in/2026/09/10/vsl-powerhive-launches-liquid-cooled-bess-for-ci-applications/",
+      "url": "https://renewablewatch.in/2026/08/20/trinasolar-introduces-typhoon-resistant-solar-pv-module-series/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -84,7 +65,7 @@
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-11-17",
-      "url": "https://renewablewatch.in/2026/08/20/trinasolar-introduces-typhoon-resistant-solar-pv-module-series/",
+      "url": "https://renewablewatch.in/2026/09/10/vsl-powerhive-launches-liquid-cooled-bess-for-ci-applications/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -117,6 +98,15 @@
       ]
     },
     {
+      "title": "New Chapter – International Promotion of ASEE 2027–Australia",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-16",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=426",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
@@ -124,15 +114,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "New Chapter – International Promotion of ASEE 2027–Australia",
-      "source_name": "ASEAN Wind Energy Expo",
-      "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=426",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -166,16 +147,6 @@
       ]
     },
     {
-      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
-      "source_name": "ASEAN Wind Energy Expo",
-      "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Vietnam–Norway Cooperation Opens New Opportunities for the Offshore Wind Industry",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
@@ -186,10 +157,10 @@
       ]
     },
     {
-      "title": "Vietnam's Wind Energy Sector Gains Momentum: Kinh Bac Breaks Ground on a US$301 Million Wind Project!",
+      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=429",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -200,6 +171,16 @@
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
       "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=428",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Vietnam's Wind Energy Sector Gains Momentum: Kinh Bac Breaks Ground on a US$301 Million Wind Project!",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-16",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=429",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -304,7 +285,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-11-04",
-      "url": "https://www.aa.com.tr/en/energy/renewable",
+      "url": "https://www.aa.com.tr/en/energy/finance",
       "reasons": [
         "风电相关性不足"
       ]
@@ -313,19 +294,9 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-11-04",
-      "url": "https://www.aa.com.tr/en/energy/finance",
+      "url": "https://www.aa.com.tr/en/energy/renewable",
       "reasons": [
         "风电相关性不足"
-      ]
-    },
-    {
-      "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-11-03",
-      "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
       ]
     },
     {
@@ -333,6 +304,16 @@
       "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-03",
       "url": "https://www.energetica-india.net/news/teri-estimates-indias-onshore-wind-potential-at-29339-gw-at-200-m",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "KPI Green Energy Signs 300 MW Wind Power PPA with SJVN - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-03",
+      "url": "https://www.energetica-india.net/news/kpi-green-energy-signs-300-mw-wind-power-ppa-with-sjvn",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -382,7 +363,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
+      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
       ]
@@ -391,7 +372,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
+      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
       "reasons": [
         "风电相关性不足"
       ]
