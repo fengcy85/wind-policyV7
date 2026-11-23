@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-22T07:30:22+00:00",
+  "generated_at": "2026-11-23T07:56:31+00:00",
   "period": {
     "days": 7,
-    "start": "2026-11-16",
-    "end": "2026-11-22"
+    "start": "2026-11-17",
+    "end": "2026-11-23"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -18,7 +18,7 @@
   "tag_counts": {
     "竞对资讯": 6,
     "招标采购": 3,
-    "市场机制": 1,
+    "市场机制": 0,
     "电网建设": 1,
     "宏观政策": 1,
     "审批政策": 1
@@ -27,25 +27,111 @@
     {
       "country": "全球",
       "source_name": "Recharge",
-      "title": "How battery revenues could help wind firms hedge falling power prices",
-      "translated_title": "电池收入如何能够帮助风力企业对电价下跌进行保值",
-      "published_at": "2026-11-16",
-      "url": "https://www.rechargenews.com/finance/how-battery-revenues-could-help-wind-firms-hedge-falling-power-prices/2-1-2070573",
+      "title": "RWE UK chief delivers verdict on wind and solar auction revamp",
+      "translated_title": "RWE 英国首席发布关于风能和太阳能拍卖的判决",
+      "published_at": "2026-11-20",
+      "url": "https://www.rechargenews.com/auctions/rwe-uk-chief-delivers-verdict-on-wind-and-solar-auction-revamp/2-1-2077038",
       "tags": [
         "竞对资讯",
-        "市场机制"
+        "招标采购"
       ],
       "competitors": [
-        "Statkraft"
+        "RWE"
       ],
-      "monitor_reason": "电价/市场机制 · 竞对项目动态 · 标题明确风电",
+      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
       "signals": [
         "竞对资讯",
-        "市场机制",
-        "Statkraft"
+        "招标采购",
+        "RWE"
       ],
       "rank": 1,
-      "importance_reason": "竞对资讯 · 市场机制 · Statkraft"
+      "importance_reason": "竞对资讯 · 招标采购 · RWE"
+    },
+    {
+      "country": "全球",
+      "source_name": "Renewables Now",
+      "title": "Baltic Sea countries to pursue single offshore wind strategy",
+      "translated_title": "波罗的海国家实施单一的岸外风能战略",
+      "published_at": "2026-11-20",
+      "url": "https://renewablesnow.com/news/baltic-sea-countries-to-pursue-single-offshore-wind-strategy-1305356/",
+      "tags": [
+        "宏观政策"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "宏观/产业政策 · 标题明确风电",
+      "signals": [
+        "宏观政策",
+        "ReNew",
+        "宏观/产业政策"
+      ],
+      "rank": 2,
+      "importance_reason": "宏观政策 · ReNew · 宏观/产业政策"
+    },
+    {
+      "country": "全球",
+      "source_name": "Recharge",
+      "title": "Germany to grant return option for offshore awards and relief for developers who continue",
+      "translated_title": "德国将给予继续获得海外奖项和减免的开发商以回报选择",
+      "published_at": "2026-11-18",
+      "url": "https://www.rechargenews.com/policy/germany-to-grant-return-option-for-offshore-awards-and-relief-for-developers-who-continue/2-1-2075774",
+      "tags": [
+        "审批政策"
+      ],
+      "competitors": [],
+      "monitor_reason": "正文涉及审批/许可 · 标题明确风电",
+      "signals": [
+        "审批政策",
+        "正文涉及审批/许可"
+      ],
+      "rank": 3,
+      "importance_reason": "审批政策 · 正文涉及审批/许可"
+    },
+    {
+      "country": "哈萨克斯坦",
+      "source_name": "QazaqGreen",
+      "title": "RWE and KKR commit £12 billion to UK offshore wind",
+      "translated_title": "12.11.2026 RWE和KKR承诺向英国近海风力提供120亿英镑.",
+      "published_at": "2026-11-23",
+      "url": "https://qazaqgreen.com/en/news/world/4012/",
+      "tags": [
+        "竞对资讯",
+        "电网建设"
+      ],
+      "competitors": [
+        "RWE"
+      ],
+      "monitor_reason": "项目涉及电网/送出 · 竞对项目动态 · GW级项目 · 标题明确风电",
+      "signals": [
+        "2.8 GW",
+        "竞对资讯",
+        "电网建设"
+      ],
+      "rank": 4,
+      "importance_reason": "2.8 GW · 竞对资讯 · 电网建设"
+    },
+    {
+      "country": "哈萨克斯坦",
+      "source_name": "QazaqGreen",
+      "title": "Agreements to build two wind farms in Kazakhstan signed at COP31",
+      "translated_title": "在第三十一届缔约方会议上签署的在哈萨克斯坦建造两个风电场的协议",
+      "published_at": "2026-11-23",
+      "url": "https://qazaqgreen.com/en/news/kazakhstan/4010/",
+      "tags": [
+        "竞对资讯"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "竞对项目动态 · GW级项目 · 标题明确风电",
+      "signals": [
+        "1 GW",
+        "竞对资讯",
+        "ReNew"
+      ],
+      "rank": 5,
+      "importance_reason": "1 GW · 竞对资讯 · ReNew"
     },
     {
       "country": "全球",
@@ -68,140 +154,53 @@
         "招标采购",
         "Vestas"
       ],
-      "rank": 2,
+      "rank": 6,
       "importance_reason": "竞对资讯 · 招标采购 · Vestas"
     },
     {
       "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "Baltic Sea countries to pursue single offshore wind strategy",
-      "translated_title": "波罗的海国家实施单一的岸外风能战略",
-      "published_at": "2026-11-20",
-      "url": "https://renewablesnow.com/news/baltic-sea-countries-to-pursue-single-offshore-wind-strategy-1305356/",
+      "source_name": "Recharge",
+      "title": "RenewableUK supports government decision to hold off setting wind and solar auction budget",
+      "translated_title": "BreatUK支持政府决定暂停设定风能和太阳能拍卖预算。",
+      "published_at": "2026-11-19",
+      "url": "https://www.rechargenews.com/auctions/renewableuk-supports-government-decision-to-hold-off-setting-wind-and-solar-auction-budget/2-1-2076764",
       "tags": [
-        "宏观政策"
+        "竞对资讯",
+        "招标采购"
       ],
       "competitors": [
         "ReNew"
       ],
-      "monitor_reason": "宏观/产业政策 · 标题明确风电",
+      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
       "signals": [
-        "宏观政策",
-        "ReNew",
-        "宏观/产业政策"
+        "竞对资讯",
+        "招标采购",
+        "ReNew"
       ],
-      "rank": 3,
-      "importance_reason": "宏观政策 · ReNew · 宏观/产业政策"
+      "rank": 7,
+      "importance_reason": "竞对资讯 · 招标采购 · ReNew"
     },
     {
       "country": "全球",
-      "source_name": "Recharge",
-      "title": "Germany to grant return option for offshore awards and relief for developers who continue",
-      "translated_title": "德国将给予继续获得海外奖项和减免的开发商以回报选择",
-      "published_at": "2026-11-18",
-      "url": "https://www.rechargenews.com/policy/germany-to-grant-return-option-for-offshore-awards-and-relief-for-developers-who-continue/2-1-2075774",
-      "tags": [
-        "审批政策"
-      ],
-      "competitors": [],
-      "monitor_reason": "正文涉及审批/许可 · 标题明确风电",
-      "signals": [
-        "审批政策",
-        "正文涉及审批/许可"
-      ],
-      "rank": 4,
-      "importance_reason": "审批政策 · 正文涉及审批/许可"
-    },
-    {
-      "country": "哈萨克斯坦",
-      "source_name": "QazaqGreen",
-      "title": "RWE and KKR commit £12 billion to UK offshore wind",
-      "translated_title": "12.11.2026 RWE和KKR承诺向英国近海风力提供120亿英镑.",
-      "published_at": "2026-11-20",
-      "url": "https://qazaqgreen.com/en/news/world/4012/",
-      "tags": [
-        "竞对资讯",
-        "电网建设"
-      ],
-      "competitors": [
-        "RWE"
-      ],
-      "monitor_reason": "项目涉及电网/送出 · 竞对项目动态 · GW级项目 · 标题明确风电",
-      "signals": [
-        "2.8 GW",
-        "竞对资讯",
-        "电网建设"
-      ],
-      "rank": 5,
-      "importance_reason": "2.8 GW · 竞对资讯 · 电网建设"
-    },
-    {
-      "country": "哈萨克斯坦",
-      "source_name": "QazaqGreen",
-      "title": "Agreements to build two wind farms in Kazakhstan signed at COP31",
-      "translated_title": "在第三十一届缔约方会议上签署的在哈萨克斯坦建造两个风电场的协议",
-      "published_at": "2026-11-20",
-      "url": "https://qazaqgreen.com/en/news/kazakhstan/4010/",
+      "source_name": "Renewables Now",
+      "title": "S Korean offshore wind farm of 365 MW reaches full power",
+      "translated_title": "S. 韩国365兆瓦近海风能场达到全能",
+      "published_at": "2026-11-23",
+      "url": "https://renewablesnow.com/news/s-korean-offshore-wind-farm-of-365-mw-reaches-full-power-1305401/",
       "tags": [
         "竞对资讯"
       ],
       "competitors": [
         "ReNew"
       ],
-      "monitor_reason": "竞对项目动态 · GW级项目 · 标题明确风电",
+      "monitor_reason": "竞对项目动态 · 标题明确风电",
       "signals": [
-        "1 GW",
+        "365 MW",
         "竞对资讯",
         "ReNew"
-      ],
-      "rank": 6,
-      "importance_reason": "1 GW · 竞对资讯 · ReNew"
-    },
-    {
-      "country": "全球",
-      "source_name": "Recharge",
-      "title": "RWE UK chief delivers verdict on wind and solar auction revamp",
-      "translated_title": "RWE 英国首席发布关于风能和太阳能拍卖的判决",
-      "published_at": "2026-11-20",
-      "url": "https://www.rechargenews.com/auctions/rwe-uk-chief-delivers-verdict-on-wind-and-solar-auction-revamp/2-1-2077038",
-      "tags": [
-        "竞对资讯",
-        "招标采购"
-      ],
-      "competitors": [
-        "RWE"
-      ],
-      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
-      "signals": [
-        "竞对资讯",
-        "招标采购",
-        "RWE"
-      ],
-      "rank": 7,
-      "importance_reason": "竞对资讯 · 招标采购 · RWE"
-    },
-    {
-      "country": "印度",
-      "source_name": "Energetica India – Wind Power",
-      "title": "Renewable energy > Wind Power - News | Energetica India Magazine",
-      "translated_title": "可再生能源 > 风能 - 新闻 - 能源印度杂志",
-      "published_at": "2026-11-16",
-      "url": "https://www.energetica-india.net/news/renewable-energy/wind-power?page=175",
-      "tags": [
-        "竞对资讯",
-        "招标采购"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "正文含招标/采购 · 竞对项目动态 · 标题明确风电",
-      "signals": [
-        "200 MW",
-        "竞对资讯",
-        "招标采购"
       ],
       "rank": 8,
-      "importance_reason": "200 MW · 竞对资讯 · 招标采购"
+      "importance_reason": "365 MW · 竞对资讯 · ReNew"
     }
   ]
 }
