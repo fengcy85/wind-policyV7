@@ -1,31 +1,80 @@
 {
-  "generated_at": "2026-11-23T07:56:30+00:00",
-  "before": 477,
-  "kept": 416,
-  "filtered_out": 61,
+  "generated_at": "2026-11-24T10:14:14+00:00",
+  "before": 487,
+  "kept": 421,
+  "filtered_out": 66,
   "tag_counts": {
-    "竞对资讯": 356,
-    "电网建设": 29,
-    "招标采购": 98,
+    "竞对资讯": 359,
+    "审批政策": 50,
+    "招标采购": 100,
+    "电网建设": 30,
     "宏观政策": 4,
-    "审批政策": 49,
     "市场机制": 17
   },
   "rejected_examples": [
     {
+      "title": "Onshore Wind",
+      "source_name": "Renewables Now",
+      "published_at": "2026-11-24",
+      "url": "https://renewablesnow.com/news/wind/",
+      "reasons": [
+        "标题无效/栏目标题"
+      ]
+    },
+    {
       "title": "Offshore Wind",
       "source_name": "Renewables Now",
-      "published_at": "2026-11-23",
+      "published_at": "2026-11-24",
       "url": "https://renewablesnow.com/news/offshore-wind/",
       "reasons": [
         "标题无效/栏目标题"
       ]
     },
     {
-      "title": "Dubai to test wind turbines to power traffic lights and street lamps",
+      "title": "INTERVIEW - X1 Wind lines up over 85% of funding for 8.5-MW floating platform",
+      "source_name": "Renewables Now",
+      "published_at": "2026-11-24",
+      "url": "https://renewablesnow.com/news/interview-x1-wind-lines-up-over-85-percent-of-funding-for-8-5-mw-floating-platform-1305486/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Europe’s circular Economy Act should build on wind industry’s best practices",
+      "source_name": "WindEurope",
+      "published_at": "2026-11-24",
+      "url": "https://windeurope.org/news/europes-circular-economy-act-should-build-on-wind-industrys-best-practices/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "World's tallest turbine taps into 'offshore winds on land'",
+      "source_name": "Recharge",
+      "published_at": "2026-11-24",
+      "url": "https://www.rechargenews.com/technology/worlds-tallest-turbine-taps-into-offshore-winds-on-land/2-1-2078569",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "20.11.2026 Dubai to test wind turbines to power traffic lights and street lamps",
       "source_name": "QazaqGreen",
-      "published_at": "2026-11-23",
+      "published_at": "2026-11-24",
       "url": "https://qazaqgreen.com/en/news/world/4025/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "New York doubles down on offshore wind after Trump election rebuke",
+      "source_name": "Recharge",
+      "published_at": "2026-11-23",
+      "url": "https://www.rechargenews.com/offshore-wind/new-york-doubles-down-on-offshore-wind-after-trump-election-rebuke/2-1-2078374",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -42,20 +91,20 @@
       ]
     },
     {
-      "title": "Nhà máy Điện gió Công Hải 1 (giai đoạn 2) chính thức hòa lưới điện quốc gia",
+      "title": "Khởi công dự án Điện gió Tây Hồ - Chư Prông và Điện mặt trời nổi Bàu Cạn (tại Gia Lai)",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-11-18",
-      "url": "https://nangluongvietnam.vn/nha-may-dien-gio-cong-hai-1-giai-doan-2-chinh-thuc-hoa-luoi-dien-quoc-gia-36939.html",
+      "url": "https://nangluongvietnam.vn/khoi-cong-du-an-dien-gio-tay-ho-chu-prong-va-dien-mat-troi-noi-bau-can-tai-gia-lai-36938.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Khởi công dự án Điện gió Tây Hồ - Chư Prông và Điện mặt trời nổi Bàu Cạn (tại Gia Lai)",
+      "title": "Nhà máy Điện gió Công Hải 1 (giai đoạn 2) chính thức hòa lưới điện quốc gia",
       "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
       "published_at": "2026-11-18",
-      "url": "https://nangluongvietnam.vn/khoi-cong-du-an-dien-gio-tay-ho-chu-prong-va-dien-mat-troi-noi-bau-can-tai-gia-lai-36938.html",
+      "url": "https://nangluongvietnam.vn/nha-may-dien-gio-cong-hai-1-giai-doan-2-chinh-thuc-hoa-luoi-dien-quoc-gia-36939.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -116,16 +165,6 @@
       ]
     },
     {
-      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
-      "source_name": "ASEAN Wind Energy Expo",
-      "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
@@ -136,20 +175,20 @@
       ]
     },
     {
-      "title": "Offshore Wind Spotlight | Formosa 4, Taiwan",
+      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=395",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
+      "title": "Offshore Wind Spotlight | Formosa 4, Taiwan",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=395",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -170,6 +209,16 @@
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
       "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=425",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
+      "source_name": "ASEAN Wind Energy Expo",
+      "published_at": "2026-11-16",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -381,15 +430,6 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Anadolu Agency",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-10-14",
       "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
@@ -403,6 +443,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "Anadolu Agency",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-10-14",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
