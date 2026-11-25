@@ -122,7 +122,7 @@
       "date": "2026-11-19",
       "rank": 9,
       "last_error": "详情访问失败",
-      "last_failed_at": "2026-11-24T09:55:42+00:00"
+      "last_failed_at": "2026-11-25T08:34:06+00:00"
     },
     {
       "url": "https://news.bjx.com.cn/html/20261119/1520793.shtml",
@@ -130,7 +130,7 @@
       "date": "2026-11-19",
       "rank": 9,
       "last_error": "详情访问失败",
-      "last_failed_at": "2026-11-24T09:55:42+00:00"
+      "last_failed_at": "2026-11-25T08:34:06+00:00"
     },
     {
       "url": "https://news.bjx.com.cn/html/20261118/1520551.shtml",
@@ -138,7 +138,7 @@
       "date": "2026-11-18",
       "rank": 9,
       "last_error": "详情访问失败",
-      "last_failed_at": "2026-11-24T09:55:43+00:00"
+      "last_failed_at": "2026-11-25T08:34:07+00:00"
     },
     {
       "url": "https://news.bjx.com.cn/html/20261110/1519568.shtml",
@@ -146,7 +146,7 @@
       "date": "2026-11-10",
       "rank": 9,
       "last_error": "详情访问失败",
-      "last_failed_at": "2026-11-24T09:55:43+00:00"
+      "last_failed_at": "2026-11-25T08:34:08+00:00"
     },
     {
       "url": "https://news.bjx.com.cn/html/20261103/1518668.shtml",
@@ -154,7 +154,7 @@
       "date": "2026-11-03",
       "rank": 9,
       "last_error": "详情访问失败",
-      "last_failed_at": "2026-11-24T09:55:44+00:00"
+      "last_failed_at": "2026-11-25T08:34:08+00:00"
     },
     {
       "url": "https://news.bjx.com.cn/html/20261009/1515366.shtml",
@@ -162,7 +162,7 @@
       "date": "2026-10-09",
       "rank": 9,
       "last_error": "详情访问失败",
-      "last_failed_at": "2026-11-24T09:55:45+00:00"
+      "last_failed_at": "2026-11-25T08:34:09+00:00"
     },
     {
       "url": "https://news.bjx.com.cn/html/20260921/1513716.shtml",
@@ -170,7 +170,7 @@
       "date": "2026-09-21",
       "rank": 9,
       "last_error": "详情访问失败",
-      "last_failed_at": "2026-11-24T09:55:46+00:00"
+      "last_failed_at": "2026-11-25T08:34:10+00:00"
     },
     {
       "url": "https://news.bjx.com.cn/html/20261106/1519188.shtml",
@@ -178,7 +178,7 @@
       "date": "2026-11-06",
       "rank": 5,
       "last_error": "详情访问失败",
-      "last_failed_at": "2026-11-24T09:55:46+00:00"
+      "last_failed_at": "2026-11-25T08:34:10+00:00"
     },
     {
       "url": "https://news.bjx.com.cn/html/20261106/1519186.shtml",
@@ -186,7 +186,7 @@
       "date": "2026-11-06",
       "rank": 5,
       "last_error": "详情访问失败",
-      "last_failed_at": "2026-11-24T09:55:47+00:00"
+      "last_failed_at": "2026-11-25T08:34:11+00:00"
     },
     {
       "url": "https://news.bjx.com.cn/html/20261102/1518568.shtml",
@@ -194,7 +194,7 @@
       "date": "2026-11-02",
       "rank": 5,
       "last_error": "详情访问失败",
-      "last_failed_at": "2026-11-24T09:55:48+00:00"
+      "last_failed_at": "2026-11-25T08:34:12+00:00"
     },
     {
       "url": "https://news.bjx.com.cn/html/20261030/1518290.shtml",
@@ -202,7 +202,7 @@
       "date": "2026-10-30",
       "rank": 5,
       "last_error": "详情访问失败",
-      "last_failed_at": "2026-11-24T09:55:48+00:00"
+      "last_failed_at": "2026-11-25T08:34:12+00:00"
     },
     {
       "url": "https://news.bjx.com.cn/html/20261030/1518288.shtml",
@@ -210,7 +210,7 @@
       "date": "2026-10-30",
       "rank": 5,
       "last_error": "详情访问失败",
-      "last_failed_at": "2026-11-24T09:55:49+00:00"
+      "last_failed_at": "2026-11-25T08:34:13+00:00"
     },
     {
       "url": "https://news.bjx.com.cn/html/20261028/1518026.shtml",
@@ -218,7 +218,7 @@
       "date": "2026-10-28",
       "rank": 5,
       "last_error": "详情访问失败",
-      "last_failed_at": "2026-11-24T09:55:50+00:00"
+      "last_failed_at": "2026-11-25T08:34:14+00:00"
     },
     {
       "url": "https://news.bjx.com.cn/html/20261020/1516992.shtml",
@@ -226,7 +226,7 @@
       "date": "2026-10-20",
       "rank": 5,
       "last_error": "详情访问失败",
-      "last_failed_at": "2026-11-24T09:55:50+00:00"
+      "last_failed_at": "2026-11-25T08:34:15+00:00"
     },
     {
       "url": "https://news.bjx.com.cn/html/20261013/1515993.shtml",
@@ -234,7 +234,17 @@
       "date": "2026-10-13",
       "rank": 5,
       "last_error": "详情访问失败",
-      "last_failed_at": "2026-11-24T09:55:51+00:00"
+      "last_failed_at": "2026-11-25T08:34:15+00:00"
+    }
+  ],
+  "cn_68fd9b24ba66": [
+    {
+      "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=52AF72FB01D2403AE06397BE0A0AD6A8",
+      "title": "GB/T 47721-2026 风能发电系统 海上 风力发电机组 支撑结构一体化设计规范",
+      "date": "",
+      "rank": 10,
+      "last_error": "详情访问失败",
+      "last_failed_at": "2026-11-25T08:39:11+00:00"
     }
   ],
   "cn_2e22c487ffee": [
@@ -244,7 +254,7 @@
       "date": "",
       "rank": 10,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/262.html",
@@ -252,7 +262,7 @@
       "date": "",
       "rank": 10,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/261.html",
@@ -260,7 +270,7 @@
       "date": "",
       "rank": 10,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/258.html",
@@ -268,7 +278,7 @@
       "date": "",
       "rank": 10,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/257.html",
@@ -276,7 +286,7 @@
       "date": "",
       "rank": 10,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/255.html",
@@ -284,7 +294,7 @@
       "date": "",
       "rank": 10,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/249.html",
@@ -292,7 +302,7 @@
       "date": "",
       "rank": 10,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/244.html",
@@ -300,7 +310,7 @@
       "date": "",
       "rank": 10,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/243.html",
@@ -308,7 +318,7 @@
       "date": "",
       "rank": 10,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/242.html",
@@ -316,7 +326,7 @@
       "date": "",
       "rank": 10,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/241.html",
@@ -324,7 +334,7 @@
       "date": "",
       "rank": 10,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/236.html",
@@ -332,7 +342,7 @@
       "date": "",
       "rank": 10,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/235.html",
@@ -340,7 +350,7 @@
       "date": "",
       "rank": 10,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/31912.html",
@@ -348,7 +358,7 @@
       "date": "",
       "rank": 9,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/282.html",
@@ -356,7 +366,7 @@
       "date": "",
       "rank": 9,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/41080.html",
@@ -364,7 +374,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/41078.html",
@@ -372,7 +382,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/32079.html",
@@ -380,7 +390,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/32034.html",
@@ -388,7 +398,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/31358.html",
@@ -396,7 +406,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/30423.html",
@@ -404,7 +414,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/29720.html",
@@ -412,7 +422,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/349.html",
@@ -420,7 +430,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/348.html",
@@ -428,7 +438,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/347.html",
@@ -436,7 +446,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/346.html",
@@ -444,7 +454,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/342.html",
@@ -452,7 +462,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/338.html",
@@ -460,7 +470,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/330.html",
@@ -468,7 +478,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/329.html",
@@ -476,7 +486,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/326.html",
@@ -484,7 +494,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/325.html",
@@ -492,7 +502,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/318.html",
@@ -500,7 +510,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/314.html",
@@ -508,7 +518,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/304.html",
@@ -516,7 +526,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/301.html",
@@ -524,7 +534,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/298.html",
@@ -532,7 +542,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/297.html",
@@ -540,7 +550,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/295.html",
@@ -548,7 +558,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/293.html",
@@ -556,7 +566,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/288.html",
@@ -564,7 +574,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/287.html",
@@ -572,7 +582,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/285.html",
@@ -580,7 +590,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/283.html",
@@ -588,7 +598,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/275.html",
@@ -596,7 +606,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/274.html",
@@ -604,7 +614,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/273.html",
@@ -612,7 +622,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/272.html",
@@ -620,7 +630,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/271.html",
@@ -628,7 +638,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/253.html",
@@ -636,7 +646,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/248.html",
@@ -644,7 +654,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/240.html",
@@ -652,7 +662,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/234.html",
@@ -660,7 +670,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/233.html",
@@ -668,7 +678,7 @@
       "date": "",
       "rank": 4,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/41533.html",
@@ -676,7 +686,7 @@
       "date": "",
       "rank": 3,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/29122.html",
@@ -684,7 +694,7 @@
       "date": "",
       "rank": 3,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/332.html",
@@ -692,7 +702,7 @@
       "date": "",
       "rank": 3,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/33924.html",
@@ -700,7 +710,7 @@
       "date": "",
       "rank": 1,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/269.html",
@@ -708,7 +718,7 @@
       "date": "",
       "rank": 1,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     },
     {
       "url": "https://www.cweea.com.cn/zcfg/html/33388.html",
@@ -716,7 +726,7 @@
       "date": "",
       "rank": 0,
       "last_error": "详情下载预算耗尽",
-      "last_failed_at": "2026-11-24T10:04:34+00:00"
+      "last_failed_at": "2026-11-25T08:44:51+00:00"
     }
   ]
 }
