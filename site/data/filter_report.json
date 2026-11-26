@@ -1,43 +1,62 @@
 {
-  "generated_at": "2026-11-25T08:54:13+00:00",
-  "before": 490,
-  "kept": 426,
-  "filtered_out": 64,
+  "generated_at": "2026-11-26T08:41:22+00:00",
+  "before": 493,
+  "kept": 431,
+  "filtered_out": 62,
   "tag_counts": {
-    "竞对资讯": 364,
+    "竞对资讯": 368,
+    "招标采购": 101,
+    "市场机制": 18,
     "审批政策": 51,
-    "电网建设": 30,
-    "招标采购": 100,
-    "宏观政策": 4,
-    "市场机制": 17
+    "电网建设": 31,
+    "宏观政策": 4
   },
   "rejected_examples": [
     {
-      "title": "Onshore Wind",
+      "title": "Offshore Wind",
       "source_name": "Renewables Now",
-      "published_at": "2026-11-25",
-      "url": "https://renewablesnow.com/news/wind/",
+      "published_at": "2026-11-26",
+      "url": "https://renewablesnow.com/news/offshore-wind/",
       "reasons": [
         "标题无效/栏目标题"
       ]
     },
     {
-      "title": "NKT starts making cables for 2-GW Dutch offshore link",
-      "source_name": "Renewables Now",
+      "title": "20.11.2026 Dubai to test wind turbines to power traffic lights and street lamps",
+      "source_name": "QazaqGreen",
       "published_at": "2026-11-25",
-      "url": "https://renewablesnow.com/news/nkt-starts-making-cables-for-2-gw-dutch-offshore-link-1305577/",
+      "url": "https://qazaqgreen.com/en/news/world/4025/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "post image",
-      "source_name": "Renewable Watch",
+      "title": "Suzlon to Set Up 1 GW Smart Blade Manufacturing Plant in Tamil Nadu - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
       "published_at": "2026-11-25",
-      "url": "https://renewablewatch.in/2026/07/23/truere-oriana-power-strengthening-its-bess-portfolio/",
+      "url": "https://www.energetica-india.net/news/suzlon-to-set-up-1-gw-smart-blade-manufacturing-plant-in-tamil-nadu",
       "reasons": [
-        "风电相关性不足"
+        "正文明确涉及风电"
+      ]
+    },
+    {
+      "title": "Free subscription magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-25",
+      "url": "https://www.energetica-india.net/news/renewable-energy/subscriptions/printed-magazine",
+      "reasons": [
+        "正文明确涉及风电"
+      ]
+    },
+    {
+      "title": "IWTMA Partners with Germany’s BWE to Advance Wind Turbine Repowering in India - Asia Pacific | Energetica India Magazine",
+      "source_name": "Energetica India – Wind Power",
+      "published_at": "2026-11-25",
+      "url": "https://www.energetica-india.net/news/iwtma-partners-with-germanys-bwe-to-advance-wind-turbine-repowering-in-india",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
@@ -50,30 +69,19 @@
       ]
     },
     {
+      "title": "post image",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-11-25",
+      "url": "https://renewablewatch.in/2026/07/23/truere-oriana-power-strengthening-its-bess-portfolio/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Europe’s circular Economy Act should build on wind industry’s best practices",
       "source_name": "WindEurope",
       "published_at": "2026-11-24",
       "url": "https://windeurope.org/news/europes-circular-economy-act-should-build-on-wind-industrys-best-practices/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "World's tallest turbine taps into 'offshore winds on land'",
-      "source_name": "Recharge",
-      "published_at": "2026-11-24",
-      "url": "https://www.rechargenews.com/technology/worlds-tallest-turbine-taps-into-offshore-winds-on-land/2-1-2078569",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
-      "title": "20.11.2026 Dubai to test wind turbines to power traffic lights and street lamps",
-      "source_name": "QazaqGreen",
-      "published_at": "2026-11-24",
-      "url": "https://qazaqgreen.com/en/news/world/4025/",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -123,7 +131,7 @@
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-11-17",
-      "url": "https://renewablewatch.in/2026/08/20/trinasolar-introduces-typhoon-resistant-solar-pv-module-series/",
+      "url": "https://renewablewatch.in/2026/09/10/vsl-powerhive-launches-liquid-cooled-bess-for-ci-applications/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -132,7 +140,7 @@
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-11-17",
-      "url": "https://renewablewatch.in/2026/09/10/vsl-powerhive-launches-liquid-cooled-bess-for-ci-applications/",
+      "url": "https://renewablewatch.in/2026/08/20/trinasolar-introduces-typhoon-resistant-solar-pv-module-series/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -246,15 +254,6 @@
       ]
     },
     {
-      "title": "Free subscription magazine",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-11-16",
-      "url": "https://www.energetica-india.net/news/renewable-energy/subscriptions/printed-magazine",
-      "reasons": [
-        "正文明确涉及风电"
-      ]
-    },
-    {
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-11-13",
@@ -289,6 +288,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "post image",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-11-10",
+      "url": "https://renewablewatch.in/2026/10/12/hydrogen-highways-can-green-hydrogen-power-indias-freight-future/",
+      "reasons": [
+        "风电相关性不足"
       ]
     },
     {
@@ -334,7 +342,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-11-04",
-      "url": "https://www.aa.com.tr/en/energy/finance",
+      "url": "https://www.aa.com.tr/en/energy/renewable",
       "reasons": [
         "风电相关性不足"
       ]
@@ -343,7 +351,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-11-04",
-      "url": "https://www.aa.com.tr/en/energy/renewable",
+      "url": "https://www.aa.com.tr/en/energy/finance",
       "reasons": [
         "风电相关性不足"
       ]
@@ -379,20 +387,10 @@
       ]
     },
     {
-      "title": "Juniper Green Energy Commissions Additional 65.4 MW Wind Capacity - Asia Pacific | Energetica India Magazine",
-      "source_name": "Energetica India – Wind Power",
-      "published_at": "2026-10-19",
-      "url": "https://www.energetica-india.net/news/juniper-green-energy-commissions-additional-654-mw-wind-capacity",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
+      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
       "reasons": [
         "风电相关性不足"
       ]
@@ -401,7 +399,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy",
+      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
       ]
@@ -480,24 +478,6 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
-      ]
-    },
-    {
-      "title": "Connecting Grids: Canada moves towards an integrated power system",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-01",
-      "url": "https://renewablewatch.in/2026/10/08/connecting-grids-canada-moves-towards-an-integrated-power-system/",
-      "reasons": [
-        "风电相关性不足"
-      ]
-    },
-    {
-      "title": "“Our aim is to digitise the project lifecycle”: Interview with Aditya Birla Renewables’ Narendra Somoshi",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-01",
-      "url": "https://renewablewatch.in/2026/10/01/our-aim-is-to-digitise-the-project-lifecycle-interview-with-aditya-birla-renewables-narendra-somoshi/",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {

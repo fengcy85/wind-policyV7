@@ -1954,7 +1954,7 @@
     "id": "cn_d4013c1b2a1e",
     "name": "中央国务院及各部委",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:37:39+00:00",
+    "checked_at": "2026-11-26T08:26:36+00:00",
     "found_count": 0,
     "candidate_links": 20,
     "candidate_dated_links": 20,
@@ -1988,8 +1988,8 @@
         "redirect": "https://www.gov.cn/zhengce/zhengceku/bmwj/home.htm"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_d4013c1b2a1e",
     "adapter_strategy": "gov_department_static_file_library",
     "adapter_live_verified": false,
@@ -2088,7 +2088,7 @@
     "id": "cn_37cf03ee8fd2",
     "name": "国务院最新政策（原单篇文章入口替换）",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:37:40+00:00",
+    "checked_at": "2026-11-26T08:26:37+00:00",
     "found_count": 0,
     "candidate_links": 19,
     "candidate_dated_links": 14,
@@ -2131,8 +2131,8 @@
         "redirect": "https://www.gov.cn/zhengce/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_37cf03ee8fd2",
     "adapter_strategy": "official_index_fallback",
     "adapter_live_verified": false,
@@ -2305,7 +2305,7 @@
     "id": "cn_68fd9b24ba66",
     "name": "全国标准信息公共服务平台",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:37:41+00:00",
+    "checked_at": "2026-11-26T08:26:38+00:00",
     "found_count": 0,
     "candidate_links": 25,
     "candidate_dated_links": 15,
@@ -2315,9 +2315,9 @@
     "oldest_listing_date": "2026-10-30",
     "explicit_end_of_list": false,
     "chronological_order_verified": true,
-    "detail_errors": 1,
+    "detail_errors": 0,
     "detail_limit_hit": false,
-    "detail_retry_count": 1,
+    "detail_retry_count": 0,
     "listing_coverage_complete": null,
     "coverage_complete": null,
     "coverage_evidence": "国内不要求整段日期覆盖；区分已发现政策、目录解析和访问故障",
@@ -2326,14 +2326,13 @@
     "policy_records_found": 0,
     "full_text_records_found": 0,
     "listing_warnings": [
-      "动态分页/日期排序不完整",
-      "待重试政策详情：1条"
+      "动态分页/日期排序不完整"
     ],
     "content_discovered": false,
-    "first_failure_code": "http_5xx",
-    "first_failure_http_status": 502,
+    "first_failure_code": null,
+    "first_failure_http_status": null,
     "date_coverage_required": false,
-    "message": "政策目录可读，本轮未发现符合条件的新政策；提醒：动态分页/日期排序不完整、待重试政策详情：1条",
+    "message": "政策目录可读，本轮未发现符合条件的新政策；提醒：动态分页/日期排序不完整",
     "attempts": [
       {
         "url": "https://std.samr.gov.cn/search/stdPage?q=%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E6%9C%BA%E7%BB%84",
@@ -2369,11 +2368,8 @@
       {
         "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=52AF72FB01D2403AE06397BE0A0AD6A8",
         "method": "http",
-        "status": "failed",
-        "error_code": "http_5xx",
-        "http_status": 502,
-        "operator_hint": "服务器临时故障；有限重试后延期补查",
-        "error": "HTTPError: 502 Server Error: Bad Gateway for url: https://std.samr.gov.cn/gb/search/gbDetailed?id=52AF72FB01D2403AE06397BE0A0AD6A8"
+        "status": "read",
+        "redirect": "https://std.samr.gov.cn/gb/search/gbDetailed?id=52AF72FB01D2403AE06397BE0A0AD6A8"
       },
       {
         "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=511EBC5968E49318E06397BE0A0AFBD5",
@@ -2382,8 +2378,8 @@
         "redirect": "https://std.samr.gov.cn/gb/search/gbDetailed?id=511EBC5968E49318E06397BE0A0AFBD5"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_68fd9b24ba66",
     "adapter_strategy": "national_standard_search",
     "adapter_live_verified": false,
@@ -2471,6 +2467,15 @@
       },
       {
         "catalogue_url": "https://std.samr.gov.cn/gb/gbQuery.National",
+        "title": "GB/T 48595-2026",
+        "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193D567748E06397BE0A0A0B47",
+        "date": "2026-10-30",
+        "row_tag": "tr",
+        "row_class": "",
+        "date_field_match": false
+      },
+      {
+        "catalogue_url": "https://std.samr.gov.cn/gb/gbQuery.National",
         "title": "GB/T 18475-2026",
         "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193D577748E06397BE0A0A0B47",
         "date": "2026-10-30",
@@ -2482,15 +2487,6 @@
         "catalogue_url": "https://std.samr.gov.cn/gb/gbQuery.National",
         "title": "GB/T 48541-2026",
         "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193EBD7748E06397BE0A0A0B47",
-        "date": "2026-10-30",
-        "row_tag": "tr",
-        "row_class": "",
-        "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://std.samr.gov.cn/gb/gbQuery.National",
-        "title": "GB/T 48561-2026",
-        "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193EC37748E06397BE0A0A0B47",
         "date": "2026-10-30",
         "row_tag": "tr",
         "row_class": "",
@@ -2509,7 +2505,7 @@
     "id": "cn_b7b7d481ef53",
     "name": "国家标准全文公开系统",
     "status": "needs_adapter",
-    "checked_at": "2026-11-25T08:37:42+00:00",
+    "checked_at": "2026-11-26T08:26:53+00:00",
     "found_count": 0,
     "candidate_links": 4,
     "candidate_dated_links": 0,
@@ -2563,8 +2559,8 @@
         "redirect": "https://openstd.samr.gov.cn/bzgk/std/index"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_b7b7d481ef53",
     "adapter_strategy": "national_standard_fulltext",
     "adapter_live_verified": false,
@@ -2648,20 +2644,20 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_9abe6d2f93c7",
     "name": "国务院部门文件",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:37:53+00:00",
+    "checked_at": "2026-11-26T08:26:54+00:00",
     "found_count": 0,
     "candidate_links": 20,
     "candidate_dated_links": 20,
     "listing_rows_with_date": 20,
     "listing_rows_total": 20,
     "listing_pages": 1,
-    "oldest_listing_date": "2026-09-04",
+    "oldest_listing_date": "2026-09-11",
     "explicit_end_of_list": false,
     "chronological_order_verified": false,
     "detail_errors": 0,
@@ -2696,8 +2692,8 @@
         "redirect": "https://sousuo.www.gov.cn/zcwjk/policyDocumentLibrary?q=&t=zhengcelibrary&orpro="
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_9abe6d2f93c7",
     "adapter_strategy": "document_library_search",
     "adapter_live_verified": false,
@@ -2731,6 +2727,15 @@
       },
       {
         "catalogue_url": "https://sousuo.www.gov.cn/zcwjk/policyDocumentLibrary?q=&t=zhengcelibrary&orpro=",
+        "title": "国务院办公厅关于2027年部分节假日安排的通知",
+        "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085102.htm",
+        "date": "2026-11-05",
+        "row_tag": "div",
+        "row_class": "dys_middle_result_content_item",
+        "date_field_match": false
+      },
+      {
+        "catalogue_url": "https://sousuo.www.gov.cn/zcwjk/policyDocumentLibrary?q=&t=zhengcelibrary&orpro=",
         "title": "国务院关于修改和废止部分行政法规的决定",
         "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085099.htm",
         "date": "2026-10-16",
@@ -2740,9 +2745,18 @@
       },
       {
         "catalogue_url": "https://sousuo.www.gov.cn/zcwjk/policyDocumentLibrary?q=&t=zhengcelibrary&orpro=",
-        "title": "国务院办公厅关于2027年部分节假日安排的通知",
-        "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7085102.htm",
-        "date": "2026-11-05",
+        "title": "三部门关于印发《新一代通信网建设实施方案》的通知",
+        "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7087375.htm",
+        "date": "2026-11-26",
+        "row_tag": "div",
+        "row_class": "dys_middle_result_content_item",
+        "date_field_match": false
+      },
+      {
+        "catalogue_url": "https://sousuo.www.gov.cn/zcwjk/policyDocumentLibrary?q=&t=zhengcelibrary&orpro=",
+        "title": "关于印发 《常态化帮扶资金绩效评价办法》的通知",
+        "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7087319.htm",
+        "date": "2026-11-25",
         "row_tag": "div",
         "row_class": "dys_middle_result_content_item",
         "date_field_match": false
@@ -2764,24 +2778,6 @@
         "row_tag": "div",
         "row_class": "dys_middle_result_content_item",
         "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://sousuo.www.gov.cn/zcwjk/policyDocumentLibrary?q=&t=zhengcelibrary&orpro=",
-        "title": "关于印发《“一老一小”服务体系建设实施方案》的通知",
-        "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7087024.htm",
-        "date": "2026-11-23",
-        "row_tag": "div",
-        "row_class": "dys_middle_result_content_item",
-        "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://sousuo.www.gov.cn/zcwjk/policyDocumentLibrary?q=&t=zhengcelibrary&orpro=",
-        "title": "自然资源部 国家发展改革委 中国人民银行 金融监管总局 中国证监会关于印发《海洋产业投融资指导目录（2026版）》的通知",
-        "url": "https://www.gov.cn/zhengce/zhengceku/202611/content_7086964.htm",
-        "date": "2026-11-20",
-        "row_tag": "div",
-        "row_class": "dys_middle_result_content_item",
-        "date_field_match": false
       }
     ],
     "source_kind": "政策法规",
@@ -2796,14 +2792,14 @@
     "id": "cn_8101686d3883",
     "name": "北京市人民政府",
     "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:37:56+00:00",
+    "checked_at": "2026-11-26T08:26:57+00:00",
     "found_count": 1,
     "candidate_links": 999,
     "candidate_dated_links": 999,
     "listing_rows_with_date": 999,
     "listing_rows_total": 999,
     "listing_pages": 1,
-    "oldest_listing_date": "2025-04-02",
+    "oldest_listing_date": "2025-04-08",
     "explicit_end_of_list": false,
     "chronological_order_verified": true,
     "detail_errors": 0,
@@ -2836,43 +2832,34 @@
         "redirect": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261119_4952011.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_8101686d3883",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
     "dom_samples_for_diagnosis": [
       {
         "catalogue_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/",
-        "title": "北京市朝阳区“十五五”时期残疾人事业发展规划",
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261125_4957794.html",
-        "date": "2026-11-25",
+        "title": "北京市科学技术委员会、中关村科技园区管理委员会关于转发推荐国家重点研发计划“主要粮食与经济作物大面积单产提升技术”等5个重点专项2026年度项目申报指南的通知",
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261126_4958599.html",
+        "date": "2026-11-26",
         "row_tag": "li",
         "row_class": "",
         "date_field_match": false
       },
       {
         "catalogue_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/",
-        "title": "北京市西城区园林绿化局关于印发《西城区“十五五”时期园林绿化发展规划》的通知",
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261125_4957523.html",
-        "date": "2026-11-25",
+        "title": "北京市朝阳区市场监督管理局 北京市朝阳区财政局关于印发《实施首都标准化战略朝阳区补助资金管理办法》的通知",
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261126_4958402.html",
+        "date": "2026-11-26",
         "row_tag": "li",
         "row_class": "",
         "date_field_match": false
       },
       {
         "catalogue_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/",
-        "title": "北京市财政局关于印发《北京市政府采购行政裁决办法》的通知",
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261125_4957397.html",
-        "date": "2026-11-25",
-        "row_tag": "li",
-        "row_class": "",
-        "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/",
-        "title": "北京经济技术开发区科技和产业促进局关于开展2026年全年科技服务业提质增效奖励申报的通知",
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261125_4957820.html",
+        "title": "北京市人力资源和社会保障局 北京市财政局等部门关于2026年本市参保人员社会保险待遇有关问题的通告",
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261125_4958114.html",
         "date": "2026-11-25",
         "row_tag": "li",
         "row_class": "",
@@ -2889,36 +2876,45 @@
       },
       {
         "catalogue_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/",
-        "title": "北京市科学技术委员会、中关村科技园区管理委员会关于转发推荐国家重点研发计划“关键基础件及制造工艺”重点专项2026年度公开竞争项目申报指南的通知",
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261124_4957088.html",
-        "date": "2026-11-24",
+        "title": "北京市朝阳区“十五五”时期残疾人事业发展规划",
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261125_4957794.html",
+        "date": "2026-11-25",
         "row_tag": "li",
         "row_class": "",
         "date_field_match": false
       },
       {
         "catalogue_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/",
-        "title": "北京市政务服务和数据管理局关于组织开展北京市第一批可信数据空间创新发展试点暨国家数据局第二批可信数据空间创新发展试点征集工作的通知",
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261124_4956259.html",
-        "date": "2026-11-24",
+        "title": "北京经济技术开发区科技和产业促进局关于开展2026年全年科技服务业提质增效奖励申报的通知",
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261125_4957820.html",
+        "date": "2026-11-25",
         "row_tag": "li",
         "row_class": "",
         "date_field_match": false
       },
       {
         "catalogue_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/",
-        "title": "北京市朝阳区“十五五”时期就业与社会保障事业发展规划",
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261124_4956936.html",
-        "date": "2026-11-24",
+        "title": "北京市西城区园林绿化局关于印发《西城区“十五五”时期园林绿化发展规划》的通知",
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261125_4957523.html",
+        "date": "2026-11-25",
         "row_tag": "li",
         "row_class": "",
         "date_field_match": false
       },
       {
         "catalogue_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/",
-        "title": "2026年11月北京市东城区人民政府登记备案的行政规范性文件目录",
-        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261124_4957102.html",
-        "date": "2026-11-24",
+        "title": "西城区青年工作联席会议办公室 共青团北京市西城区委员会关于印发《西城区“十五五”时期青少年事业发展规划》的通知",
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261125_4958111.html",
+        "date": "2026-11-25",
+        "row_tag": "li",
+        "row_class": "",
+        "date_field_match": false
+      },
+      {
+        "catalogue_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/",
+        "title": "北京市财政局关于印发《北京市政府采购行政裁决办法》的通知",
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202611/t20261125_4957397.html",
+        "date": "2026-11-25",
         "row_tag": "li",
         "row_class": "",
         "date_field_match": false
@@ -2936,7 +2932,7 @@
     "id": "cn_24e54ba38a1a",
     "name": "北京市发展和改革委员会",
     "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:34:22+00:00",
+    "checked_at": "2026-11-26T08:23:14+00:00",
     "found_count": 2,
     "candidate_links": 15,
     "candidate_dated_links": 15,
@@ -2970,20 +2966,20 @@
         "redirect": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/"
       },
       {
-        "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261119_4952958.htm",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261119_4952958.htm"
-      },
-      {
         "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261119_4952538.htm",
         "method": "http",
         "status": "read",
         "redirect": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261119_4952538.htm"
+      },
+      {
+        "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261119_4952958.htm",
+        "method": "http",
+        "status": "read",
+        "redirect": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261119_4952958.htm"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_24e54ba38a1a",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -2999,8 +2995,8 @@
       },
       {
         "catalogue_url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/",
-        "title": "[现行有效] 关于公示拟履行市政府固定资产投资评估流程新能源供热项目清单的通知",
-        "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261119_4952958.htm",
+        "title": "[现行有效] 关于公布本市2027年新能源增量项目机制电价竞价结果的通知",
+        "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261119_4952538.htm",
         "date": "2026-11-18",
         "row_tag": "li",
         "row_class": "",
@@ -3008,8 +3004,8 @@
       },
       {
         "catalogue_url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/",
-        "title": "[现行有效] 关于公布本市2027年新能源增量项目机制电价竞价结果的通知",
-        "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261119_4952538.htm",
+        "title": "[现行有效] 关于公示拟履行市政府固定资产投资评估流程新能源供热项目清单的通知",
+        "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261119_4952958.htm",
         "date": "2026-11-18",
         "row_tag": "li",
         "row_class": "",
@@ -3020,6 +3016,24 @@
         "title": "[现行有效] 北京市发展和改革委员会 北京市生态环境局关于发布 2026年第二批13家通过清洁生产审核评估单位的通知",
         "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261113_4944981.htm",
         "date": "2026-11-13",
+        "row_tag": "li",
+        "row_class": "",
+        "date_field_match": false
+      },
+      {
+        "catalogue_url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/",
+        "title": "[现行有效] 关于调整本市燃气电厂热力出厂价格的通知",
+        "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261112_4943701.htm",
+        "date": "2026-11-12",
+        "row_tag": "li",
+        "row_class": "",
+        "date_field_match": false
+      },
+      {
+        "catalogue_url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/",
+        "title": "[失效] 本市成品油价格调整",
+        "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261112_4943633.htm",
+        "date": "2026-11-12",
         "row_tag": "li",
         "row_class": "",
         "date_field_match": false
@@ -3037,24 +3051,6 @@
         "catalogue_url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/",
         "title": "[现行有效] 关于调整本市非居民用天然气销售价格的通知",
         "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261112_4943697.htm",
-        "date": "2026-11-12",
-        "row_tag": "li",
-        "row_class": "",
-        "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/",
-        "title": "[现行有效] 关于调整本市燃气电厂热力出厂价格的通知",
-        "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261112_4943701.htm",
-        "date": "2026-11-12",
-        "row_tag": "li",
-        "row_class": "",
-        "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/",
-        "title": "[现行有效] 本市成品油价格调整",
-        "url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202611/t20261112_4943633.htm",
         "date": "2026-11-12",
         "row_tag": "li",
         "row_class": "",
@@ -3082,7 +3078,7 @@
     "id": "cn_1003b870a030",
     "name": "北京市经济和信息化局",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:37:59+00:00",
+    "checked_at": "2026-11-26T08:27:01+00:00",
     "found_count": 0,
     "candidate_links": 20,
     "candidate_dated_links": 20,
@@ -3116,8 +3112,8 @@
         "redirect": "https://jxj.beijing.gov.cn/zwgk/2024zcwj/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_1003b870a030",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -3216,7 +3212,7 @@
     "id": "cn_ad5b4fd78be8",
     "name": "北京市城市管理委员会",
     "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:38:01+00:00",
+    "checked_at": "2026-11-26T08:27:03+00:00",
     "found_count": 1,
     "candidate_links": 160,
     "candidate_dated_links": 160,
@@ -3265,8 +3261,8 @@
         "redirect": "https://csglw.beijing.gov.cn/zwxx/2024zcwj/202611/t20261118_4951205.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_ad5b4fd78be8",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -3365,7 +3361,7 @@
     "id": "cn_bcae52a0ff64",
     "name": "天津市人民政府｜政府文件",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:38:01+00:00",
+    "checked_at": "2026-11-26T08:27:07+00:00",
     "found_count": 0,
     "candidate_links": 15,
     "candidate_dated_links": 15,
@@ -3399,8 +3395,8 @@
         "redirect": "https://www.tj.gov.cn/zwgk/szfwj/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_bcae52a0ff64",
     "adapter_strategy": "official_provincial_document_list",
     "adapter_live_verified": false,
@@ -3499,7 +3495,7 @@
     "id": "cn_17bffa52408e",
     "name": "天津发展和改革委员会",
     "status": "blocked",
-    "checked_at": "2026-11-25T08:34:25+00:00",
+    "checked_at": "2026-11-26T08:23:17+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -3538,8 +3534,8 @@
         "error": "HTTPError: 403 Client Error: Forbidden for url: https://fzgg.tj.gov.cn/zwgk_47325/zcfg_47338/zcwjx/fgwj/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_17bffa52408e",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -3565,13 +3561,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_5dc355c1a7a8",
     "name": "天津工业和信息化局",
     "status": "blocked",
-    "checked_at": "2026-11-25T08:38:07+00:00",
+    "checked_at": "2026-11-26T08:27:15+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -3610,8 +3606,8 @@
         "error": "HTTPError: 403 Client Error: Forbidden for url: https://gyxxh.tj.gov.cn/ZWGK4147/ZCWJ6355/wjwj/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_5dc355c1a7a8",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -3637,13 +3633,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_9218a245fb7e",
     "name": "河北省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:38:09+00:00",
+    "checked_at": "2026-11-26T08:27:17+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -3682,8 +3678,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='www.hebei.gov.cn', port=443): Max retries exceeded with url: /columns/49f13cc2-db03-4d0c-b4fe-2f3f659d3b6e/index.html (Caused by NewConnectionError(\"HTTPSConnection(host='www"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_9218a245fb7e",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -3715,13 +3711,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_bcbd7c678a4f",
     "name": "河北省发展和改革委员会",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:34:35+00:00",
+    "checked_at": "2026-11-26T08:23:25+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -3760,8 +3756,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='hbdrc.hebei.gov.cn', port=443): Max retries exceeded with url: /jhlm/jhzcfg/index.html (Caused by NewConnectionError(\"HTTPSConnection(host='hbdrc.hebei.gov.cn', port=443): Fa"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_bcbd7c678a4f",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -3793,13 +3789,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_72b1e5bf6cc8",
     "name": "山西省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:38:15+00:00",
+    "checked_at": "2026-11-26T08:27:17+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -3838,8 +3834,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='www.shanxi.gov.cn', port=443): Max retries exceeded with url: /zcwjk/swwj/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.shanxi.gov.cn', port=443): Failed to estab"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_72b1e5bf6cc8",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -3863,13 +3859,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_0cedc4affbe8",
     "name": "山西省能源局",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:34:03+00:00",
+    "checked_at": "2026-11-26T08:22:54+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -3908,8 +3904,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='nyj.shanxi.gov.cn', port=443): Max retries exceeded with url: /zfxxgk/fdzdgknr/sjwj/fdzdgknr_11759.html (Caused by NewConnectionError(\"HTTPSConnection(host='nyj.shanxi.gov.cn"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_0cedc4affbe8",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -3920,13 +3916,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_f967a158ac3f",
     "name": "山西省工信厅",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:38:28+00:00",
+    "checked_at": "2026-11-26T08:27:18+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -3965,8 +3961,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='gxt.shanxi.gov.cn', port=443): Max retries exceeded with url: /zcwj/wjfb/ (Caused by NewConnectionError(\"HTTPSConnection(host='gxt.shanxi.gov.cn', port=443): Failed to establ"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_f967a158ac3f",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -3996,13 +3992,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_05f1f10b143f",
     "name": "山西省发改委",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:34:37+00:00",
+    "checked_at": "2026-11-26T08:23:30+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -4041,8 +4037,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='fgw.shanxi.gov.cn', port=443): Max retries exceeded with url: /sxfgwzwgk/sxsfgwxxgk/xxgkml/zfxxgkxgwj/ (Caused by NewConnectionError(\"HTTPSConnection(host='fgw.shanxi.gov.cn'"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_05f1f10b143f",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -4072,14 +4068,14 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_09b66c7ebd13",
     "name": "内蒙古人民政府",
-    "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:38:37+00:00",
-    "found_count": 1,
+    "status": "blocked",
+    "checked_at": "2026-11-26T08:27:37+00:00",
+    "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
     "listing_rows_with_date": 0,
@@ -4093,11 +4089,11 @@
     "detail_retry_count": 0,
     "listing_coverage_complete": null,
     "coverage_complete": null,
-    "coverage_evidence": "备用发布机构补充发现；原站是否可用需单独验收",
+    "coverage_evidence": "国内不要求整段日期覆盖；区分已发现政策、目录解析和访问故障",
     "listing_parse_ok": false,
-    "fetch_success": true,
-    "policy_records_found": 1,
-    "full_text_records_found": 1,
+    "fetch_success": false,
+    "policy_records_found": 0,
+    "full_text_records_found": 0,
     "listing_warnings": [
       "动态分页/日期排序不完整"
     ],
@@ -4105,7 +4101,7 @@
     "first_failure_code": "http_403",
     "first_failure_http_status": 403,
     "date_coverage_required": false,
-    "message": "原站仍连接失败／无法解析；已从其他官方发布机构发现 1 条政策或待核验线索，不代表原机关成功恢复。",
+    "message": "官方返回 HTTP 403：访问被拒绝；需核查执行地及官方访问条件；提醒：动态分页/日期排序不完整",
     "attempts": [
       {
         "url": "https://www.nmg.gov.cn/zwgk/zfxxgk/zfxxgkml/?gk=3&cid=3696",
@@ -4117,15 +4113,15 @@
         "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.nmg.gov.cn/zwgk/zfxxgk/zfxxgkml/?gk=3&cid=3696"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_09b66c7ebd13",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
     "dom_samples_for_diagnosis": [],
     "source_kind": "政策法规",
     "official_recovery": {
-      "status": "recovered_official_evidence",
+      "status": "no_recovery_documents",
       "attempts": [
         {
           "url": "https://nyj.nmg.gov.cn/tzgg/",
@@ -4136,24 +4132,22 @@
           "evidence_level": "public_index_evidence"
         }
       ],
-      "recovered_documents": 1,
+      "recovered_documents": 0,
       "original_source_coverage_verified": false
     },
-    "original_site_status": "blocked",
-    "recovery_only": true,
     "phase": "rolling_30_days",
-    "initialized": true,
+    "initialized": false,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 0
+    "consecutive_failures": 1
   },
   {
     "id": "cn_c6f9b3f56fe8",
     "name": "内蒙古发改委",
-    "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:34:40+00:00",
-    "found_count": 1,
+    "status": "blocked",
+    "checked_at": "2026-11-26T08:23:31+00:00",
+    "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
     "listing_rows_with_date": 0,
@@ -4167,11 +4161,11 @@
     "detail_retry_count": 0,
     "listing_coverage_complete": null,
     "coverage_complete": null,
-    "coverage_evidence": "备用发布机构补充发现；原站是否可用需单独验收",
+    "coverage_evidence": "国内不要求整段日期覆盖；区分已发现政策、目录解析和访问故障",
     "listing_parse_ok": false,
-    "fetch_success": true,
-    "policy_records_found": 1,
-    "full_text_records_found": 1,
+    "fetch_success": false,
+    "policy_records_found": 0,
+    "full_text_records_found": 0,
     "listing_warnings": [
       "动态分页/日期排序不完整"
     ],
@@ -4179,7 +4173,7 @@
     "first_failure_code": "http_403",
     "first_failure_http_status": 403,
     "date_coverage_required": false,
-    "message": "原站仍连接失败／无法解析；已从其他官方发布机构发现 1 条政策或待核验线索，不代表原机关成功恢复。",
+    "message": "官方返回 HTTP 403：访问被拒绝；需核查执行地及官方访问条件；提醒：动态分页/日期排序不完整",
     "attempts": [
       {
         "url": "https://fgw.nmg.gov.cn/zfxxgk/fdzdgknr/bmwj/",
@@ -4191,15 +4185,15 @@
         "error": "HTTPError: 403 Client Error: Forbidden for url: https://fgw.nmg.gov.cn/zfxxgk/fdzdgknr/bmwj/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_c6f9b3f56fe8",
     "adapter_strategy": "iframe_listing",
     "adapter_live_verified": false,
     "dom_samples_for_diagnosis": [],
     "source_kind": "政策法规",
     "official_recovery": {
-      "status": "recovered_official_evidence",
+      "status": "no_recovery_documents",
       "attempts": [
         {
           "url": "https://nyj.nmg.gov.cn/tzgg/",
@@ -4210,23 +4204,21 @@
           "evidence_level": "public_index_evidence"
         }
       ],
-      "recovered_documents": 1,
+      "recovered_documents": 0,
       "original_source_coverage_verified": false
     },
-    "original_site_status": "blocked",
-    "recovery_only": true,
     "phase": "rolling_30_days",
-    "initialized": true,
+    "initialized": false,
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 0
+    "consecutive_failures": 1
   },
   {
     "id": "cn_eb58eb83050f",
     "name": "内蒙古自治区能源局｜政策举措及实施效果",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:34:03+00:00",
+    "checked_at": "2026-11-26T08:22:54+00:00",
     "found_count": 0,
     "candidate_links": 8,
     "candidate_dated_links": 8,
@@ -4260,8 +4252,8 @@
         "redirect": "https://nyj.nmg.gov.cn/slh/zfwj/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_eb58eb83050f",
     "adapter_strategy": "official_energy_category",
     "adapter_live_verified": false,
@@ -4351,7 +4343,7 @@
     "id": "cn_687800e62fca",
     "name": "辽宁省人民政府",
     "status": "needs_adapter",
-    "checked_at": "2026-11-25T08:38:40+00:00",
+    "checked_at": "2026-11-26T08:27:38+00:00",
     "found_count": 0,
     "candidate_links": 142,
     "candidate_dated_links": 0,
@@ -4408,8 +4400,8 @@
         "exhausted": false
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_687800e62fca",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -4517,13 +4509,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_c9be69562225",
     "name": "辽宁省发改委",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:34:43+00:00",
+    "checked_at": "2026-11-26T08:23:37+00:00",
     "found_count": 0,
     "candidate_links": 69,
     "candidate_dated_links": 69,
@@ -4566,8 +4558,8 @@
         "exhausted": false
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_c9be69562225",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -4693,7 +4685,7 @@
     "id": "cn_4b359756b91a",
     "name": "辽宁省工信厅",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:38:52+00:00",
+    "checked_at": "2026-11-26T08:27:39+00:00",
     "found_count": 0,
     "candidate_links": 34,
     "candidate_dated_links": 34,
@@ -4736,8 +4728,8 @@
         "exhausted": false
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_4b359756b91a",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -4836,7 +4828,7 @@
     "id": "cn_fcdd8a95a7df",
     "name": "吉林省人民政府",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:39:06+00:00",
+    "checked_at": "2026-11-26T08:27:55+00:00",
     "found_count": 0,
     "candidate_links": 10,
     "candidate_dated_links": 10,
@@ -4870,8 +4862,8 @@
         "redirect": "https://www.jl.gov.cn/zcxx/zfwj/wap.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_fcdd8a95a7df",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -4970,7 +4962,7 @@
     "id": "cn_3c9957b26c3c",
     "name": "吉林省发改委",
     "status": "needs_adapter",
-    "checked_at": "2026-11-25T08:34:55+00:00",
+    "checked_at": "2026-11-26T08:23:49+00:00",
     "found_count": 0,
     "candidate_links": 3,
     "candidate_dated_links": 0,
@@ -5006,8 +4998,8 @@
         "redirect": "https://xxgk.jl.gov.cn/zcbm/fgw/xxgkmlqy/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_3c9957b26c3c",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -5046,13 +5038,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_573ba3b6d161",
     "name": "吉林省工业和信息化厅｜省工信厅政策文件",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:39:06+00:00",
+    "checked_at": "2026-11-26T08:27:56+00:00",
     "found_count": 0,
     "candidate_links": 15,
     "candidate_dated_links": 15,
@@ -5086,8 +5078,8 @@
         "redirect": "https://gxt.jl.gov.cn/xxgk/zcwj_200601/sgxtwj/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_573ba3b6d161",
     "adapter_strategy": "official_provincial_industry_document",
     "adapter_live_verified": false,
@@ -5186,7 +5178,7 @@
     "id": "cn_d6be9d4b18a8",
     "name": "吉林省能源局｜通知公告及能源政策",
     "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:34:03+00:00",
+    "checked_at": "2026-11-26T08:22:54+00:00",
     "found_count": 1,
     "candidate_links": 31,
     "candidate_dated_links": 0,
@@ -5235,8 +5227,8 @@
         "redirect": "https://nyj.jl.gov.cn/zwgk/tzgg/202611/t20261104_3684323.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_d6be9d4b18a8",
     "adapter_strategy": "official_energy_notices",
     "adapter_live_verified": false,
@@ -5362,7 +5354,7 @@
     "id": "cn_d9b99a25cf12",
     "name": "黑龙江省人民政府",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:39:11+00:00",
+    "checked_at": "2026-11-26T08:27:58+00:00",
     "found_count": 0,
     "candidate_links": 18,
     "candidate_dated_links": 18,
@@ -5398,8 +5390,8 @@
         "redirect": "https://www.hlj.gov.cn/hlj/c108371/zfxxgk_search.shtml"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_d9b99a25cf12",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -5498,7 +5490,7 @@
     "id": "cn_be6b37d7a3a0",
     "name": "黑龙江省工业和信息化厅｜规范性文件",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:39:14+00:00",
+    "checked_at": "2026-11-26T08:28:00+00:00",
     "found_count": 0,
     "candidate_links": 13,
     "candidate_dated_links": 12,
@@ -5534,8 +5526,8 @@
         "redirect": "https://gxt.hlj.gov.cn/gxt/c106981/zfxxgk.shtml?tab=gfxwj"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_be6b37d7a3a0",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -5634,7 +5626,7 @@
     "id": "cn_e3337f219cd6",
     "name": "黑龙江发改委",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:35:00+00:00",
+    "checked_at": "2026-11-26T08:23:52+00:00",
     "found_count": 0,
     "candidate_links": 18,
     "candidate_dated_links": 18,
@@ -5668,8 +5660,8 @@
         "redirect": "https://drc.hlj.gov.cn/drc/c111444/common_zfxxgk.shtml?tab=gfxwj"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_e3337f219cd6",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -5768,7 +5760,7 @@
     "id": "cn_27e871c7b989",
     "name": "上海市人民政府",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:39:15+00:00",
+    "checked_at": "2026-11-26T08:28:00+00:00",
     "found_count": 0,
     "candidate_links": 45,
     "candidate_dated_links": 45,
@@ -5802,8 +5794,8 @@
         "redirect": "https://www.shanghai.gov.cn/nw42944/index.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_27e871c7b989",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -5902,7 +5894,7 @@
     "id": "cn_a70a2ad659af",
     "name": "上海市经信委",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:39:16+00:00",
+    "checked_at": "2026-11-26T08:28:00+00:00",
     "found_count": 0,
     "candidate_links": 58,
     "candidate_dated_links": 10,
@@ -5946,8 +5938,8 @@
         "exhausted": false
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_a70a2ad659af",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -6046,7 +6038,7 @@
     "id": "cn_c3d9397ca287",
     "name": "上海市发展改革委｜能源政策文件",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:35:03+00:00",
+    "checked_at": "2026-11-26T08:23:58+00:00",
     "found_count": 0,
     "candidate_links": 19,
     "candidate_dated_links": 19,
@@ -6080,8 +6072,8 @@
         "redirect": "https://fgw.sh.gov.cn/fgw_ny/index.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_c3d9397ca287",
     "adapter_strategy": "official_energy_category",
     "adapter_live_verified": false,
@@ -6189,7 +6181,7 @@
     "id": "cn_96f475fd98fa",
     "name": "江苏省人民政府｜省政府及办公厅文件",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:39:18+00:00",
+    "checked_at": "2026-11-26T08:28:01+00:00",
     "found_count": 0,
     "candidate_links": 25,
     "candidate_dated_links": 25,
@@ -6262,8 +6254,8 @@
         "redirect": "https://www.jiangsu.gov.cn/module/visitcount/visit.jsp?type=2&i_webid=1&i_columnid=76841"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_96f475fd98fa",
     "adapter_strategy": "official_index_with_iframe",
     "adapter_live_verified": false,
@@ -6389,7 +6381,7 @@
     "id": "cn_642f1102f38a",
     "name": "江苏省发展改革委｜法规规章规范性文件",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:35:05+00:00",
+    "checked_at": "2026-11-26T08:23:59+00:00",
     "found_count": 0,
     "candidate_links": 15,
     "candidate_dated_links": 15,
@@ -6431,8 +6423,8 @@
         "redirect": "https://fzggw.jiangsu.gov.cn/module/visitcount/visit.jsp?type=2&i_webid=3&i_columnid=59308"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_642f1102f38a",
     "adapter_strategy": "official_index_with_iframe",
     "adapter_live_verified": false,
@@ -6540,7 +6532,7 @@
     "id": "cn_c37e9b9f7acf",
     "name": "江苏省工业和信息化厅｜省厅政策文件",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:39:19+00:00",
+    "checked_at": "2026-11-26T08:28:03+00:00",
     "found_count": 0,
     "candidate_links": 25,
     "candidate_dated_links": 25,
@@ -6592,8 +6584,8 @@
         "redirect": "https://gxt.jiangsu.gov.cn/module/jslib/datepicker/My97DatePicker.htm"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_c37e9b9f7acf",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -6719,7 +6711,7 @@
     "id": "cn_826688a2babc",
     "name": "浙江省政府及部门文件",
     "status": "timeout",
-    "checked_at": "2026-11-25T08:39:30+00:00",
+    "checked_at": "2026-11-26T08:28:11+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6758,8 +6750,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='www.zj.gov.cn', port=443): Max retries exceeded with url: /col/col1228964496/index.html (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.zj.gov.cn', port=443): Read"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_826688a2babc",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -6770,13 +6762,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_bc2b5fe1372b",
     "name": "安徽省人民政府",
     "status": "blocked",
-    "checked_at": "2026-11-25T08:39:33+00:00",
+    "checked_at": "2026-11-26T08:28:12+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6815,8 +6807,8 @@
         "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.ah.gov.cn/site/tpl/2581"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_bc2b5fe1372b",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -6827,13 +6819,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_23a1b77623a0",
     "name": "安徽省发改委",
     "status": "blocked",
-    "checked_at": "2026-11-25T08:35:06+00:00",
+    "checked_at": "2026-11-26T08:24:00+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6872,8 +6864,8 @@
         "error": "HTTPError: 403 Client Error: Forbidden for url: https://fzggw.ah.gov.cn/public/column/7011?type=6&action=xinzheng"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_23a1b77623a0",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -6884,13 +6876,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_a5db7e800aa9",
     "name": "安徽省工信厅",
     "status": "blocked",
-    "checked_at": "2026-11-25T08:39:35+00:00",
+    "checked_at": "2026-11-26T08:28:17+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -6929,8 +6921,8 @@
         "error": "HTTPError: 403 Client Error: Forbidden for url: https://jx.ah.gov.cn/public/column/6991?type=6&action=xinzheng"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_a5db7e800aa9",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -6941,13 +6933,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_b2148d5e1247",
     "name": "福建省人民政府",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:39:37+00:00",
+    "checked_at": "2026-11-26T08:28:23+00:00",
     "found_count": 0,
     "candidate_links": 15,
     "candidate_dated_links": 15,
@@ -6991,8 +6983,8 @@
         "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded. Call log: - navigating to \"https://www.fujian.gov.cn/zwgk/zxwj/szfwj/\", waiting until \"domcontentloaded\""
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_b2148d5e1247",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -7091,7 +7083,7 @@
     "id": "cn_b85a8fe9fba8",
     "name": "福建省发改委",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:35:08+00:00",
+    "checked_at": "2026-11-26T08:24:01+00:00",
     "found_count": 0,
     "candidate_links": 74,
     "candidate_dated_links": 74,
@@ -7134,8 +7126,8 @@
         "exhausted": false
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_b85a8fe9fba8",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -7243,14 +7235,14 @@
     "id": "cn_18e109d08abf",
     "name": "福建省工业和信息化厅｜最新文件",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:39:38+00:00",
+    "checked_at": "2026-11-26T08:28:32+00:00",
     "found_count": 0,
-    "candidate_links": 76,
-    "candidate_dated_links": 76,
-    "listing_rows_with_date": 608,
-    "listing_rows_total": 608,
+    "candidate_links": 77,
+    "candidate_dated_links": 77,
+    "listing_rows_with_date": 616,
+    "listing_rows_total": 616,
     "listing_pages": 8,
-    "oldest_listing_date": "2026-06-22",
+    "oldest_listing_date": "2026-06-23",
     "explicit_end_of_list": false,
     "chronological_order_verified": false,
     "detail_errors": 0,
@@ -7286,12 +7278,30 @@
         "exhausted": false
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_18e109d08abf",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
     "dom_samples_for_diagnosis": [
+      {
+        "catalogue_url": "https://gxt.fujian.gov.cn/zwgk/zxwj/",
+        "title": "福建省工业和信息化厅等九部门关于印发福建省全链条支持生物医药产业高质量发展若干措施的通知",
+        "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gfxwj/202611/t20261126_7255276.htm",
+        "date": "2026-11-26",
+        "row_tag": "",
+        "row_class": "fujian_industry_documents",
+        "date_field_match": true
+      },
+      {
+        "catalogue_url": "https://gxt.fujian.gov.cn/zwgk/zxwj/",
+        "title": "福建省工业和信息化厅关于组织申报2027年省级人工智能优质行业垂直模型、采购算力服务补助项目的通知",
+        "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202611/t20261126_7255000.htm",
+        "date": "2026-11-24",
+        "row_tag": "",
+        "row_class": "fujian_industry_documents",
+        "date_field_match": true
+      },
       {
         "catalogue_url": "https://gxt.fujian.gov.cn/zwgk/zxwj/",
         "title": "福建省工业和信息化厅关于组织申报2026年工业节能降碳标准奖励的通知",
@@ -7381,24 +7391,6 @@
         "row_tag": "",
         "row_class": "fujian_industry_documents",
         "date_field_match": true
-      },
-      {
-        "catalogue_url": "https://gxt.fujian.gov.cn/zwgk/zxwj/",
-        "title": "福建省工业和信息化厅 福建省发展和改革委员会 福建省通信管理局关于组织开展2026年度国家绿色算力设施推荐工作的通知",
-        "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202611/t20261102_7243332.htm",
-        "date": "2026-11-02",
-        "row_tag": "",
-        "row_class": "fujian_industry_documents",
-        "date_field_match": true
-      },
-      {
-        "catalogue_url": "https://gxt.fujian.gov.cn/zwgk/zxwj/",
-        "title": "福建省工业和信息化厅关于公布2026年第三批省工业重点节能改造和通用设备更新提标项目的通知",
-        "url": "https://gxt.fujian.gov.cn/zwgk/zfxxgk/fdzdgknr/gzdt/202610/t20261029_7241993.htm",
-        "date": "2026-10-29",
-        "row_tag": "",
-        "row_class": "fujian_industry_documents",
-        "date_field_match": true
       }
     ],
     "source_kind": "政策法规",
@@ -7413,7 +7405,7 @@
     "id": "cn_8d7abc70b68b",
     "name": "江西省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:39:42+00:00",
+    "checked_at": "2026-11-26T08:28:33+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -7452,8 +7444,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='www.jiangxi.gov.cn', port=443): Max retries exceeded with url: /jxsrmzf/szfwj/pc/list.html (Caused by NewConnectionError(\"HTTPSConnection(host='www.jiangxi.gov.cn', port=443)"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_8d7abc70b68b",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -7477,13 +7469,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_257f0497a96d",
     "name": "江西省发改委",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:35:08+00:00",
+    "checked_at": "2026-11-26T08:24:02+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -7522,8 +7514,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='drc.jiangxi.gov.cn', port=443): Max retries exceeded with url: /jxsfzhggwyh/col/col4990/index.html (Caused by NewConnectionError(\"HTTPSConnection(host='drc.jiangxi.gov.cn', p"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_257f0497a96d",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -7553,13 +7545,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_d05bd105b38d",
     "name": "江西省工信厅",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:39:50+00:00",
+    "checked_at": "2026-11-26T08:28:34+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -7598,8 +7590,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='gxt.jiangxi.gov.cn', port=443): Max retries exceeded with url: /jxsgyhxxht/zcwj/index.html (Caused by NewConnectionError(\"HTTPSConnection(host='gxt.jiangxi.gov.cn', port=443)"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_d05bd105b38d",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -7623,13 +7615,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_fdb9ab86c4a9",
     "name": "山东省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:40:00+00:00",
+    "checked_at": "2026-11-26T08:28:51+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -7678,8 +7670,8 @@
         "error": "SSLError: HTTPSConnectionPool(host='www.shandong.gov.cn', port=443): Max retries exceeded with url: /col/col320658/index.html (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert "
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_fdb9ab86c4a9",
     "adapter_strategy": "shandong_official_normative_policy_index",
     "adapter_live_verified": false,
@@ -7690,13 +7682,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_ec953fefe292",
     "name": "山东省发改委",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:35:20+00:00",
+    "checked_at": "2026-11-26T08:24:11+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -7735,8 +7727,8 @@
         "error": "ConnectionError: HTTPConnectionPool(host='fgw.shandong.gov.cn', port=80): Max retries exceeded with url: /col/col333896/index.html (Caused by NewConnectionError(\"HTTPConnection(host='fgw.shandong.gov.cn', port=80): Fa"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_ec953fefe292",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -7770,13 +7762,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_64d94992d798",
     "name": "山东省工信厅",
     "status": "needs_adapter",
-    "checked_at": "2026-11-25T08:40:06+00:00",
+    "checked_at": "2026-11-26T08:28:52+00:00",
     "found_count": 0,
     "candidate_links": 1,
     "candidate_dated_links": 0,
@@ -7812,8 +7804,8 @@
         "redirect": "http://gxt.shandong.gov.cn/col/col103862/index.html?number=SD020203"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_64d94992d798",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -7834,13 +7826,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_124239bfeb82",
     "name": "国家能源局山东监管办公室（官方替代）",
     "status": "needs_adapter",
-    "checked_at": "2026-11-25T08:34:04+00:00",
+    "checked_at": "2026-11-26T08:22:55+00:00",
     "found_count": 0,
     "candidate_links": 15,
     "candidate_dated_links": 0,
@@ -7936,8 +7928,8 @@
         "redirect": "https://sdb.nea.gov.cn/dtyw/tzgg/202606/P020260608604571068207.pdf"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_124239bfeb82",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -8030,13 +8022,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   {
     "id": "cn_c38c37a7f95a",
     "name": "河南省人民政府",
     "status": "blocked",
-    "checked_at": "2026-11-25T08:40:07+00:00",
+    "checked_at": "2026-11-26T08:28:52+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -8084,8 +8076,8 @@
         "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.henan.gov.cn/zwgk/fgwj/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_c38c37a7f95a",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -8096,13 +8088,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_ca01ba1d0ac7",
     "name": "河南省发改委",
     "status": "blocked",
-    "checked_at": "2026-11-25T08:35:32+00:00",
+    "checked_at": "2026-11-26T08:24:22+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -8141,8 +8133,8 @@
         "error": "HTTPError: 403 Client Error: Forbidden for url: https://fgw.henan.gov.cn/zwgk/wfgw/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_ca01ba1d0ac7",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -8153,13 +8145,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_d503c07b0951",
     "name": "河南省工信厅",
     "status": "blocked",
-    "checked_at": "2026-11-25T08:40:08+00:00",
+    "checked_at": "2026-11-26T08:28:53+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -8198,8 +8190,8 @@
         "error": "HTTPError: 403 Client Error: Forbidden for url: https://gxt.henan.gov.cn/xxgk/wjjb/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_d503c07b0951",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -8210,13 +8202,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_6677a056500c",
     "name": "湖北省人民政府",
     "status": "blocked",
-    "checked_at": "2026-11-25T08:40:09+00:00",
+    "checked_at": "2026-11-26T08:28:54+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -8255,8 +8247,8 @@
         "error": "HTTPError: 412 Client Error: Precondition Failed for url: https://www.hubei.gov.cn/zfwj/govfile.shtml"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_6677a056500c",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -8267,13 +8259,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_68fbb3ebe6ee",
     "name": "湖北省发改委",
     "status": "blocked",
-    "checked_at": "2026-11-25T08:35:32+00:00",
+    "checked_at": "2026-11-26T08:24:23+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -8312,8 +8304,8 @@
         "error": "HTTPError: 412 Client Error: Precondition Failed for url: https://fgw.hubei.gov.cn/fbjd/zc/gfwj/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_68fbb3ebe6ee",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -8324,13 +8316,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_7953653226d0",
     "name": "湖北省经信厅",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:40:09+00:00",
+    "checked_at": "2026-11-26T08:28:54+00:00",
     "found_count": 0,
     "candidate_links": 20,
     "candidate_dated_links": 20,
@@ -8364,12 +8356,21 @@
         "redirect": "https://jxt.hubei.gov.cn/fbjd/zc/qtzdgkwj/gwfb/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_7953653226d0",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
     "dom_samples_for_diagnosis": [
+      {
+        "catalogue_url": "https://jxt.hubei.gov.cn/fbjd/zc/qtzdgkwj/gwfb/",
+        "title": "省经信厅办公室关于公布湖北省第九批创新型中小企业和第三批复核通过的创...",
+        "url": "http://jxt.hubei.gov.cn/fbjd/zc/qtzdgkwj/gwfb/202611/t20261125_6134750.shtml",
+        "date": "2026-11-25",
+        "row_tag": "li",
+        "row_class": "",
+        "date_field_match": false
+      },
       {
         "catalogue_url": "https://jxt.hubei.gov.cn/fbjd/zc/qtzdgkwj/gwfb/",
         "title": "省经信厅办公室关于开展湖北省第九批专精特新中小企业认定的通知",
@@ -8441,15 +8442,6 @@
         "row_tag": "li",
         "row_class": "",
         "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://jxt.hubei.gov.cn/fbjd/zc/qtzdgkwj/gwfb/",
-        "title": "省经信厅办公室关于组织申报2026年“人工智能+制造”服务商的通知",
-        "url": "http://jxt.hubei.gov.cn/fbjd/zc/qtzdgkwj/gwfb/202608/t20260824_5999407.shtml",
-        "date": "2026-08-17",
-        "row_tag": "li",
-        "row_class": "",
-        "date_field_match": false
       }
     ],
     "source_kind": "政策法规",
@@ -8464,7 +8456,7 @@
     "id": "cn_3fb2a96af337",
     "name": "湖南省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:40:09+00:00",
+    "checked_at": "2026-11-26T08:28:56+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -8503,8 +8495,8 @@
         "error": "SSLError: HTTPSConnectionPool(host='www.hunan.gov.cn', port=443): Max retries exceeded with url: /hnszf/xxgk/wjk/szfwj/wjk_glrb.html (Caused by SSLError(SSLError(1, '[SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1018)"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_3fb2a96af337",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -8534,13 +8526,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_13b15007a2b0",
     "name": "湖南省工信厅",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:40:10+00:00",
+    "checked_at": "2026-11-26T08:28:56+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -8579,8 +8571,8 @@
         "error": "SSLError: HTTPSConnectionPool(host='www.hunan.gov.cn', port=443): Max retries exceeded with url: /hnszf/xxgk/wjk/szbm/szfzcbm_19689/sjjhxxhwyh_19708/gfxwj_19709/index.html (Caused by SSLError(SSLError(1, '[SSL:"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_13b15007a2b0",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -8610,13 +8602,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_64dc11b10278",
     "name": "湖南省发改委",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:35:33+00:00",
+    "checked_at": "2026-11-26T08:24:24+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -8655,8 +8647,8 @@
         "error": "SSLError: HTTPSConnectionPool(host='www.hunan.gov.cn', port=443): Max retries exceeded with url: /hnszf/xxgk/wjk/szbm/szfzcbm_19689/sfzhggwyh_19690/gfxwj_19691/index.html (Caused by SSLError(SSLError(1, '[SSL: "
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_64dc11b10278",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -8686,13 +8678,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_a05a053fbf35",
     "name": "广东省人民政府",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:40:11+00:00",
+    "checked_at": "2026-11-26T08:28:57+00:00",
     "found_count": 0,
     "candidate_links": 40,
     "candidate_dated_links": 40,
@@ -8732,8 +8724,8 @@
         "redirect": "https://www.gd.gov.cn/zwgk/wjk/qbwj/index_2.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_a05a053fbf35",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -8859,7 +8851,7 @@
     "id": "cn_35210b5ce137",
     "name": "广东省发改委",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:35:37+00:00",
+    "checked_at": "2026-11-26T08:24:34+00:00",
     "found_count": 0,
     "candidate_links": 40,
     "candidate_dated_links": 40,
@@ -8901,8 +8893,8 @@
         "redirect": "https://drc.gd.gov.cn/qtwj/index_2.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_35210b5ce137",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -9028,7 +9020,7 @@
     "id": "cn_e290654fb72d",
     "name": "广东省工信厅",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:40:12+00:00",
+    "checked_at": "2026-11-26T08:29:02+00:00",
     "found_count": 0,
     "candidate_links": 40,
     "candidate_dated_links": 40,
@@ -9070,8 +9062,8 @@
         "redirect": "https://gdii.gd.gov.cn/zwgk/tzgg1011/index_2.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_e290654fb72d",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -9197,7 +9189,7 @@
     "id": "cn_7239ba11c55b",
     "name": "广东省能源局",
     "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:34:12+00:00",
+    "checked_at": "2026-11-26T08:23:04+00:00",
     "found_count": 1,
     "candidate_links": 40,
     "candidate_dated_links": 40,
@@ -9243,8 +9235,8 @@
         "redirect": "https://drc.gd.gov.cn/snyj/tzgg/content/post_4979147.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_7239ba11c55b",
     "adapter_strategy": "guangdong_energy_dated_notice_catalogue",
     "adapter_live_verified": false,
@@ -9370,7 +9362,7 @@
     "id": "cn_79acd9237aeb",
     "name": "广西壮族自治区人民政府｜最新文件",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:40:13+00:00",
+    "checked_at": "2026-11-26T08:29:03+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -9409,8 +9401,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='www.gxzf.gov.cn', port=443): Max retries exceeded with url: /zfwj/zxwj/index.shtml (Caused by NewConnectionError(\"HTTPSConnection(host='www.gxzf.gov.cn', port=443): Failed to"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_79acd9237aeb",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -9434,13 +9426,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_55a439b16478",
     "name": "广西省工信厅",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:40:13+00:00",
+    "checked_at": "2026-11-26T08:29:04+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -9479,8 +9471,8 @@
         "error": "ConnectionError: HTTPConnectionPool(host='gxt.gxzf.gov.cn', port=80): Max retries exceeded with url: /xxgk/fgzc/ (Caused by NewConnectionError(\"HTTPConnection(host='gxt.gxzf.gov.cn', port=80): Failed to establish a ne"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_55a439b16478",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -9510,13 +9502,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_d8311f7de6e6",
     "name": "广西省发改委",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:35:39+00:00",
+    "checked_at": "2026-11-26T08:24:36+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -9555,8 +9547,8 @@
         "error": "ConnectionError: HTTPConnectionPool(host='fgw.gxzf.gov.cn', port=80): Max retries exceeded with url: /zfxxgkzl/wjzx/zyzc/ (Caused by NewConnectionError(\"HTTPConnection(host='fgw.gxzf.gov.cn', port=80): Failed to estab"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_d8311f7de6e6",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -9586,13 +9578,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_9cee9310b605",
     "name": "海南省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:40:15+00:00",
+    "checked_at": "2026-11-26T08:29:05+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -9631,8 +9623,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='www.hainan.gov.cn', port=443): Max retries exceeded with url: /hainan/zfwj/szfzcwj.shtml?ddtab=true (Caused by NewConnectionError(\"HTTPSConnection(host='www.hainan.gov.cn', p"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_9cee9310b605",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -9662,13 +9654,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_ef2bc5e95df5",
     "name": "海南省工信厅",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:40:16+00:00",
+    "checked_at": "2026-11-26T08:29:07+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -9707,8 +9699,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='iitb.hainan.gov.cn', port=443): Max retries exceeded with url: /iitb/bmwjjj/list3.shtml?ddtab=true (Caused by NewConnectionError(\"HTTPSConnection(host='iitb.hainan.gov.cn', p"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_ef2bc5e95df5",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -9738,13 +9730,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_cf5880769bc6",
     "name": "海南省发改委",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:35:54+00:00",
+    "checked_at": "2026-11-26T08:24:43+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -9783,8 +9775,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='plan.hainan.gov.cn', port=443): Max retries exceeded with url: /sfgw/0503/list3.shtml?ddtab=true (Caused by NewConnectionError(\"HTTPSConnection(host='plan.hainan.gov.cn', por"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_cf5880769bc6",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -9814,13 +9806,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_67c4991ac3e9",
     "name": "重庆市人民政府",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:40:32+00:00",
+    "checked_at": "2026-11-26T08:29:22+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -9859,8 +9851,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='www.cq.gov.cn', port=443): Max retries exceeded with url: /zwgk/zfxxgkml/szfwj/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.cq.gov.cn', port=443): Failed to esta"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_67c4991ac3e9",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -9884,13 +9876,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_dc94216cbc6d",
     "name": "重庆市发改委",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:36:03+00:00",
+    "checked_at": "2026-11-26T08:24:59+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -9929,8 +9921,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='fzggw.cq.gov.cn', port=443): Max retries exceeded with url: /zwgk/zfxxgkml/zcwj/ (Caused by NewConnectionError(\"HTTPSConnection(host='fzggw.cq.gov.cn', port=443): Failed to e"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_dc94216cbc6d",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -9960,13 +9952,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_43f3081a512a",
     "name": "重庆市经信委",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:40:50+00:00",
+    "checked_at": "2026-11-26T08:29:39+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -10005,8 +9997,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='jjxxw.cq.gov.cn', port=443): Max retries exceeded with url: /zwgk_213/zcwj/qtwj/ (Caused by NewConnectionError(\"HTTPSConnection(host='jjxxw.cq.gov.cn', port=443): Failed to e"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_43f3081a512a",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -10036,13 +10028,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_1abbceed2047",
     "name": "四川省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:40:52+00:00",
+    "checked_at": "2026-11-26T08:29:42+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -10081,8 +10073,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='www.sc.gov.cn', port=443): Max retries exceeded with url: /10462/c103041/newzfwj.shtml?channelid=9c2314405df140af83649dff8f30055b (Caused by NewConnectionError(\"HTTPSConnecti"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_1abbceed2047",
     "adapter_strategy": "cms_column",
     "adapter_live_verified": false,
@@ -10112,13 +10104,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_b922a2143a80",
     "name": "四川省发改委",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:36:31+00:00",
+    "checked_at": "2026-11-26T08:25:29+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -10157,8 +10149,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='fgw.sc.gov.cn', port=443): Max retries exceeded with url: /sfgw/zcwj/olist.shtml (Caused by NewConnectionError(\"HTTPSConnection(host='fgw.sc.gov.cn', port=443): Failed to est"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_b922a2143a80",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -10188,13 +10180,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_3973d84e5084",
     "name": "四川省经信厅",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:40:52+00:00",
+    "checked_at": "2026-11-26T08:29:42+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -10233,8 +10225,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='jxt.sc.gov.cn', port=443): Max retries exceeded with url: /scjxt/xzgfxwj/zcgfxwj_list.shtml (Caused by NewConnectionError(\"HTTPSConnection(host='jxt.sc.gov.cn', port=443): Fa"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_3973d84e5084",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -10264,13 +10256,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_2f5ca615b97d",
     "name": "贵州省人民政府",
     "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:41:08+00:00",
+    "checked_at": "2026-11-26T08:29:58+00:00",
     "found_count": 1,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -10309,8 +10301,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='www.guizhou.gov.cn', port=443): Max retries exceeded with url: /zwgk/zcfg/szfwj/qff/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.guizhou.gov.cn', port=443): Fail"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_2f5ca615b97d",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -10344,7 +10336,7 @@
     "id": "cn_8f9dbeeebd54",
     "name": "贵州省工信厅",
     "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:41:26+00:00",
+    "checked_at": "2026-11-26T08:30:17+00:00",
     "found_count": 1,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -10383,8 +10375,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='gxt.guizhou.gov.cn', port=443): Max retries exceeded with url: /zwgk/xxgkml/zcwj/gfxwj/ (Caused by NewConnectionError(\"HTTPSConnection(host='gxt.guizhou.gov.cn', port=443): F"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_8f9dbeeebd54",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -10418,7 +10410,7 @@
     "id": "cn_8a2870d6b4f1",
     "name": "贵州省发改委",
     "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:36:51+00:00",
+    "checked_at": "2026-11-26T08:25:38+00:00",
     "found_count": 1,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -10457,8 +10449,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='fgw.guizhou.gov.cn', port=443): Max retries exceeded with url: /zwgk/xxgkml/zcfg/zcwj/ (Caused by NewConnectionError(\"HTTPSConnection(host='fgw.guizhou.gov.cn', port=443): Fa"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_8a2870d6b4f1",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -10492,7 +10484,7 @@
     "id": "cn_61f329f622c8",
     "name": "贵州省能源局",
     "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:34:14+00:00",
+    "checked_at": "2026-11-26T08:23:06+00:00",
     "found_count": 1,
     "candidate_links": 15,
     "candidate_dated_links": 15,
@@ -10538,8 +10530,8 @@
         "redirect": "https://nyj.guizhou.gov.cn/zwgk/xxgkml/zcwj_2/jnwj/ptwj_2/202611/P020261105566023407957.pdf"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_61f329f622c8",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -10647,7 +10639,7 @@
     "id": "cn_ec89e3d97259",
     "name": "云南省人民政府",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:41:26+00:00",
+    "checked_at": "2026-11-26T08:30:17+00:00",
     "found_count": 0,
     "candidate_links": 12,
     "candidate_dated_links": 12,
@@ -10681,8 +10673,8 @@
         "redirect": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/index.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_ec89e3d97259",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -10700,7 +10692,7 @@
         "catalogue_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/index.html",
         "title": "云南省人民政府办公厅关于印发《云南省残疾人保障和发展“十五五”规划》的通知",
         "url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/202611/t20261120_4386207.html",
-        "date": "2026-11-20",
+        "date": "2026-11-23",
         "row_tag": "tr",
         "row_class": "",
         "date_field_match": false
@@ -10781,7 +10773,7 @@
     "id": "cn_44bc1881857e",
     "name": "云南省发改委",
     "status": "http_error",
-    "checked_at": "2026-11-25T08:36:53+00:00",
+    "checked_at": "2026-11-26T08:25:59+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -10829,8 +10821,8 @@
         "error": "HTTPError: 404 Client Error: Not Found for url: https://yndrc.yn.gov.cn/html/zhengwugongkai/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_44bc1881857e",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -10864,13 +10856,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_f4e44b3462eb",
     "name": "云南省工信厅｜政策文件",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:41:28+00:00",
+    "checked_at": "2026-11-26T08:30:18+00:00",
     "found_count": 0,
     "candidate_links": 20,
     "candidate_dated_links": 20,
@@ -10904,8 +10896,8 @@
         "redirect": "https://gxt.yn.gov.cn/zfxxgk/zcwj/qtlxwj/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_f4e44b3462eb",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -11004,7 +10996,7 @@
     "id": "cn_7beeafa4d326",
     "name": "西藏人民政府",
     "status": "needs_adapter",
-    "checked_at": "2026-11-25T08:41:28+00:00",
+    "checked_at": "2026-11-26T08:30:18+00:00",
     "found_count": 0,
     "candidate_links": 12,
     "candidate_dated_links": 0,
@@ -11040,8 +11032,8 @@
         "redirect": "https://www.xizang.gov.cn/zwgk/zfxxgk/fdzdgknr/zc/xzgfxwj/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_7beeafa4d326",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -11161,13 +11153,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_17594557097c",
     "name": "西藏经信厅",
     "status": "timeout",
-    "checked_at": "2026-11-25T08:41:28+00:00",
+    "checked_at": "2026-11-26T08:30:19+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -11206,8 +11198,8 @@
         "error": "ConnectionError: HTTPConnectionPool(host='jxt.xizang.gov.cn', port=80): Max retries exceeded with url: /xzweb/xzgovlist/63 (Caused by ReadTimeoutError(\"HTTPConnectionPool(host='jxt.xizang.gov.cn', port=80): Read timed"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_17594557097c",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -11218,13 +11210,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_3a9624d397b1",
     "name": "西藏发改委",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:37:00+00:00",
+    "checked_at": "2026-11-26T08:25:59+00:00",
     "found_count": 0,
     "candidate_links": 10,
     "candidate_dated_links": 10,
@@ -11260,8 +11252,8 @@
         "redirect": "https://drc.xizang.gov.cn/zwgk_1941/xzgfxwj/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_3a9624d397b1",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -11369,7 +11361,7 @@
     "id": "cn_969ad9ff831b",
     "name": "陕西省人民政府",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:41:29+00:00",
+    "checked_at": "2026-11-26T08:30:22+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -11408,8 +11400,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='www.shaanxi.gov.cn', port=443): Max retries exceeded with url: /zfxxgk/fdzdgknr/zcwj/nszfwj/szf/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.shaanxi.gov.cn', por"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_969ad9ff831b",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -11439,13 +11431,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_42ed5bf25d5d",
     "name": "陕西省发改委",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:37:05+00:00",
+    "checked_at": "2026-11-26T08:26:01+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -11502,8 +11494,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='sndrc.shaanxi.gov.cn', port=443): Max retries exceeded with url: /zfxxgk/zc/fgwj/sfzggwwj/2025/index.html (Caused by NewConnectionError(\"HTTPSConnection(host='sndrc.shaanxi.g"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_42ed5bf25d5d",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -11533,13 +11525,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_878d16ddc7e6",
     "name": "陕西省工信厅",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:41:34+00:00",
+    "checked_at": "2026-11-26T08:30:24+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -11578,8 +11570,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='gxt.shaanxi.gov.cn', port=443): Max retries exceeded with url: /xxgk/gfxwj/ (Caused by NewConnectionError(\"HTTPSConnection(host='gxt.shaanxi.gov.cn', port=443): Failed to est"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_878d16ddc7e6",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -11609,13 +11601,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_6088d4f495dd",
     "name": "甘肃省人民政府",
     "status": "blocked",
-    "checked_at": "2026-11-25T08:41:45+00:00",
+    "checked_at": "2026-11-26T08:30:36+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -11654,8 +11646,8 @@
         "error": "HTTPError: 412 Client Error: Precondition Failed for url: https://www.gansu.gov.cn/gsszf/c100055/xxgk_zc.shtml"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_6088d4f495dd",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -11666,13 +11658,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_98fa85780368",
     "name": "甘肃省发改委",
     "status": "blocked",
-    "checked_at": "2026-11-25T08:37:12+00:00",
+    "checked_at": "2026-11-26T08:26:02+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -11711,8 +11703,8 @@
         "error": "HTTPError: 412 Client Error: Precondition Failed for url: https://fzgg.gansu.gov.cn/fzgg/tzgg/list.shtml"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_98fa85780368",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -11723,13 +11715,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_884a06211f11",
     "name": "甘肃省工信厅",
     "status": "blocked",
-    "checked_at": "2026-11-25T08:41:50+00:00",
+    "checked_at": "2026-11-26T08:30:38+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -11768,8 +11760,8 @@
         "error": "HTTPError: 412 Client Error: Precondition Failed for url: https://gxt.gansu.gov.cn/gxt/c107558/xxgk_infolist.shtml"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_884a06211f11",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -11780,13 +11772,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_5cc7c12757b9",
     "name": "青海省人民政府",
     "status": "blocked",
-    "checked_at": "2026-11-25T08:42:03+00:00",
+    "checked_at": "2026-11-26T08:30:51+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -11825,8 +11817,8 @@
         "error": "HTTPError: 412 Client Error: Precondition Failed for url: http://www.qinghai.gov.cn/xxgk/1/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_5cc7c12757b9",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -11837,13 +11829,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 12
+    "consecutive_failures": 13
   },
   {
     "id": "cn_2988b09ee88b",
     "name": "青海省发改委",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:37:13+00:00",
+    "checked_at": "2026-11-26T08:26:03+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -11882,8 +11874,8 @@
         "error": "ConnectionError: HTTPConnectionPool(host='fgw.qinghai.gov.cn', port=80): Max retries exceeded with url: /zfxxgk/sdzdgknr/fgwwj/ (Caused by NewConnectionError(\"HTTPConnection(host='fgw.qinghai.gov.cn', port=80): Failed"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_2988b09ee88b",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -11915,13 +11907,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_b8b647e382c3",
     "name": "青海省工信厅",
     "status": "connection_error",
-    "checked_at": "2026-11-25T08:42:04+00:00",
+    "checked_at": "2026-11-26T08:30:52+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -11960,8 +11952,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='gxt.qinghai.gov.cn', port=443): Max retries exceeded with url: /gongxintingwenjian.html (Caused by NewConnectionError(\"HTTPSConnection(host='gxt.qinghai.gov.cn', port=443): F"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_b8b647e382c3",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -11993,13 +11985,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_7c77b32d80d0",
     "name": "宁夏人民政府",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:42:05+00:00",
+    "checked_at": "2026-11-26T08:30:57+00:00",
     "found_count": 0,
     "candidate_links": 20,
     "candidate_dated_links": 20,
@@ -12033,8 +12025,8 @@
         "redirect": "https://www.nx.gov.cn/zwgk/qzfwj/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_7c77b32d80d0",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -12133,7 +12125,7 @@
     "id": "cn_354fb314969b",
     "name": "宁夏工信厅",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:42:05+00:00",
+    "checked_at": "2026-11-26T08:30:58+00:00",
     "found_count": 0,
     "candidate_links": 20,
     "candidate_dated_links": 20,
@@ -12167,8 +12159,8 @@
         "redirect": "https://gxt.nx.gov.cn/zwgk/fdzdgknr/zcfg/gxtwj/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_354fb314969b",
     "adapter_strategy": "regulatory_list",
     "adapter_live_verified": false,
@@ -12294,7 +12286,7 @@
     "id": "cn_44abb54d7339",
     "name": "宁夏发改委",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:37:25+00:00",
+    "checked_at": "2026-11-26T08:26:25+00:00",
     "found_count": 0,
     "candidate_links": 19,
     "candidate_dated_links": 19,
@@ -12328,8 +12320,8 @@
         "redirect": "https://fzggw.nx.gov.cn/zcgh/fgwwj/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_44abb54d7339",
     "adapter_strategy": "institution_publications",
     "adapter_live_verified": false,
@@ -12455,7 +12447,7 @@
     "id": "cn_cbab808cd2a0",
     "name": "新疆人民政府",
     "status": "needs_adapter",
-    "checked_at": "2026-11-25T08:42:05+00:00",
+    "checked_at": "2026-11-26T08:30:58+00:00",
     "found_count": 0,
     "candidate_links": 3,
     "candidate_dated_links": 0,
@@ -12491,8 +12483,8 @@
         "redirect": "https://www.xinjiang.gov.cn/xinjiang/gfxwj1/zfxxgk_zc_gfxwj.shtml"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_cbab808cd2a0",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -12531,13 +12523,13 @@
     "bootstrap_started_on": "2026-10-14",
     "bootstrap_window_start": "2026-09-15",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_f772ee3b1cc5",
     "name": "新疆工信厅",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:42:08+00:00",
+    "checked_at": "2026-11-26T08:31:01+00:00",
     "found_count": 0,
     "candidate_links": 14,
     "candidate_dated_links": 14,
@@ -12571,8 +12563,8 @@
         "redirect": "https://gxt.xinjiang.gov.cn/gxt/gfxwj/zfxxgk_gknrz.shtml"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_f772ee3b1cc5",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -12671,14 +12663,14 @@
     "id": "cn_e4c52c960d02",
     "name": "新疆发改委",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:37:28+00:00",
+    "checked_at": "2026-11-26T08:26:28+00:00",
     "found_count": 0,
     "candidate_links": 15,
     "candidate_dated_links": 15,
     "listing_rows_with_date": 15,
     "listing_rows_total": 15,
     "listing_pages": 1,
-    "oldest_listing_date": "2024-06-15",
+    "oldest_listing_date": "2024-06-01",
     "explicit_end_of_list": false,
     "chronological_order_verified": true,
     "detail_errors": 0,
@@ -12705,8 +12697,8 @@
         "redirect": "https://xjdrc.xinjiang.gov.cn/xjfgw/c108358/zfxxgk_gknrz.shtml"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_e4c52c960d02",
     "adapter_strategy": "information_disclosure",
     "adapter_live_verified": false,
@@ -12734,15 +12726,6 @@
         "title": "自治区发展改革委关于废止部分行政规范性文件的通知",
         "url": "https://xjdrc.xinjiang.gov.cn/xjfgw/c108361/202610/3fb18f5e3b8647ec848fbe87728e65e9.shtml",
         "date": "2026-10-13",
-        "row_tag": "dd",
-        "row_class": "",
-        "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://xjdrc.xinjiang.gov.cn/xjfgw/c108358/zfxxgk_gknrz.shtml",
-        "title": "自治区发展改革委关于印发《新疆维吾尔自治区发展改革委重大固定资产投资项目社会稳定风险评估办法》的通知",
-        "url": "https://xjdrc.xinjiang.gov.cn/xjfgw/c108361/202601/9dc7f2cf9f584baca4863130c492a421.shtml",
-        "date": "2026-01-08",
         "row_tag": "dd",
         "row_class": "",
         "date_field_match": false
@@ -12788,6 +12771,15 @@
         "title": "关于印发《新疆维吾尔自治区电力企业安全生产分级分类管理办法》的通知",
         "url": "https://xjdrc.xinjiang.gov.cn/xjfgw/c108361/202509/93e2b8929a2441d0a0724d3cee395ea6.shtml",
         "date": "2025-06-16",
+        "row_tag": "dd",
+        "row_class": "",
+        "date_field_match": false
+      },
+      {
+        "catalogue_url": "https://xjdrc.xinjiang.gov.cn/xjfgw/c108358/zfxxgk_gknrz.shtml",
+        "title": "自治区发展改革委关于印发《自治区城镇管道燃气配气定价成本监审办法》的通知",
+        "url": "https://xjdrc.xinjiang.gov.cn/xjfgw/c108361/202502/6982dda1868e4db1ac0cc8405e617ae7.shtml",
+        "date": "2025-01-27",
         "row_tag": "dd",
         "row_class": "",
         "date_field_match": false
@@ -13056,7 +13048,7 @@
     "id": "cn_c2e6bff0ffc3",
     "name": "国家能源局｜最新文件",
     "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:34:15+00:00",
+    "checked_at": "2026-11-26T08:23:06+00:00",
     "found_count": 1,
     "candidate_links": 30,
     "candidate_dated_links": 30,
@@ -13102,8 +13094,8 @@
         "redirect": "https://www.nea.gov.cn/20261113/bb7e8be257fb43048ca17184be6cb27f/c.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_c2e6bff0ffc3",
     "adapter_strategy": "nea_official_policy_secondary_directory",
     "adapter_live_verified": false,
@@ -13229,7 +13221,7 @@
     "id": "cn_09b62684b798",
     "name": "国家发展改革委｜文件库",
     "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:37:30+00:00",
+    "checked_at": "2026-11-26T08:26:31+00:00",
     "found_count": 1,
     "candidate_links": 398,
     "candidate_dated_links": 398,
@@ -13287,8 +13279,8 @@
         "redirect": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202611/t20261113_1408810.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_09b62684b798",
     "adapter_strategy": "ndrc_four_static_policy_publication_channels",
     "adapter_live_verified": false,
@@ -13402,7 +13394,7 @@
     "id": "cn_1900232416b3",
     "name": "国家能源局电力可靠性管理和工程质量监督中心｜政策法规",
     "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:34:15+00:00",
+    "checked_at": "2026-11-26T08:23:07+00:00",
     "found_count": 1,
     "candidate_links": 30,
     "candidate_dated_links": 30,
@@ -13448,8 +13440,8 @@
         "redirect": "https://www.nea.gov.cn/20261113/bb7e8be257fb43048ca17184be6cb27f/c.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_1900232416b3",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -13575,7 +13567,7 @@
     "id": "cn_c89dbe504b64",
     "name": "浙江省发改委/能源局｜本机关其他政策文件",
     "status": "timeout",
-    "checked_at": "2026-11-25T08:34:18+00:00",
+    "checked_at": "2026-11-26T08:23:10+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -13614,8 +13606,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='fzggw.zj.gov.cn', port=443): Max retries exceeded with url: /col/col1599556/ (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='fzggw.zj.gov.cn', port=443): Read timed ou"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_c89dbe504b64",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -13626,13 +13618,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_271bc860137c",
     "name": "浙江省发改委/能源局｜通知公告",
     "status": "timeout",
-    "checked_at": "2026-11-25T08:34:18+00:00",
+    "checked_at": "2026-11-26T08:23:12+00:00",
     "found_count": 0,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -13671,8 +13663,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='fzggw.zj.gov.cn', port=443): Max retries exceeded with url: /col/col1599544/ (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='fzggw.zj.gov.cn', port=443): Read timed ou"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_271bc860137c",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -13683,13 +13675,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_a85889da2306",
     "name": "国家能源局浙江监管办公室｜政策法规",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:34:20+00:00",
+    "checked_at": "2026-11-26T08:23:12+00:00",
     "found_count": 0,
     "candidate_links": 12,
     "candidate_dated_links": 12,
@@ -13723,8 +13715,8 @@
         "redirect": "https://zjb.nea.gov.cn/dtyw/tzgg/"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_a85889da2306",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -13822,12 +13814,12 @@
     "id": "cn_e8b37b376677",
     "name": "辽宁省政府｜辽政办发",
     "status": "needs_adapter",
-    "checked_at": "2026-11-25T08:42:09+00:00",
+    "checked_at": "2026-11-26T08:31:03+00:00",
     "found_count": 0,
-    "candidate_links": 144,
+    "candidate_links": 145,
     "candidate_dated_links": 0,
     "listing_rows_with_date": 0,
-    "listing_rows_total": 144,
+    "listing_rows_total": 145,
     "listing_pages": 8,
     "oldest_listing_date": "",
     "explicit_end_of_list": false,
@@ -13843,14 +13835,14 @@
     "policy_records_found": 0,
     "full_text_records_found": 0,
     "listing_warnings": [
-      "发布日期缺失：144行",
+      "发布日期缺失：145行",
       "动态分页/日期排序不完整"
     ],
     "content_discovered": false,
     "first_failure_code": null,
     "first_failure_http_status": null,
     "date_coverage_required": false,
-    "message": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：144行、动态分页/日期排序不完整",
+    "message": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：145行、动态分页/日期排序不完整",
     "attempts": [
       {
         "url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/",
@@ -13879,12 +13871,20 @@
         "exhausted": false
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_e8b37b376677",
     "adapter_strategy": "liaoning_publication_column_dual_dates",
     "adapter_live_verified": false,
     "dom_samples_for_diagnosis": [
+      {
+        "catalogue_url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/",
+        "title": "辽宁省人民政府办公厅关于印发《辽宁省自然灾害调查评估暂行办法》的通知",
+        "date": "",
+        "url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/2026n/2026112610205559389/index.shtml",
+        "row_tag": "article_row",
+        "date_field_match": false
+      },
       {
         "catalogue_url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/",
         "title": "辽宁省人民政府办公厅关于印发《辽宁省“十五五”服务业发展规划》的通知",
@@ -13958,10 +13958,10 @@
         "date_field_match": false
       },
       {
-        "catalogue_url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/",
-        "title": "辽宁省人民政府办公厅关于印发《辽宁省消防安全责任制实施办法》的通知",
+        "catalogue_url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/index.shtml",
+        "title": "辽宁省人民政府办公厅关于印发《辽宁省自然灾害调查评估暂行办法》的通知",
         "date": "",
-        "url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/2026n/2026062416403434737/index.shtml",
+        "url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/2026n/2026112610205559389/index.shtml",
         "row_tag": "article_row",
         "date_field_match": false
       },
@@ -13972,14 +13972,6 @@
         "url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/2026n/2026111216243141103/index.shtml",
         "row_tag": "article_row",
         "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/index.shtml",
-        "title": "辽宁省人民政府办公厅关于印发《辽宁省“十五五”社会信用体系建设规划》的通知",
-        "date": "",
-        "url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/2026n/2026102009253162492/index.shtml",
-        "row_tag": "article_row",
-        "date_field_match": false
       }
     ],
     "source_kind": "政策法规",
@@ -13988,13 +13980,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_385aa60c445a",
     "name": "新疆自治区政府｜新政发",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:42:10+00:00",
+    "checked_at": "2026-11-26T08:31:03+00:00",
     "found_count": 0,
     "candidate_links": 12,
     "candidate_dated_links": 8,
@@ -14034,8 +14026,8 @@
         "redirect": "https://www.xinjiang.gov.cn/xinjiang/fgwjx/common_listfgwj.shtml"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_385aa60c445a",
     "adapter_strategy": "xinjiang_named_official_document_column",
     "adapter_live_verified": false,
@@ -14161,7 +14153,7 @@
     "id": "cn_2b0fcb94d833",
     "name": "新疆自治区政府｜新政办发",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:42:13+00:00",
+    "checked_at": "2026-11-26T08:31:04+00:00",
     "found_count": 0,
     "candidate_links": 8,
     "candidate_dated_links": 4,
@@ -14201,8 +14193,8 @@
         "redirect": "https://www.xinjiang.gov.cn/xinjiang/fgwjx/common_listfgwj.shtml"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_2b0fcb94d833",
     "adapter_strategy": "xinjiang_named_official_document_column",
     "adapter_live_verified": false,
@@ -14292,7 +14284,7 @@
     "id": "cn_a51c943c9543",
     "name": "贵州省政府｜黔府办发",
     "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:42:13+00:00",
+    "checked_at": "2026-11-26T08:31:05+00:00",
     "found_count": 1,
     "candidate_links": 0,
     "candidate_dated_links": 0,
@@ -14331,8 +14323,8 @@
         "error": "ConnectionError: HTTPSConnectionPool(host='www.guizhou.gov.cn', port=443): Max retries exceeded with url: /zwgk/zcfg/szfwj/qfbf/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.guizhou.gov.cn', port=443): Fai"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_a51c943c9543",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -14366,7 +14358,7 @@
     "id": "cn_5dab18c54fb9",
     "name": "广东省发展改革委｜规范性文件",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:37:33+00:00",
+    "checked_at": "2026-11-26T08:26:31+00:00",
     "found_count": 0,
     "candidate_links": 40,
     "candidate_dated_links": 40,
@@ -14406,8 +14398,8 @@
         "redirect": "https://drc.gd.gov.cn/gfxwj5633/index_2.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_5dab18c54fb9",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -14533,7 +14525,7 @@
     "id": "cn_236457835be8",
     "name": "广东省发展改革委｜业务通知",
     "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:37:36+00:00",
+    "checked_at": "2026-11-26T08:26:35+00:00",
     "found_count": 0,
     "candidate_links": 40,
     "candidate_dated_links": 40,
@@ -14575,8 +14567,8 @@
         "redirect": "https://drc.gd.gov.cn/ywtz/index_2.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_236457835be8",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -14702,7 +14694,7 @@
     "id": "cn_5555c1d4376e",
     "name": "北极星风力发电网｜风电政策",
     "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:34:03+00:00",
+    "checked_at": "2026-11-26T08:22:54+00:00",
     "found_count": 15,
     "candidate_links": 128,
     "candidate_dated_links": 128,
@@ -14879,8 +14871,8 @@
         "error": "PublicSiteChallenge: 媒体正文返回访问验证页，不能视为已抓取法规原文"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_5555c1d4376e",
     "adapter_strategy": "media_policy_listing",
     "adapter_live_verified": false,
@@ -14897,7 +14889,7 @@
     "id": "cn_b637baec056a",
     "name": "中国能源报·中国能源网",
     "status": "needs_adapter",
-    "checked_at": "2026-11-25T08:42:14+00:00",
+    "checked_at": "2026-11-26T08:31:06+00:00",
     "found_count": 0,
     "candidate_links": 4,
     "candidate_dated_links": 0,
@@ -14939,8 +14931,8 @@
         "redirect": "https://www.cnenergynews.cn/search?keyword=%E9%A3%8E%E7%94%B5%20%E6%94%BF%E7%AD%96"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_b637baec056a",
     "adapter_strategy": "energy_news_search_media_leads",
     "adapter_live_verified": false,
@@ -14988,13 +14980,13 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   {
     "id": "cn_2e22c487ffee",
     "name": "风能产业网｜政策法规",
     "status": "needs_adapter",
-    "checked_at": "2026-11-25T08:42:23+00:00",
+    "checked_at": "2026-11-26T08:31:11+00:00",
     "found_count": 0,
     "candidate_links": 160,
     "candidate_dated_links": 0,
@@ -15266,8 +15258,8 @@
         "redirect": "https://www.cweea.com.cn/zcfg/html/264.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_2e22c487ffee",
     "adapter_strategy": "media_policy_listing",
     "adapter_live_verified": false,
@@ -15387,14 +15379,14 @@
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   {
     "id": "cn_f1e4c09a897d",
     "name": "内蒙古自治区能源局｜通知公告",
-    "status": "ok_with_results",
-    "checked_at": "2026-11-25T08:34:21+00:00",
-    "found_count": 1,
+    "status": "ok_no_recent",
+    "checked_at": "2026-11-26T08:23:13+00:00",
+    "found_count": 0,
     "candidate_links": 15,
     "candidate_dated_links": 15,
     "listing_rows_with_date": 15,
@@ -15411,30 +15403,24 @@
     "coverage_evidence": "国内不要求整段日期覆盖；区分已发现政策、目录解析和访问故障",
     "listing_parse_ok": true,
     "fetch_success": true,
-    "policy_records_found": 1,
-    "full_text_records_found": 1,
+    "policy_records_found": 0,
+    "full_text_records_found": 0,
     "listing_warnings": [],
-    "content_discovered": true,
+    "content_discovered": false,
     "first_failure_code": null,
     "first_failure_http_status": null,
     "date_coverage_required": false,
-    "message": "本轮获取 1 条有来源链接的政策记录，其中正文 1 条；目录行已识别",
+    "message": "政策目录可读，本轮未发现符合条件的新政策",
     "attempts": [
       {
         "url": "https://nyj.nmg.gov.cn/tzgg/",
         "method": "http",
         "status": "read",
         "redirect": "https://nyj.nmg.gov.cn/tzgg/"
-      },
-      {
-        "url": "https://nyj.nmg.gov.cn/tzgg/202610/t20261027_2970055.html",
-        "method": "http",
-        "status": "read",
-        "redirect": "https://nyj.nmg.gov.cn/tzgg/202610/t20261027_2970055.html"
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_f1e4c09a897d",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
@@ -15532,137 +15518,58 @@
   {
     "id": "cn_6d0248c0ef07",
     "name": "西藏发改委｜政策解读",
-    "status": "ok_no_recent",
-    "checked_at": "2026-11-25T08:37:37+00:00",
+    "status": "timeout",
+    "checked_at": "2026-11-26T08:26:35+00:00",
     "found_count": 0,
-    "candidate_links": 19,
-    "candidate_dated_links": 19,
-    "listing_rows_with_date": 19,
-    "listing_rows_total": 19,
-    "listing_pages": 1,
-    "oldest_listing_date": "2020-03-04",
+    "candidate_links": 0,
+    "candidate_dated_links": 0,
+    "listing_rows_with_date": 0,
+    "listing_rows_total": 0,
+    "listing_pages": 0,
+    "oldest_listing_date": "",
     "explicit_end_of_list": false,
-    "chronological_order_verified": false,
+    "chronological_order_verified": true,
     "detail_errors": 0,
     "detail_limit_hit": false,
     "detail_retry_count": 0,
     "listing_coverage_complete": null,
     "coverage_complete": null,
     "coverage_evidence": "国内不要求整段日期覆盖；区分已发现政策、目录解析和访问故障",
-    "listing_parse_ok": true,
-    "fetch_success": true,
+    "listing_parse_ok": false,
+    "fetch_success": false,
     "policy_records_found": 0,
     "full_text_records_found": 0,
     "listing_warnings": [
       "动态分页/日期排序不完整"
     ],
     "content_discovered": false,
-    "first_failure_code": null,
+    "first_failure_code": "timeout",
     "first_failure_http_status": null,
     "date_coverage_required": false,
-    "message": "政策目录可读，本轮未发现符合条件的新政策；提醒：动态分页/日期排序不完整",
+    "message": "官方来源请求超时；有限重试后保留状态，待跨网络复核；提醒：动态分页/日期排序不完整",
     "attempts": [
       {
         "url": "https://drc.xizang.gov.cn/zwgk_1941/zc/",
         "method": "http",
-        "status": "read",
-        "redirect": "https://drc.xizang.gov.cn/zwgk_1941/zc/"
+        "status": "failed",
+        "error_code": "timeout",
+        "http_status": null,
+        "operator_hint": "请求超时；有限重试，并核对境内外访问差异",
+        "error": "ConnectionError: HTTPSConnectionPool(host='drc.xizang.gov.cn', port=443): Max retries exceeded with url: /zwgk_1941/zc/ (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='drc.xizang.gov.cn', port=443): Read timed "
       }
     ],
-    "window_start": "2026-10-27",
-    "window_end": "2026-11-25",
+    "window_start": "2026-10-28",
+    "window_end": "2026-11-26",
     "adapter": "cn_6d0248c0ef07",
     "adapter_strategy": "government_policy_column",
     "adapter_live_verified": false,
-    "dom_samples_for_diagnosis": [
-      {
-        "catalogue_url": "https://drc.xizang.gov.cn/zwgk_1941/zc/",
-        "title": "西藏自治区固定资产投资项目节能审查和碳排放评价办事指南（试行）",
-        "url": "https://drc.xizang.gov.cn/zwgk_1941/zc/202607/t20260723_551101.html",
-        "date": "2026-07-23",
-        "row_tag": "li",
-        "row_class": "clearfix",
-        "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://drc.xizang.gov.cn/zwgk_1941/zc/",
-        "title": "财政部国家发展改革委中国人民银行 金融监管总局关于优化实施设备更新 贷款财政贴息政策的通知",
-        "url": "https://drc.xizang.gov.cn/zwgk_1941/zc/202602/t20260214_525371.html",
-        "date": "2026-02-14",
-        "row_tag": "li",
-        "row_class": "clearfix",
-        "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://drc.xizang.gov.cn/zwgk_1941/zc/",
-        "title": "自治区发展和改革委员会重大行政执法决定法制审核目录清单",
-        "url": "https://drc.xizang.gov.cn/zwgk_1941/zc/202601/t20260112_518482.html",
-        "date": "2026-01-12",
-        "row_tag": "li",
-        "row_class": "clearfix",
-        "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://drc.xizang.gov.cn/zwgk_1941/zc/",
-        "title": "关于印发《西藏自治区发展和改革委员会权责清单(2025版)》《西藏自治区发展和改革委员会行政执法事项目...",
-        "url": "https://drc.xizang.gov.cn/zwgk_1941/zc/202601/P020260112383591323735.pdf",
-        "date": "2026-01-12",
-        "row_tag": "li",
-        "row_class": "clearfix",
-        "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://drc.xizang.gov.cn/zwgk_1941/zc/",
-        "title": "关于印发《全国统一大市场建设指引(试行)》的通知(发改体改〔2024〕1742号)",
-        "url": "https://drc.xizang.gov.cn/zwgk_1941/zc/202503/t20250324_468916.html",
-        "date": "2025-03-24",
-        "row_tag": "li",
-        "row_class": "clearfix",
-        "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://drc.xizang.gov.cn/zwgk_1941/zc/",
-        "title": "《西藏自治区深入推进以人为本的新型城镇化战略五年行动计划实施方案》​政策解读",
-        "url": "https://drc.xizang.gov.cn/zwgk_1941/zc/202503/t20250310_466243.html",
-        "date": "2025-03-10",
-        "row_tag": "li",
-        "row_class": "clearfix",
-        "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://drc.xizang.gov.cn/zwgk_1941/zc/",
-        "title": "《西部地区鼓励类产业目录(2025年本)》2024年第28号令",
-        "url": "https://drc.xizang.gov.cn/zwgk_1941/zc/202412/t20241231_454953.html",
-        "date": "2023-12-31",
-        "row_tag": "li",
-        "row_class": "clearfix",
-        "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://drc.xizang.gov.cn/zwgk_1941/zc/",
-        "title": "西藏自治区冰川保护条例",
-        "url": "https://drc.xizang.gov.cn/zwgk_1941/zc/202408/t20240813_429934.html",
-        "date": "2024-08-13",
-        "row_tag": "li",
-        "row_class": "clearfix",
-        "date_field_match": false
-      },
-      {
-        "catalogue_url": "https://drc.xizang.gov.cn/zwgk_1941/zc/",
-        "title": "《西藏自治区推动大规模设备更新和 消费品以旧换新实施方案》政策解读",
-        "url": "https://drc.xizang.gov.cn/zwgk_1941/zc/202408/t20240801_428116.html",
-        "date": "2024-08-01",
-        "row_tag": "li",
-        "row_class": "clearfix",
-        "date_field_match": false
-      }
-    ],
+    "dom_samples_for_diagnosis": [],
     "source_kind": "政策线索",
     "phase": "rolling_30_days",
-    "initialized": true,
+    "initialized": false,
     "bootstrap_started_on": "2026-10-15",
     "bootstrap_window_start": "2026-09-16",
     "last_verified_date": null,
-    "consecutive_failures": 0
+    "consecutive_failures": 1
   }
 ]

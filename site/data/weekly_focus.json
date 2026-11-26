@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-25T08:54:13+00:00",
+  "generated_at": "2026-11-26T08:41:22+00:00",
   "period": {
     "days": 7,
-    "start": "2026-11-19",
-    "end": "2026-11-25"
+    "start": "2026-11-20",
+    "end": "2026-11-26"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -16,20 +16,41 @@
     "审批政策"
   ],
   "tag_counts": {
-    "竞对资讯": 6,
+    "竞对资讯": 5,
     "招标采购": 3,
-    "市场机制": 0,
+    "市场机制": 1,
     "电网建设": 2,
     "宏观政策": 1,
     "审批政策": 1
   },
   "items": [
     {
+      "country": "全球",
+      "source_name": "Recharge",
+      "title": "Dutch launch offshore wind tender: 'Important test for support level projects currently require'",
+      "translated_title": "荷兰发射岸外风力招标:\"目前需要支持级项目的重大测试\".",
+      "published_at": "2026-11-26",
+      "url": "https://www.rechargenews.com/auctions/dutch-launch-offshore-wind-tender-important-test-for-support-level-projects-currently-require/2-1-2079600",
+      "tags": [
+        "招标采购",
+        "市场机制"
+      ],
+      "competitors": [],
+      "monitor_reason": "招标/采购节点 · 政策正文涉及市场机制 · 标题明确风电",
+      "signals": [
+        "招标采购",
+        "市场机制",
+        "招标/采购节点"
+      ],
+      "rank": 1,
+      "importance_reason": "招标采购 · 市场机制 · 招标/采购节点"
+    },
+    {
       "country": "哈萨克斯坦",
       "source_name": "QazaqGreen",
       "title": "24.11.2026 Construction is underway on a 500 MW wind farm on Egypt's Red Sea coast",
       "translated_title": "24.11.2026 埃及红海沿岸500兆瓦风力场正在建造中",
-      "published_at": "2026-11-24",
+      "published_at": "2026-11-25",
       "url": "https://qazaqgreen.com/en/news/world/4029/",
       "tags": [
         "招标采购",
@@ -42,7 +63,7 @@
         "招标采购",
         "电网建设"
       ],
-      "rank": 1,
+      "rank": 2,
       "importance_reason": "500 MW · 招标采购 · 电网建设"
     },
     {
@@ -64,7 +85,7 @@
         "ReNew",
         "宏观/产业政策"
       ],
-      "rank": 2,
+      "rank": 3,
       "importance_reason": "宏观政策 · ReNew · 宏观/产业政策"
     },
     {
@@ -87,7 +108,7 @@
         "审批政策",
         "Skyborn"
       ],
-      "rank": 3,
+      "rank": 4,
       "importance_reason": "竞对资讯 · 审批政策 · Skyborn"
     },
     {
@@ -95,7 +116,7 @@
       "source_name": "QazaqGreen",
       "title": "12.11.2026 RWE and KKR commit £12 billion to UK offshore wind",
       "translated_title": "12.11.2026 RWE和KKR承诺向英国近海风力提供120亿英镑.",
-      "published_at": "2026-11-24",
+      "published_at": "2026-11-25",
       "url": "https://qazaqgreen.com/en/news/world/4012/",
       "tags": [
         "竞对资讯",
@@ -110,7 +131,7 @@
         "竞对资讯",
         "电网建设"
       ],
-      "rank": 4,
+      "rank": 5,
       "importance_reason": "2.8 GW · 竞对资讯 · 电网建设"
     },
     {
@@ -132,8 +153,33 @@
         "竞对资讯",
         "ReNew"
       ],
-      "rank": 5,
+      "rank": 6,
       "importance_reason": "1 GW · 竞对资讯 · ReNew"
+    },
+    {
+      "country": "全球",
+      "source_name": "Recharge",
+      "title": "Irish renewables auction disappoints for wind but delivers for solar",
+      "translated_title": "爱尔兰的可再生能源拍卖令风力失望,但太阳能拍卖",
+      "published_at": "2026-11-25",
+      "url": "https://www.rechargenews.com/auctions/irish-renewables-auction-disappoints-for-wind-but-delivers-for-solar/2-1-2079719",
+      "tags": [
+        "竞对资讯",
+        "招标采购"
+      ],
+      "competitors": [
+        "Copenhagen Infrastructure Partners",
+        "ReNew",
+        "Statkraft"
+      ],
+      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
+      "signals": [
+        "竞对资讯",
+        "招标采购",
+        "Copenhagen Infrastructure Partners"
+      ],
+      "rank": 7,
+      "importance_reason": "竞对资讯 · 招标采购 · Copenhagen Infrastructure Partners"
     },
     {
       "country": "哈萨克斯坦",
@@ -154,55 +200,8 @@
         "竞对资讯",
         "ReNew"
       ],
-      "rank": 6,
-      "importance_reason": "1 GW · 竞对资讯 · ReNew"
-    },
-    {
-      "country": "全球",
-      "source_name": "Recharge",
-      "title": "Green Volt locks in Siemens Gamesa floating wind turbines after Mingyang setback",
-      "translated_title": "西门子游戏中的绿色伏特锁 明阳挫折后浮动风力涡轮",
-      "published_at": "2026-11-24",
-      "url": "https://www.rechargenews.com/floating-wind/green-volt-locks-in-siemens-gamesa-floating-wind-turbines-after-mingyang-setback/2-1-2078365",
-      "tags": [
-        "竞对资讯",
-        "招标采购"
-      ],
-      "competitors": [
-        "Siemens Gamesa",
-        "MingYang"
-      ],
-      "monitor_reason": "正文含招标/采购 · 竞对项目动态 · 标题明确风电",
-      "signals": [
-        "竞对资讯",
-        "招标采购",
-        "Siemens Gamesa"
-      ],
-      "rank": 7,
-      "importance_reason": "竞对资讯 · 招标采购 · Siemens Gamesa"
-    },
-    {
-      "country": "全球",
-      "source_name": "Recharge",
-      "title": "RWE UK chief delivers verdict on wind and solar auction revamp",
-      "translated_title": "RWE 英国首席发布关于风能和太阳能拍卖的判决",
-      "published_at": "2026-11-20",
-      "url": "https://www.rechargenews.com/auctions/rwe-uk-chief-delivers-verdict-on-wind-and-solar-auction-revamp/2-1-2077038",
-      "tags": [
-        "竞对资讯",
-        "招标采购"
-      ],
-      "competitors": [
-        "RWE"
-      ],
-      "monitor_reason": "招标/采购节点 · 竞对项目动态 · 标题明确风电",
-      "signals": [
-        "竞对资讯",
-        "招标采购",
-        "RWE"
-      ],
       "rank": 8,
-      "importance_reason": "竞对资讯 · 招标采购 · RWE"
+      "importance_reason": "1 GW · 竞对资讯 · ReNew"
     }
   ]
 }

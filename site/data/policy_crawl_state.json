@@ -1,35 +1,35 @@
 {
   "version": "V7-province-first",
   "scope": "provincial",
-  "last_run": "2026-11-25T08:44:51+00:00",
+  "last_run": "2026-11-26T08:32:12+00:00",
   "configured_source_count": 139,
   "attempted_source_count": 118,
   "initial_phase_count": 20,
   "incremental_phase_count": 1,
-  "initialized_source_count": 59,
-  "pending_initialization_count": 80,
+  "initialized_source_count": 56,
+  "pending_initialization_count": 83,
   "bootstrap_days": 30,
   "daily_overlap_days": 2,
   "domestic_lookback_days": 30,
   "domestic_time_coverage_required": false,
-  "domestic_successful_listings": 51,
-  "domestic_sources_with_discoveries": 17,
-  "detail_pending_source_count": 5,
-  "detail_pending_count": 90,
+  "domestic_successful_listings": 50,
+  "domestic_sources_with_discoveries": 14,
+  "detail_pending_source_count": 4,
+  "detail_pending_count": 89,
   "listing_verified_count": 0,
   "status_counts": {
-    "blocked": 16,
+    "blocked": 18,
     "connection_error": 32,
     "http_error": 2,
     "needs_adapter": 15,
     "ok_no_recent": 41,
-    "ok_with_results": 17,
+    "ok_with_results": 14,
     "partial_coverage": 10,
-    "timeout": 6
+    "timeout": 7
   },
   "change_counts": {
     "inserted": 0,
     "updated": 0,
-    "unchanged": 32
+    "unchanged": 29
   }
 }
