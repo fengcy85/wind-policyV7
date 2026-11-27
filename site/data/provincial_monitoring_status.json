@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:32:12.625449+00:00",
+  "generated_at": "2026-11-27T08:40:59.439233+00:00",
   "warning": "国内不强制证明整段时间覆盖；已发现政策和正常目录读取才是采集结果，媒体线索不是官方法规，仍需留意漏抓风险",
   "province_count": 31,
   "provinces": [
@@ -25,7 +25,7 @@
       "readable_official_catalogues": 4,
       "successful_source_feeds": 4,
       "domestic_date_coverage_required": false,
-      "official_policy_records": 20,
+      "official_policy_records": 21,
       "media_clues": 0,
       "issues": []
     },
@@ -628,17 +628,17 @@
         {
           "name": "湖南省发改委",
           "status": "connection_error",
-          "reason": "TLS 握手失败；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
         },
         {
           "name": "湖南省工信厅",
           "status": "connection_error",
-          "reason": "TLS 握手失败；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
         },
         {
           "name": "湖南省人民政府",
           "status": "connection_error",
-          "reason": "TLS 握手失败；待境内外执行端比对；提醒：动态分页/日期排序不完整"
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
         }
       ]
     },
@@ -923,8 +923,8 @@
         },
         {
           "name": "西藏人民政府",
-          "status": "needs_adapter",
-          "reason": "网站可访问，但真实列表行或发布日期没有充分识别；需针对网页结构调整解析（非时间覆盖强制校验）；提醒：发布日期缺失：12行"
+          "status": "connection_error",
+          "reason": "官方来源网络不可达；待境内外执行端比对；提醒：动态分页/日期排序不完整"
         }
       ]
     },

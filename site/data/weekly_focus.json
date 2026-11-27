@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-26T08:41:22+00:00",
+  "generated_at": "2026-11-27T08:50:13+00:00",
   "period": {
     "days": 7,
-    "start": "2026-11-20",
-    "end": "2026-11-26"
+    "start": "2026-11-21",
+    "end": "2026-11-27"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -16,11 +16,11 @@
     "审批政策"
   ],
   "tag_counts": {
-    "竞对资讯": 5,
+    "竞对资讯": 6,
     "招标采购": 3,
     "市场机制": 1,
     "电网建设": 2,
-    "宏观政策": 1,
+    "宏观政策": 0,
     "审批政策": 1
   },
   "items": [
@@ -68,28 +68,6 @@
     },
     {
       "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "Baltic Sea countries to pursue single offshore wind strategy",
-      "translated_title": "波罗的海国家实施单一的岸外风能战略",
-      "published_at": "2026-11-20",
-      "url": "https://renewablesnow.com/news/baltic-sea-countries-to-pursue-single-offshore-wind-strategy-1305356/",
-      "tags": [
-        "宏观政策"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "宏观/产业政策 · 标题明确风电",
-      "signals": [
-        "宏观政策",
-        "ReNew",
-        "宏观/产业政策"
-      ],
-      "rank": 3,
-      "importance_reason": "宏观政策 · ReNew · 宏观/产业政策"
-    },
-    {
-      "country": "全球",
       "source_name": "Recharge",
       "title": "Skyborn Sweden chief demands CfDs as 'clock ticking' on permitted offshore projects",
       "translated_title": "Skyborn瑞典酋长要求CfD作为允许的境外项目的\"点滴\".",
@@ -108,7 +86,7 @@
         "审批政策",
         "Skyborn"
       ],
-      "rank": 4,
+      "rank": 3,
       "importance_reason": "竞对资讯 · 审批政策 · Skyborn"
     },
     {
@@ -131,7 +109,7 @@
         "竞对资讯",
         "电网建设"
       ],
-      "rank": 5,
+      "rank": 4,
       "importance_reason": "2.8 GW · 竞对资讯 · 电网建设"
     },
     {
@@ -153,7 +131,7 @@
         "竞对资讯",
         "ReNew"
       ],
-      "rank": 6,
+      "rank": 5,
       "importance_reason": "1 GW · 竞对资讯 · ReNew"
     },
     {
@@ -178,7 +156,7 @@
         "招标采购",
         "Copenhagen Infrastructure Partners"
       ],
-      "rank": 7,
+      "rank": 6,
       "importance_reason": "竞对资讯 · 招标采购 · Copenhagen Infrastructure Partners"
     },
     {
@@ -200,8 +178,30 @@
         "竞对资讯",
         "ReNew"
       ],
-      "rank": 8,
+      "rank": 7,
       "importance_reason": "1 GW · 竞对资讯 · ReNew"
+    },
+    {
+      "country": "全球",
+      "source_name": "Renewables Now",
+      "title": "China Huaneng connects 400-MW wind farm in Heilongjiang to grid",
+      "translated_title": "中国万源连接黑龙江400兆瓦风电场与电网",
+      "published_at": "2026-11-25",
+      "url": "https://renewablesnow.com/news/china-huaneng-connects-400-mw-wind-farm-in-heilongjiang-to-grid-1305579/",
+      "tags": [
+        "竞对资讯"
+      ],
+      "competitors": [
+        "ReNew"
+      ],
+      "monitor_reason": "竞对项目动态 · 标题明确风电",
+      "signals": [
+        "400 MW",
+        "竞对资讯",
+        "ReNew"
+      ],
+      "rank": 8,
+      "importance_reason": "400 MW · 竞对资讯 · ReNew"
     }
   ]
 }

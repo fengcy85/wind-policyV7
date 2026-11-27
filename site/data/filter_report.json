@@ -1,24 +1,73 @@
 {
-  "generated_at": "2026-11-26T08:41:22+00:00",
-  "before": 493,
-  "kept": 431,
-  "filtered_out": 62,
+  "generated_at": "2026-11-27T08:50:13+00:00",
+  "before": 497,
+  "kept": 432,
+  "filtered_out": 65,
   "tag_counts": {
+    "招标采购": 102,
     "竞对资讯": 368,
-    "招标采购": 101,
     "市场机制": 18,
-    "审批政策": 51,
     "电网建设": 31,
+    "审批政策": 51,
     "宏观政策": 4
   },
   "rejected_examples": [
     {
-      "title": "Offshore Wind",
+      "title": "Onshore Wind",
       "source_name": "Renewables Now",
-      "published_at": "2026-11-26",
-      "url": "https://renewablesnow.com/news/offshore-wind/",
+      "published_at": "2026-11-27",
+      "url": "https://renewablesnow.com/news/wind/",
       "reasons": [
         "标题无效/栏目标题"
+      ]
+    },
+    {
+      "title": "Nordic Ren-Gas arranges wind power offtake for Finnish e-methane plant",
+      "source_name": "Renewables Now",
+      "published_at": "2026-11-27",
+      "url": "https://renewablesnow.com/news/nordic-ren-gas-arranges-wind-power-offtake-for-finnish-e-methane-plant-1305757/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "China's total installed solar, wind capacity tops 2 TW at end-Oct",
+      "source_name": "Renewables Now",
+      "published_at": "2026-11-27",
+      "url": "https://renewablesnow.com/news/chinas-total-installed-solar-wind-capacity-tops-2-tw-at-end-oct-1305756/",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "CBAM: complex products need full impact assessment",
+      "source_name": "WindEurope",
+      "published_at": "2026-11-26",
+      "url": "https://windeurope.org/news/cbam-complex-products-need-full-impact-assessment/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
+      "title": "Chinese wind components caught in EU anti-dumping probe",
+      "source_name": "Recharge",
+      "published_at": "2026-11-26",
+      "url": "https://www.rechargenews.com/legal/chinese-wind-components-caught-in-eu-anti-dumping-probe/2-1-2080202",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
+      ]
+    },
+    {
+      "title": "China puts brake on batteries: industrial strategy or wind’s mistakes repeated?",
+      "source_name": "Recharge",
+      "published_at": "2026-11-26",
+      "url": "https://www.rechargenews.com/analysis/china-puts-brake-on-batteries-industrial-strategy-or-wind-s-mistakes-repeated-/2-1-2064276",
+      "reasons": [
+        "无六类监测标签",
+        "标题明确风电"
       ]
     },
     {
@@ -88,10 +137,10 @@
       ]
     },
     {
-      "title": "New York doubles down on offshore wind after Trump election rebuke",
-      "source_name": "Recharge",
-      "published_at": "2026-11-23",
-      "url": "https://www.rechargenews.com/offshore-wind/new-york-doubles-down-on-offshore-wind-after-trump-election-rebuke/2-1-2078374",
+      "title": "Khởi công dự án Điện gió Tây Hồ - Chư Prông và Điện mặt trời nổi Bàu Cạn (tại Gia Lai)",
+      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
+      "published_at": "2026-11-18",
+      "url": "https://nangluongvietnam.vn/khoi-cong-du-an-dien-gio-tay-ho-chu-prong-va-dien-mat-troi-noi-bau-can-tai-gia-lai-36938.html",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -118,20 +167,10 @@
       ]
     },
     {
-      "title": "Khởi công dự án Điện gió Tây Hồ - Chư Prông và Điện mặt trời nổi Bàu Cạn (tại Gia Lai)",
-      "source_name": "Tạp chí Năng lượng Việt Nam（越南能源杂志）",
-      "published_at": "2026-11-18",
-      "url": "https://nangluongvietnam.vn/khoi-cong-du-an-dien-gio-tay-ho-chu-prong-va-dien-mat-troi-noi-bau-can-tai-gia-lai-36938.html",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
-      ]
-    },
-    {
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-11-17",
-      "url": "https://renewablewatch.in/2026/09/10/vsl-powerhive-launches-liquid-cooled-bess-for-ci-applications/",
+      "url": "https://renewablewatch.in/2026/08/20/trinasolar-introduces-typhoon-resistant-solar-pv-module-series/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -140,7 +179,7 @@
       "title": "post image",
       "source_name": "Renewable Watch",
       "published_at": "2026-11-17",
-      "url": "https://renewablewatch.in/2026/08/20/trinasolar-introduces-typhoon-resistant-solar-pv-module-series/",
+      "url": "https://renewablewatch.in/2026/09/10/vsl-powerhive-launches-liquid-cooled-bess-for-ci-applications/",
       "reasons": [
         "风电相关性不足"
       ]
@@ -164,20 +203,20 @@
       ]
     },
     {
-      "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
+      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=390",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "PetroEnergy Completes Full Acquisition of PetroWind’s 49.2 MW Wind Portfolio in the Philippines",
+      "title": "Kazakhstan Takes Another Step Toward Local Wind Energy Manufacturing",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=391",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=390",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -194,20 +233,20 @@
       ]
     },
     {
-      "title": "From Guangzhou to Bangkok: Bringing the Global Wind Industry to Southeast Asia",
+      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=402",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
       ]
     },
     {
-      "title": "Vietnam Offshore Wind Update | Pacifico Energy Advances 1.8 GW Pipeline",
+      "title": "From Guangzhou to Bangkok: Bringing the Global Wind Industry to Southeast Asia",
       "source_name": "ASEAN Wind Energy Expo",
       "published_at": "2026-11-16",
-      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=421",
+      "url": "https://www.aseanwindenergyexpo.com/article/show_article.php?id=402",
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
@@ -342,7 +381,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-11-04",
-      "url": "https://www.aa.com.tr/en/energy/renewable",
+      "url": "https://www.aa.com.tr/en/energy/finance",
       "reasons": [
         "风电相关性不足"
       ]
@@ -351,7 +390,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-11-04",
-      "url": "https://www.aa.com.tr/en/energy/finance",
+      "url": "https://www.aa.com.tr/en/energy/renewable",
       "reasons": [
         "风电相关性不足"
       ]
@@ -399,7 +438,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
+      "url": "https://www.aa.com.tr/en/energy/electricity",
       "reasons": [
         "风电相关性不足"
       ]
@@ -408,7 +447,7 @@
       "title": "Anadolu Agency",
       "source_name": "Anadolu Agency Energy – Wind",
       "published_at": "2026-10-14",
-      "url": "https://www.aa.com.tr/en/energy/electricity",
+      "url": "https://www.aa.com.tr/en/energy/regulation-renewable",
       "reasons": [
         "风电相关性不足"
       ]
@@ -430,15 +469,6 @@
       "url": "https://windeurope.org/news/how-wind-energy-supports-biodiversity/",
       "reasons": [
         "正文明确涉及风电"
-      ]
-    },
-    {
-      "title": "Mayur Dhamale: Head – Acquisitions, Investments & Financial Advisory, ENGIE",
-      "source_name": "Renewable Watch",
-      "published_at": "2026-10-09",
-      "url": "https://renewablewatch.in/2026/10/15/mayur-dhamale-head-acquisitions-investments-financial-advisory-engie/",
-      "reasons": [
-        "风电相关性不足"
       ]
     },
     {
@@ -481,21 +511,21 @@
       ]
     },
     {
+      "title": "Connecting Grids: Canada moves towards an integrated power system",
+      "source_name": "Renewable Watch",
+      "published_at": "2026-10-01",
+      "url": "https://renewablewatch.in/2026/10/08/connecting-grids-canada-moves-towards-an-integrated-power-system/",
+      "reasons": [
+        "风电相关性不足"
+      ]
+    },
+    {
       "title": "Interview with Efectis' Dr Daniel Joyeux",
       "source_name": "Renewable Watch",
       "published_at": "2026-10-01",
       "url": "https://renewablewatch.in/2026/10/01/interview-with-efectis-dr-daniel-joyeux/",
       "reasons": [
         "风电相关性不足"
-      ]
-    },
-    {
-      "title": "WindEurope backs Türkiye's focus on electrification at COP31",
-      "source_name": "Anadolu Agency Energy – Wind",
-      "published_at": "2026-09-30",
-      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy/windeurope-backs-turkiyes-focus-on-electrification-at-cop31/59908",
-      "reasons": [
-        "正文明确涉及风电"
       ]
     },
     {
@@ -506,6 +536,15 @@
       "reasons": [
         "无六类监测标签",
         "标题明确风电"
+      ]
+    },
+    {
+      "title": "WindEurope backs Türkiye's focus on electrification at COP31",
+      "source_name": "Anadolu Agency Energy – Wind",
+      "published_at": "2026-09-30",
+      "url": "https://www.aa.com.tr/en/energy/energy-diplomacy/windeurope-backs-turkiyes-focus-on-electrification-at-cop31/59908",
+      "reasons": [
+        "正文明确涉及风电"
       ]
     },
     {
@@ -572,16 +611,6 @@
       "url": "https://windinsider.com/2026/09/22/aptel-clarifies-cerc-arbitration-powers-and-corrects-dvc-judgment-interpretation/",
       "reasons": [
         "风电相关性不足"
-      ]
-    },
-    {
-      "title": "Wind industry names new leadership to turn record year into lasting momentum",
-      "source_name": "WindEurope",
-      "published_at": "2026-09-16",
-      "url": "https://windeurope.org/news/wind-industry-names-new-leadership-to-turn-record-year-into-lasting-momentum/",
-      "reasons": [
-        "无六类监测标签",
-        "标题明确风电"
       ]
     },
     {
