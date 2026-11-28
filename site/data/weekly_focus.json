@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-27T08:50:13+00:00",
+  "generated_at": "2026-11-28T08:06:14+00:00",
   "period": {
     "days": 7,
-    "start": "2026-11-21",
-    "end": "2026-11-27"
+    "start": "2026-11-22",
+    "end": "2026-11-28"
   },
   "selection_note": "仅从六类战略监测新闻中自动精选：政策与机制优先，其次为重大招标、竞对项目、电网与审批节点。",
   "count": 8,
@@ -19,7 +19,7 @@
     "竞对资讯": 6,
     "招标采购": 3,
     "市场机制": 1,
-    "电网建设": 2,
+    "电网建设": 3,
     "宏观政策": 0,
     "审批政策": 1
   },
@@ -160,6 +160,30 @@
       "importance_reason": "竞对资讯 · 招标采购 · Copenhagen Infrastructure Partners"
     },
     {
+      "country": "全球",
+      "source_name": "Renewables Now",
+      "title": "CIP awards onshore substation contract for Fengmiao II off Taiwan",
+      "translated_title": "CIP公司在台湾外方的 \" 凤毛麟角 \" 二号分站合同",
+      "published_at": "2026-11-27",
+      "url": "https://renewablesnow.com/news/cip-awards-onshore-substation-contract-for-fengmiao-ii-off-taiwan-1305804/",
+      "tags": [
+        "竞对资讯",
+        "电网建设"
+      ],
+      "competitors": [
+        "CIP",
+        "ReNew"
+      ],
+      "monitor_reason": "电网/送出建设 · 竞对项目动态 · 标题明确风电",
+      "signals": [
+        "竞对资讯",
+        "电网建设",
+        "CIP"
+      ],
+      "rank": 7,
+      "importance_reason": "竞对资讯 · 电网建设 · CIP"
+    },
+    {
       "country": "哈萨克斯坦",
       "source_name": "QazaqGreen",
       "title": "12.11.2026 Agreements to build two wind farms in Kazakhstan signed at COP31",
@@ -178,30 +202,8 @@
         "竞对资讯",
         "ReNew"
       ],
-      "rank": 7,
-      "importance_reason": "1 GW · 竞对资讯 · ReNew"
-    },
-    {
-      "country": "全球",
-      "source_name": "Renewables Now",
-      "title": "China Huaneng connects 400-MW wind farm in Heilongjiang to grid",
-      "translated_title": "中国万源连接黑龙江400兆瓦风电场与电网",
-      "published_at": "2026-11-25",
-      "url": "https://renewablesnow.com/news/china-huaneng-connects-400-mw-wind-farm-in-heilongjiang-to-grid-1305579/",
-      "tags": [
-        "竞对资讯"
-      ],
-      "competitors": [
-        "ReNew"
-      ],
-      "monitor_reason": "竞对项目动态 · 标题明确风电",
-      "signals": [
-        "400 MW",
-        "竞对资讯",
-        "ReNew"
-      ],
       "rank": 8,
-      "importance_reason": "400 MW · 竞对资讯 · ReNew"
+      "importance_reason": "1 GW · 竞对资讯 · ReNew"
     }
   ]
 }
